@@ -9,5 +9,10 @@
         "text_wrong": "Wrong! Try again.",
         "text_finish": "Quiz Finished!",
         "text_content" : "Sound: "
-    }
+    },
+    {
+        "id" : 2,
+        "title" : "Pronounce",
+        "url" : "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_UK.txt"
+      }
 ]
