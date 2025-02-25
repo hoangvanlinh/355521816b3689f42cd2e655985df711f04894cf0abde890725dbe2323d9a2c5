@@ -1,0 +1,486 @@
+{
+    "1": {
+      "letters": {
+        "type": "short vowels"
+      },
+      "comparison": {
+        "difference": "/ɪ/ is shorter and more relaxed, while /iː/ is longer and more tense."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɪ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, slightly raised but not as high as /iː/.</li> <li><strong>Jaw opening:</strong> Slightly open, not too wide.</li> <li><strong>Lip shape:</strong> Relaxed, slightly open, not rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your mouth slightly open, without tensing your lips.</li> <li>Position your tongue towards the front and slightly raised.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /iː/.</li> <li>Compare it with the /iː/ sound by practicing word pairs like <em>bit</em> - <em>beat</em>.</li> </ol>"
+      }
+    },
+    "2": {
+      "letters": {
+        "type": "short vowels"
+      },
+      "comparison": {
+        "difference": "/ʊ/ is shorter and more relaxed, while /uː/ is longer and more tense."
+      },
+      "description": {
+        "describe": "<p><strong>The /ʊ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> High but slightly lower than /uː/.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Rounded but less than in /uː/.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your lips slightly rounded.</li> <li>Position your tongue high, but not as high as for /uː/.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it like /uː/.</li> <li>Compare it with the /uː/ sound by practicing word pairs like <em>pull</em> - <em>pool</em>.</li> </ol>"
+      }
+    },
+    "3": {
+      "letters": {
+        "type": "short vowels"
+      },
+      "comparison": {
+        "difference": "/ɛ/ is a short, relaxed vowel, while /eɪ/ is a diphthong that glides from /ɛ/ to /ɪ/."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɛ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, mid-low.</li> <li><strong>Jaw opening:</strong> Medium open.</li> <li><strong>Lip shape:</strong> Relaxed, not rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short, not prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your mouth slightly open, with relaxed lips.</li> <li>Position your tongue in the middle of the mouth, slightly raised at the front.</li> <li>Pronounce the sound quickly and shortly, avoiding lengthening it into /eɪ/.</li> <li>Compare it with the /eɪ/ sound by practicing word pairs like <em>bed</em> - <em>bait</em>.</li> </ol>"
+      }
+    },
+    "4": {
+      "letters": {
+        "type": "short vowels"
+      },
+      "comparison": {
+        "difference": "/æ/ is shorter and more fronted, while /ɑː/ is longer and more open."
+      },
+      "description": {
+        "describe": "<p><strong>The /æ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, low, with the jaw open wide.</li> <li><strong>Jaw opening:</strong> Wide open.</li> <li><strong>Lip shape:</strong> Neutral, slightly spread.</li> <li><strong>Tongue tension:</strong> More tense than /ɪ/.</li> <li><strong>Duration:</strong> Short, but slightly longer than /ɪ/.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth wide and lower your tongue.</li> <li>Position your tongue towards the front of the mouth.</li> <li>Compare it with the /ɪ/ sound by practicing word pairs like <em>bat</em> - <em>bit</em>.</li> </ol>"
+      }
+    },
+    "5": {
+      "letters": {
+        "type": "short vowels"
+      },
+      "comparison": {
+        "difference": "/ʌ/ is shorter and more central, while /ɑː/ is longer and more open."
+      },
+      "description": {
+        "describe": "<p><strong>The /ʌ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Central, slightly raised but lower than /ɪ/.</li> <li><strong>Jaw opening:</strong> Moderately open.</li> <li><strong>Lip shape:</strong> Neutral, slightly relaxed.</li> <li><strong>Tongue tension:</strong> More relaxed than /ɪ/.</li> <li><strong>Duration:</strong> Short, but slightly longer than /ɪ/.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth slightly and relax your tongue.</li> <li>Position your tongue in the middle of the mouth.</li> <li>Compare it with the /ɪ/ sound by practicing word pairs like <em>cup</em> - <em>kip</em>.</li> </ol>"
+      }
+    },
+    "6": {
+      "letters": {
+        "type": "short vowels"
+      },
+      "comparison": {
+        "difference": "/ɒ/ is shorter and more open, while /ɔː/ is longer and more rounded."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɒ/ sound</strong> is a short vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Back, slightly low.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Rounded.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Short.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth slightly and round your lips.</li> <li>Position your tongue towards the back of the mouth.</li> <li>Compare it with the /ɑː/ sound by practicing word pairs like <em>cot</em> - <em>cart</em>.</li> </ol>"
+      }
+    },
+    "7": {
+      "letters": {
+        "type": "mid-central vowel"
+      },
+      "comparison": {
+        "difference": "/ə/ is always unstressed, while /ʌ/ can be stressed. /ə/ is the most common vowel sound in English."
+      },
+      "description": {
+        "describe": "<p><strong>The /ə/ sound (schwa)</strong> is the most common vowel sound in English, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Central, relaxed.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Neutral.</li> <li><strong>Tongue tension:</strong> Relaxed.</li> <li><strong>Duration:</strong> Very short.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Relax your mouth and tongue.</li> <li>Do not stress the syllable containing /ə/.</li> <li>Compare it with a stressed vowel by practicing word pairs like <em>sofa</em> - <em>cup</em>.</li> </ol>"
+      }
+    },
+    "8": {
+      "letters": {
+        "type": "long vowel"
+      },
+      "comparison": {
+        "difference": "/iː/ is longer and tenser, while /ɪ/ is shorter and more relaxed."
+      },
+      "description": {
+        "describe": "<p><strong>The /iː/ sound</strong> is a long vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Front, high, and tense.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Unrounded and slightly spread.</li> <li><strong>Tongue tension:</strong> Tense.</li> <li><strong>Duration:</strong> Long and held.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your tongue high and forward in the mouth.</li> <li>Stretch your lips slightly into a smile.</li> <li>Hold the sound longer than /ɪ/.</li> <li>Compare it with the /ɪ/ sound by practicing word pairs like <em>sheep</em> - <em>ship</em>.</li> </ol>"
+      }
+    },
+    "9": {
+      "letters": {
+        "type": "long vowel"
+      },
+      "comparison": {
+        "difference": "/uː/ is longer and tenser, while /ʊ/ is shorter and more relaxed."
+      },
+      "description": {
+        "describe": "<p><strong>The /uː/ sound</strong> is a long vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Back, high, and tense.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Rounded.</li> <li><strong>Tongue tension:</strong> Tense.</li> <li><strong>Duration:</strong> Long and held.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your tongue high and back in the mouth.</li> <li>Round your lips slightly.</li> <li>Hold the sound longer than /ʊ/.</li> <li>Compare it with the /ʊ/ sound by practicing word pairs like <em>pool</em> - <em>pull</em>.</li> </ol>"
+      }
+    },
+    "10": {
+      "letters": {
+        "type": "long vowel"
+      },
+      "comparison": {
+        "difference": "/ɜː/ is a longer, stressed vowel, while /ə/ (schwa) is shorter and always unstressed."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɜː/ sound</strong> is a long vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Mid-central and tense.</li> <li><strong>Jaw opening:</strong> Slightly open.</li> <li><strong>Lip shape:</strong> Neutral, not rounded.</li> <li><strong>Tongue tension:</strong> Tense.</li> <li><strong>Duration:</strong> Long and held.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your tongue in the center of your mouth.</li> <li>Do not round your lips.</li> <li>Hold the sound longer than /ə/.</li> <li>Compare it with the /ə/ sound by practicing word pairs like <em>her</em> - <em>sofa</em>.</li> </ol>"
+      }
+    },
+    "11": {
+      "letters": {
+        "type": "long vowel"
+      },
+      "comparison": {
+        "difference": "/ɔː/ is longer and more rounded, while /ɒ/ is shorter and more open."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɔː/ sound</strong> is a long vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Back, mid-low, and tense.</li> <li><strong>Jaw opening:</strong> Medium open.</li> <li><strong>Lip shape:</strong> Rounded.</li> <li><strong>Tongue tension:</strong> Tense.</li> <li><strong>Duration:</strong> Long and held.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep your tongue in the back of your mouth, slightly low.</li> <li>Round your lips moderately.</li> <li>Hold the sound longer than /ɒ/.</li> <li>Compare it with the /ɒ/ sound by practicing word pairs like <em>law</em> - <em>lot</em>.</li> </ol>"
+      }
+    },
+    "12": {
+      "letters": {
+        "type": "long vowel"
+      },
+      "comparison": {
+        "difference": "/ɑː/ is longer and produced with a more open mouth, while /æ/ is shorter and more fronted."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɑː/ sound</strong> is a long vowel, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Back, low, and tense.</li> <li><strong>Jaw opening:</strong> Wide open.</li> <li><strong>Lip shape:</strong> Neutral, not rounded.</li> <li><strong>Tongue tension:</strong> Tense.</li> <li><strong>Duration:</strong> Long and held.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Open your mouth wide and relax your lips.</li> <li>Place your tongue low and slightly back in the mouth.</li> <li>Hold the sound longer than /æ/.</li> <li>Compare it with the /æ/ sound by practicing word pairs like <em>car</em> - <em>cat</em>.</li> </ol>"
+      }
+    },
+    "13": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/eɪ/ is a diphthong that glides from /e/ to /ɪ/, while /ɛ/ is a short, monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /eɪ/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in the mid-front position (/e/), then moves up slightly towards /ɪ/.</li> <li><strong>Jaw opening:</strong> Slightly open, then closes slightly.</li> <li><strong>Lip shape:</strong> Relaxed and slightly spread.</li> <li><strong>Tongue tension:</strong> Moves from relaxed to slightly tenser.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue in a mid-front position (/e/).</li> <li>Move your tongue slightly up and towards the front (/ɪ/).</li> <li>Do not separate the two sounds; glide smoothly between them.</li> <li>Compare it with /ɛ/ by practicing word pairs like <em>late</em> - <em>let</em>.</li> </ol>"
+      }
+    },
+    "14": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/aɪ/ is a diphthong that glides from /a/ to /ɪ/, while /æ/ is a short, monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /aɪ/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts low and moves up to a high-front position.</li> <li><strong>Jaw opening:</strong> Starts open and closes slightly.</li> <li><strong>Lip shape:</strong> Neutral, then slightly spread.</li> <li><strong>Tongue tension:</strong> Moves from relaxed to slightly tenser.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue in a low position.</li> <li>Move your tongue up towards the high-front position.</li> <li>Do not separate the two sounds; glide smoothly between them.</li> <li>Compare it with /æ/ by practicing word pairs like <em>ride</em> - <em>rad</em>.</li> </ol>"
+      }
+    },
+    "15": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/ɔɪ/ is a diphthong that glides from /ɔ/ to /ɪ/, while /ɔː/ is a long, monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɔɪ/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in a mid-back rounded position (/ɔ/), then moves up to a high-front position (/ɪ/).</li> <li><strong>Jaw opening:</strong> Starts slightly open and closes slightly.</li> <li><strong>Lip shape:</strong> Starts rounded, then spreads slightly.</li> <li><strong>Tongue tension:</strong> Moves from relaxed to slightly tenser.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue in a mid-back rounded position (/ɔ/).</li> <li>Move your tongue up towards the high-front position (/ɪ/).</li> <li>Do not separate the two sounds; glide smoothly between them.</li> <li>Compare it with /ɔː/ by practicing word pairs like <em>boy</em> - <em>bore</em>.</li> </ol>"
+      }
+    },
+    "16": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/aʊ/ is a diphthong that glides from /a/ to /ʊ/, while /æ/ is a short, monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /aʊ/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in a low, front position (/a/), then moves up to a high-back rounded position (/ʊ/).</li> <li><strong>Jaw opening:</strong> Starts open and closes slightly.</li> <li><strong>Lip shape:</strong> Starts neutral and moves to rounded.</li> <li><strong>Tongue tension:</strong> Moves from relaxed to slightly tenser.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue in a low-front position.</li> <li>Move your tongue up towards the high-back position.</li> <li>Round your lips slightly at the end of the sound.</li> <li>Compare it with /æ/ by practicing word pairs like <em>now</em> - <em>nap</em>.</li> </ol>"
+      }
+    },
+    "17": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/əʊ/ is commonly used in British English, while /oʊ/ is the American English equivalent."
+      },
+      "description": {
+        "describe": "<p><strong>The /əʊ/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in a mid-central position (/ə/), then moves to a high-back rounded position (/ʊ/).</li> <li><strong>Jaw opening:</strong> Starts slightly open and closes slightly.</li> <li><strong>Lip shape:</strong> Starts neutral and moves to rounded.</li> <li><strong>Tongue tension:</strong> Moves from relaxed to slightly tenser.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue in a mid-central position.</li> <li>Move your tongue up towards the high-back position.</li> <li>Round your lips slightly at the end of the sound.</li> <li>Compare it with /oʊ/ by practicing word pairs like <em>go</em> (UK) - <em>go</em> (US).</li> </ol>"
+      }
+    },
+    "18": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/ɪə/ is a diphthong that glides from /ɪ/ to /ə/, while /ɪ/ is a short monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /ɪə/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in a high-front position (/ɪ/), then moves to a mid-central position (/ə/).</li> <li><strong>Jaw opening:</strong> Starts slightly open and relaxes.</li> <li><strong>Lip shape:</strong> Neutral.</li> <li><strong>Tongue tension:</strong> Moves from tense to more relaxed.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue high and near the front of your mouth.</li> <li>Move your tongue down slightly towards the center.</li> <li>Glide smoothly between the two sounds.</li> <li>Compare it with /ɪ/ by practicing word pairs like <em>here</em> - <em>hit</em>.</li> </ol>"
+      }
+    },
+    "19": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/eə/ is a diphthong that glides from /e/ to /ə/, while /e/ is a short, monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /eə/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in a mid-front position (/e/), then moves to a mid-central position (/ə/).</li> <li><strong>Jaw opening:</strong> Starts slightly open and then relaxes.</li> <li><strong>Lip shape:</strong> Neutral.</li> <li><strong>Tongue tension:</strong> Moves from slightly tense to more relaxed.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue in a mid-front position.</li> <li>Move your tongue slightly back towards the center.</li> <li>Glide smoothly between the two sounds.</li> <li>Compare it with /e/ by practicing word pairs like <em>air</em> - <em>egg</em>.</li> </ol>"
+      }
+    },
+    "20": {
+      "letters": {
+        "type": "diphthong"
+      },
+      "comparison": {
+        "difference": "/ʊə/ is a diphthong that glides from /ʊ/ to /ə/, while /ʊ/ is a short, monophthong sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /ʊə/ sound</strong> is a diphthong, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Starts in a high-back position (/ʊ/), then moves to a mid-central position (/ə/).</li> <li><strong>Jaw opening:</strong> Starts slightly open and relaxes.</li> <li><strong>Lip shape:</strong> Starts rounded and moves to neutral.</li> <li><strong>Tongue tension:</strong> Moves from slightly tense to more relaxed.</li> <li><strong>Duration:</strong> Long, as it glides from one position to another.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Start with your tongue high and back in your mouth.</li> <li>Move your tongue slightly forward towards the center.</li> <li>Round your lips slightly at the beginning, then relax them.</li> <li>Compare it with /ʊ/ by practicing word pairs like <em>tour</em> - <em>took</em>.</li> </ol>"
+      }
+    },
+    "21": {
+      "letters": {
+        "type": "voiceless consonant"
+      },
+      "comparison": {
+        "difference": "/f/ is voiceless (no vocal cord vibration), while /v/ is voiced (with vocal cord vibration)."
+      },
+      "description": {
+        "describe": "<p><strong>The /f/ sound</strong> is a voiceless labiodental fricative, pronounced with:</p> <ul> <li><strong>Lips and teeth:</strong> Lower lip touches the upper teeth.</li> <li><strong>Airflow:</strong> Continuous air passes through the small gap between the lip and teeth.</li> <li><strong>Vocal cords:</strong> Do not vibrate.</li> <li><strong>Duration:</strong> Can be prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place your lower lip against your upper teeth.</li> <li>Blow air through the small gap.</li> <li>Do not use your voice (compare with /v/ by feeling your throat).</li> <li>Practice minimal pairs like <em>fan</em> - <em>van</em>.</li> </ol>"
+      }
+    },
+    "22": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/v/ is voiced (with vocal cord vibration), while /f/ is voiceless (without vocal cord vibration)."
+      },
+      "description": {
+        "describe": "<p><strong>The /v/ sound</strong> is a voiced labiodental fricative, pronounced with:</p> <ul> <li><strong>Lips and teeth:</strong> Lower lip touches the upper teeth.</li> <li><strong>Airflow:</strong> Continuous air passes through the small gap between the lip and teeth.</li> <li><strong>Vocal cords:</strong> Vibrate.</li> <li><strong>Duration:</strong> Can be prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place your lower lip against your upper teeth.</li> <li>Blow air through the small gap while using your voice.</li> <li>Compare it with /f/ by feeling your throat vibrate.</li> <li>Practice minimal pairs like <em>fan</em> - <em>van</em>.</li> </ol>"
+      }
+    },
+    "23": {
+      "letters": {
+        "type": "voiceless consonant"
+      },
+      "comparison": {
+        "difference": "/θ/ is voiceless, whereas /ð/ is voiced."
+      },
+      "description": {
+        "describe": "<p><strong>The /θ/ sound</strong> is a voiceless fricative, pronounced with:</p> <ul> <li><strong>Airflow:</strong> Continuous airflow through a narrow constriction formed by the tongue and upper front teeth.</li> <li><strong>Tongue position:</strong> The tip of the tongue is placed against the upper front teeth without blocking the airflow completely.</li> <li><strong>Vocal cords:</strong> Do not vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue lightly against the upper front teeth.</li> <li>Allow air to flow continuously between the tongue and teeth.</li> <li>Ensure your vocal cords remain relaxed and do not vibrate.</li> </ol>"
+      }
+    },
+    "24": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/ð/ is voiced (vocal cords vibrate), while /θ/ is voiceless (no vocal cord vibration)."
+      },
+      "description": {
+        "describe": "<p><strong>The /ð/ sound</strong> is a voiced dental fricative, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Tip of the tongue lightly touches the upper front teeth.</li> <li><strong>Airflow:</strong> Continuous air passes through the small gap between the tongue and teeth.</li> <li><strong>Vocal cords:</strong> Vibrate.</li> <li><strong>Duration:</strong> Can be prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against your upper front teeth.</li> <li>Blow air through the small gap while vibrating your vocal cords.</li> <li>Compare it with /θ/ by feeling your throat (if you feel vibration, it's /ð/; if not, it's /θ/).</li> <li>Practice minimal pairs like <em>this</em> - <em>think</em>.</li> </ol>"
+      }
+    },
+    "25": {
+      "letters": {
+        "type": "voiceless consonant"
+      },
+      "comparison": {
+        "difference": "/s/ is voiceless (no vocal cord vibration), while /z/ is voiced (vocal cords vibrate)."
+      },
+      "description": {
+        "describe": "<p><strong>The /s/ sound</strong> is a voiceless alveolar fricative, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> Tip of the tongue is close to the alveolar ridge.</li> <li><strong>Airflow:</strong> Continuous air passes through a narrow gap, creating friction.</li> <li><strong>Vocal cords:</strong> Do not vibrate.</li> <li><strong>Duration:</strong> Can be prolonged.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue near the alveolar ridge, but do not touch it.</li> <li>Blow air through the small gap while keeping your vocal cords silent.</li> <li>Compare it with /z/ by feeling your throat (if you feel vibration, it's /z/; if not, it's /s/).</li> <li>Practice minimal pairs like <em>sip</em> - <em>zip</em>.</li> </ol>"
+      }
+    },
+    "26": {
+      "letters": {
+        "type": "voiced consonants"
+      },
+      "comparison": {
+        "difference": "/z/ is voiced, meaning the vocal cords vibrate, while /s/ is voiceless."
+      },
+      "description": {
+        "describe": "<p><strong>The /z/ sound</strong> is a voiced consonant, pronounced with:</p> <ul> <li><strong>Vocal cord vibration:</strong> Unlike /s/, the vocal cords vibrate when pronouncing /z/.</li> <li><strong>Tongue position:</strong> The tip of the tongue is close to the alveolar ridge.</li> <li><strong>Airflow:</strong> Continuous, allowing air to pass through the narrow gap.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place your tongue close to the alveolar ridge.</li> <li>Let air flow continuously while making your vocal cords vibrate.</li> <li>Contrast it with /s/ by practicing word pairs like <em>sip</em> - <em>zip</em>.</li> </ol>"
+      }
+    },
+    "27": {
+      "letters": {
+        "type": "voiceless consonants"
+      },
+      "comparison": {
+        "difference": "/ʃ/ is a voiceless postalveolar fricative, whereas /s/ is alveolar, and /ʒ/ is its voiced counterpart."
+      },
+      "description": {
+        "describe": "<p><strong>The /ʃ/ sound</strong> is a voiceless fricative, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> The tongue is positioned near the roof of the mouth, slightly behind the alveolar ridge.</li> <li><strong>Airflow:</strong> Continuous friction sound produced by directing air over the tongue.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Position your tongue near the roof of your mouth.</li> <li>Let air pass through continuously without using your vocal cords.</li> <li>Compare it with /ʒ/ by practicing word pairs like <em>she</em> - <em>genre</em>.</li> </ol>"
+      }
+    },
+    "28": {
+      "letters": {
+        "type": "voiced consonants"
+      },
+      "comparison": {
+        "difference": "/ʒ/ is a voiced postalveolar fricative, whereas /ʃ/ is voiceless, and /z/ is alveolar."
+      },
+      "description": {
+        "describe": "<p><strong>The /ʒ/ sound</strong> is a voiced fricative, pronounced with:</p> <ul> <li><strong>Tongue position:</strong> The tongue is positioned near the roof of the mouth, slightly behind the alveolar ridge.</li> <li><strong>Airflow:</strong> Continuous friction sound produced by directing air over the tongue with vocal cord vibration.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Position your tongue near the roof of your mouth.</li> <li>Let air pass through continuously while making your vocal cords vibrate.</li> <li>Compare it with /ʃ/ by practicing word pairs like <em>vision</em> - <em>mission</em>.</li> </ol>"
+      }
+    },
+    "29": {
+      "letters": {
+        "type": "voiceless consonants"
+      },
+      "comparison": {
+        "difference": "/h/ is a voiceless glottal fricative, whereas /ʔ/ is a glottal stop and /x/ is a velar fricative."
+      },
+      "description": {
+        "describe": "<p><strong>The /h/ sound</strong> is a voiceless fricative, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A smooth flow of air through the open glottis.</li> <li><strong>Tongue position:</strong> The tongue remains in a neutral position, depending on the following vowel.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Keep the vocal cords open, allowing air to pass freely.</li> <li>Maintain a neutral tongue position.</li> <li>Compare it with voiced sounds to feel the lack of vibration.</li> </ol>"
+      }
+    },
+    "30": {
+      "letters": {
+        "type": "voiceless consonants"
+      },
+      "comparison": {
+        "difference": "/p/ is a voiceless bilabial plosive, whereas /b/ is voiced, and /f/ is a fricative."
+      },
+      "description": {
+        "describe": "<p><strong>The /p/ sound</strong> is a voiceless plosive, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by closing the lips, followed by a burst of air.</li> <li><strong>Lip position:</strong> The lips are fully closed before releasing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Close your lips completely.</li> <li>Build up air pressure behind your lips.</li> <li>Release the air quickly to produce the /p/ sound.</li> </ol>"
+      }
+    },
+    "31": {
+      "letters": {
+        "type": "voiced consonants"
+      },
+      "comparison": {
+        "difference": "/b/ is a voiced bilabial plosive, whereas /p/ is voiceless, and /m/ is a nasal sound."
+      },
+      "description": {
+        "describe": "<p><strong>The /b/ sound</strong> is a voiced plosive, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by closing the lips, followed by a burst of air.</li> <li><strong>Lip position:</strong> The lips are fully closed before releasing the sound.</li> <li><strong>Vocal cords:</strong> Vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Close your lips completely.</li> <li>Build up air pressure behind your lips.</li> <li>Release the air while vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "32": {
+      "letters": {
+        "type": "voiceless consonant"
+      },
+      "comparison": {
+        "difference": "/t/ is a voiceless alveolar plosive, whereas /d/ is voiced, and /θ/ is a voiceless dental fricative."
+      },
+      "description": {
+        "describe": "<p><strong>The /t/ sound</strong> is a voiceless plosive, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by placing the tongue against the alveolar ridge (the bumpy area just behind the upper front teeth), followed by a release of air.</li> <li><strong>Tongue position:</strong> The tip of the tongue touches the alveolar ridge, blocking the airflow, then quickly releases.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against the alveolar ridge, just behind your upper front teeth.</li> <li>Build up air pressure behind your tongue.</li> <li>Release the air quickly to produce the /t/ sound.</li> </ol>"
+      }
+    },
+    "33": {
+      "letters": {
+        "type": "voiced consonants"
+      },
+      "comparison": {
+        "difference": "/d/ is a voiced alveolar plosive, whereas /t/ is voiceless, and /ð/ is a voiced dental fricative."
+      },
+      "description": {
+        "describe": "<p><strong>The /d/ sound</strong> is a voiced plosive, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by placing the tongue against the alveolar ridge, followed by a release of air.</li> <li><strong>Tongue position:</strong> The tip of the tongue touches the alveolar ridge, blocking the airflow, then quickly releases.</li> <li><strong>Vocal cords:</strong> Vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against the alveolar ridge, just behind your upper front teeth.</li> <li>Build up air pressure behind your tongue.</li> <li>Release the air while vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "34": {
+      "letters": {
+        "type": "voiceless consonants"
+      },
+      "comparison": {
+        "difference": "/k/ is a voiceless velar plosive, whereas /g/ is voiced, and /t/ is an alveolar plosive."
+      },
+      "description": {
+        "describe": "<p><strong>The /k/ sound</strong> is a voiceless plosive, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by raising the back of the tongue to the velum (soft part of the roof of the mouth), followed by a release of air.</li> <li><strong>Tongue position:</strong> The back of the tongue touches the velum, blocking the airflow, then quickly releases.</li> <li><strong>Vocal cords:</strong> Do not vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Raise the back of your tongue to touch the velum.</li> <li>Build up air pressure behind your tongue.</li> <li>Release the air without vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "35": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/g/ is a voiced velar plosive, whereas /k/ is voiceless."
+      },
+      "description": {
+        "describe": "<p><strong>The /g/ sound</strong> is a voiced plosive, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by placing the back of the tongue against the velum (soft part of the roof of the mouth), followed by a release of air.</li> <li><strong>Tongue position:</strong> The back of the tongue touches the velum, blocking the airflow, then quickly releases.</li> <li><strong>Vocal cords:</strong> Vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the back of your tongue against the velum.</li> <li>Build up air pressure behind your tongue.</li> <li>Release the air while vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "36": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/m/ is a voiced bilabial nasal, whereas /n/ is a voiced alveolar nasal, and /ŋ/ is a voiced velar nasal."
+      },
+      "description": {
+        "describe": "<p><strong>The /m/ sound</strong> is a voiced nasal consonant, pronounced with:</p> <ul> <li><strong>Airflow:</strong> Air is blocked from leaving the mouth by pressing the lips together, and it passes out through the nose.</li> <li><strong>Lip position:</strong> Both lips are pressed together, blocking the airflow in the mouth.</li> <li><strong>Vocal cords:</strong> Vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Press your lips together firmly.</li> <li>Allow the air to pass through your nose while keeping your mouth closed.</li> <li>Vibrate your vocal cords to produce the sound.</li> </ol>"
+      }
+    },
+    "37": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/n/ is a voiced alveolar nasal, whereas /m/ is a voiced bilabial nasal, and /ŋ/ is a voiced velar nasal."
+      },
+      "description": {
+        "describe": "<p><strong>The /n/ sound</strong> is a voiced alveolar nasal consonant, produced by:</p> <ul> <li><strong>Airflow:</strong> Directing the airflow through the nasal cavity while blocking it in the oral cavity.</li> <li><strong>Tongue position:</strong> Placing the tip of the tongue against the alveolar ridge, just behind the upper front teeth, effectively stopping the airflow in the mouth.</li> <li><strong>Vocal cords:</strong> Vibrating during the production of the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against the alveolar ridge, just behind your upper front teeth.</li> <li>Lower your soft palate to allow air to pass through your nose.</li> <li>Vibrate your vocal cords as you produce the sound.</li> </ol>"
+      }
+    },
+    "38": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/ŋ/ is a voiced velar nasal, whereas /n/ is a voiced alveolar nasal, and /m/ is a voiced bilabial nasal."
+      },
+      "description": {
+        "describe": "<p><strong>The /ŋ/ sound</strong> is a voiced nasal consonant, pronounced with:</p> <ul> <li><strong>Airflow:</strong> Air passes through the nasal cavity as the back of the tongue contacts the velum (soft part of the roof of the mouth).</li> <li><strong>Tongue position:</strong> The back of the tongue presses against the velum, blocking airflow through the mouth.</li> <li><strong>Vocal cords:</strong> Vibrate during the production of the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Raise the back of your tongue to touch the velum.</li> <li>Allow air to pass through your nose while keeping your vocal cords vibrating.</li> <li>Release the tongue from the velum to complete the sound.</li> </ol>"
+      }
+    },
+    "39": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/w/ is a voiced labio-velar approximant, whereas /v/ is a voiced labiodental fricative, and /r/ is a voiced alveolar approximant."
+      },
+      "description": {
+        "describe": "<p><strong>The /w/ sound</strong> is a voiced labio-velar approximant, pronounced with:</p> <ul> <li><strong>Airflow:</strong> Continuous airflow without friction.</li> <li><strong>Lip position:</strong> Rounded lips.</li> <li><strong>Tongue position:</strong> The back of the tongue approaches the soft palate (velum) without touching it.</li> <li><strong>Vocal cords:</strong> Vibrate during the articulation.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Round your lips.</li> <li>Raise the back of your tongue towards the velum without making contact.</li> <li>Allow the air to flow out while vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "40": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/j/ is a voiced palatal approximant, whereas /i/ is a close front unrounded vowel, and /ʒ/ is a voiced postalveolar fricative."
+      },
+      "description": {
+        "describe": "<p><strong>The /j/ sound</strong> is a voiced palatal approximant, pronounced with:</p> <ul> <li><strong>Airflow:</strong> Unrestricted airflow as the tongue approaches the hard palate without creating friction.</li> <li><strong>Tongue position:</strong> The middle of the tongue raises towards the hard palate.</li> <li><strong>Lip position:</strong> Generally neutral or slightly spread.</li> <li><strong>Vocal cords:</strong> Vibrate during the articulation.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Raise the middle part of your tongue towards the hard palate without touching it.</li> <li>Allow the air to flow freely over the tongue without creating friction.</li> <li>Ensure your vocal cords are vibrating as you produce the sound.</li> </ol>"
+      }
+    },
+    "41": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/r/ is a voiced alveolar approximant, whereas /l/ is a voiced alveolar lateral approximant, and /w/ is a voiced labio-velar approximant."
+      },
+      "description": {
+        "describe": "<p><strong>The /r/ sound</strong> is a voiced alveolar approximant, pronounced with:</p> <ul> <li><strong>Airflow:</strong> Continuous airflow without friction.</li> <li><strong>Tongue position:</strong> The tip of the tongue is raised towards the alveolar ridge without touching it, creating a narrow space for the air to flow through.</li> <li><strong>Lip position:</strong> Often slightly rounded.</li> <li><strong>Vocal cords:</strong> Vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Raise the tip of your tongue towards the alveolar ridge, just behind your upper front teeth, without making contact.</li> <li>Keep your lips slightly rounded.</li> <li>Allow the air to flow continuously while vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "42": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/l/ is a voiced alveolar lateral approximant, whereas /r/ is a voiced alveolar approximant."
+      },
+      "description": {
+        "describe": "<p><strong>The /l/ sound</strong> is a voiced alveolar lateral approximant, pronounced with:</p> <ul> <li><strong>Airflow:</strong> The airstream flows around the sides of the tongue.</li> <li><strong>Tongue position:</strong> The tip of the tongue touches the alveolar ridge, just behind the upper front teeth.</li> <li><strong>Vocal cords:</strong> Vibrate during the articulation.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against the alveolar ridge.</li> <li>Allow the airstream to flow around the sides of your tongue.</li> <li>Engage your vocal cords to produce the sound.</li> </ol>"
+      }
+    },
+    "43": {
+      "letters": {
+        "type": "voiceless consonant"
+      },
+      "comparison": {
+        "difference": "/tʃ/ is an affricate combining the stop /t/ and the fricative /ʃ/, whereas /t/ is a voiceless alveolar plosive and /ʃ/ is a voiceless postalveolar fricative."
+      },
+      "description": {
+        "describe": "<p><strong>The /tʃ/ sound</strong> is a voiceless affricate, pronounced with:</p> <ul> <li><strong>Airflow:</strong> A brief stop of airflow by placing the tongue against the alveolar ridge, followed by a release into a fricative sound.</li> <li><strong>Tongue position:</strong> The tip of the tongue touches the alveolar ridge, then moves slightly back to allow the fricative release.</li> <li><strong>Vocal cords:</strong> Do not vibrate when producing the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against the alveolar ridge, just behind your upper front teeth.</li> <li>Build up air pressure behind your tongue.</li> <li>Release the air by moving your tongue slightly back, creating a fricative sound without vibrating your vocal cords.</li> </ol>"
+      }
+    },
+    "44": {
+      "letters": {
+        "type": "voiced consonant"
+      },
+      "comparison": {
+        "difference": "/dʒ/ is voiced, whereas /tʃ/ is voiceless. /dʒ/ starts with a stop sound /d/ followed by the fricative /ʒ/."
+      },
+      "description": {
+        "describe": "<p><strong>The /dʒ/ sound</strong> is a voiced postalveolar affricate, produced by:</p> <ul> <li><strong>Airflow:</strong> Initially stopping the airflow by placing the tongue against the alveolar ridge, then releasing it to create friction in the postalveolar region.</li> <li><strong>Tongue position:</strong> The tip of the tongue touches the alveolar ridge, then moves slightly back to the postalveolar area upon release.</li> <li><strong>Vocal cords:</strong> Vibrate during the production of the sound.</li> </ul> <p><strong>Pronunciation guide:</strong></p> <ol> <li>Place the tip of your tongue against the alveolar ridge, just behind your upper front teeth.</li> <li>Build up air pressure behind your tongue.</li> <li>Release the air while moving the tongue slightly back, creating friction, and ensure your vocal cords vibrate.</li> </ol>"
+      }
+    }
+  }
