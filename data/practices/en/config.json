@@ -1,0 +1,13 @@
+[
+    {
+        "id" : 1,
+        "question" : "Which IPA symbol represents the correct sound?",
+        "title" : "Sound Identification",
+        "btn_check": "Check Answer",
+        "btn_next": "Next Question",
+        "text_correct": "Correct!",
+        "text_wrong": "Wrong! Try again.",
+        "text_finish": "Quiz Finished!",
+        "text_content" : "Sound: "
+    }
+]
