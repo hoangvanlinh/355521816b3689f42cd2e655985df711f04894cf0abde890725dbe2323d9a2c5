@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Hvilket IPA-symbol repræsenterer den korrekte lyd?",
+        "title": "Lydidentifikation",
+        "btn_check": "Tjek svar",
+        "btn_next": "Næste spørgsmål",
+        "text_correct": "Korrekt!",
+        "text_wrong": "Forkert! Prøv igen.",
+        "text_finish": "Quizzen er færdig!",
+        "text_content": "Lyd: "
+    },
+    {
+        "id": 2,
+        "title": "Udtale",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "کون سا IPA علامت درست آواز کی نمائندگی کرتا ہے؟",
+        "title": "آواز کی شناخت",
+        "btn_check": "جواب چیک کریں",
+        "btn_next": "اگلا سوال",
+        "text_correct": "درست!",
+        "text_wrong": "غلط! دوبارہ کوشش کریں.",
+        "text_finish": "کوئز مکمل ہوا!",
+        "text_content": "آواز: "
+    },
+    {
+        "id": 2,
+        "title": "تلفظ",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

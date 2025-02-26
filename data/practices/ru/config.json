@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Какой символ IPA представляет правильный звук?",
+        "title": "Определение звука",
+        "btn_check": "Проверить ответ",
+        "btn_next": "Следующий вопрос",
+        "text_correct": "Правильно!",
+        "text_wrong": "Неправильно! Попробуйте ещё раз.",
+        "text_finish": "Викторина завершена!",
+        "text_content": "Звук: "
+    },
+    {
+        "id": 2,
+        "title": "Произношение",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

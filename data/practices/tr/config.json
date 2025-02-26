@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Hangi IPA sembolü doğru sesi temsil ediyor?",
+        "title": "Ses Tanımlama",
+        "btn_check": "Cevabı Kontrol Et",
+        "btn_next": "Sonraki Soru",
+        "text_correct": "Doğru!",
+        "text_wrong": "Yanlış! Tekrar deneyin.",
+        "text_finish": "Test Bitti!",
+        "text_content": "Ses: "
+    },
+    {
+        "id": 2,
+        "title": "Telaffuz",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

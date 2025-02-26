@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Hvilket IPA-symbol representerer den riktige lyden?",
+        "title": "Lydidentifikasjon",
+        "btn_check": "Sjekk svar",
+        "btn_next": "Neste spørsmål",
+        "text_correct": "Riktig!",
+        "text_wrong": "Feil! Prøv igjen.",
+        "text_finish": "Quiz ferdig!",
+        "text_content": "Lyd: "
+    },
+    {
+        "id": 2,
+        "title": "Uttale",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

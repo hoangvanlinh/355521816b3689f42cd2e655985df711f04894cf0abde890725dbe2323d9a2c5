@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Simbol IPA mana yang mewakili bunyi yang betul?",
+        "title": "Pengenalpastian Bunyi",
+        "btn_check": "Semak Jawapan",
+        "btn_next": "Soalan Seterusnya",
+        "text_correct": "Betul!",
+        "text_wrong": "Salah! Cuba lagi.",
+        "text_finish": "Kuiz Tamat!",
+        "text_content": "Bunyi: "
+    },
+    {
+        "id": 2,
+        "title": "Pengucapan",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

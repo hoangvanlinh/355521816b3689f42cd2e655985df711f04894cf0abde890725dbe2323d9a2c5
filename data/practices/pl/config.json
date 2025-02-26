@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Który symbol IPA reprezentuje poprawny dźwięk?",
+        "title": "Identyfikacja dźwięku",
+        "btn_check": "Sprawdź odpowiedź",
+        "btn_next": "Następne pytanie",
+        "text_correct": "Poprawnie!",
+        "text_wrong": "Niepoprawnie! Spróbuj ponownie.",
+        "text_finish": "Quiz zakończony!",
+        "text_content": "Dźwięk: "
+    },
+    {
+        "id": 2,
+        "title": "Wymowa",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

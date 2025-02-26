@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "どのIPA記号が正しい音を表していますか？",
+        "title": "音の識別",
+        "btn_check": "回答を確認",
+        "btn_next": "次の質問",
+        "text_correct": "正解！",
+        "text_wrong": "不正解！もう一度試してください。",
+        "text_finish": "クイズ終了！",
+        "text_content": "音: "
+    },
+    {
+        "id": 2,
+        "title": "発音",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Який символ IPA представляє правильний звук?",
+        "title": "Визначення звуку",
+        "btn_check": "Перевірити відповідь",
+        "btn_next": "Наступне запитання",
+        "text_correct": "Правильно!",
+        "text_wrong": "Неправильно! Спробуйте ще раз.",
+        "text_finish": "Вікторина завершена!",
+        "text_content": "Звук: "
+    },
+    {
+        "id": 2,
+        "title": "Вимова",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "أي رمز IPA يمثل الصوت الصحيح؟",
+        "title": "التعرف على الصوت",
+        "btn_check": "تحقق من الإجابة",
+        "btn_next": "السؤال التالي",
+        "text_correct": "صحيح!",
+        "text_wrong": "خطأ! حاول مرة أخرى.",
+        "text_finish": "انتهى الاختبار!",
+        "text_content": "الصوت: "
+    },
+    {
+        "id": 2,
+        "title": "النطق",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

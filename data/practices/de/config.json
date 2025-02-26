@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Welches IPA-Symbol repräsentiert den korrekten Laut?",
+        "title": "Lautidentifikation",
+        "btn_check": "Antwort überprüfen",
+        "btn_next": "Nächste Frage",
+        "text_correct": "Richtig!",
+        "text_wrong": "Falsch! Versuche es erneut.",
+        "text_finish": "Quiz beendet!",
+        "text_content": "Klang: "
+    },
+    {
+        "id": 2,
+        "title": "Aussprache",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

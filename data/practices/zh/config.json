@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "哪个 IPA 符号代表正确的声音？",
+        "title": "声音识别",
+        "btn_check": "检查答案",
+        "btn_next": "下一题",
+        "text_correct": "正确！",
+        "text_wrong": "错误！请再试一次。",
+        "text_finish": "测验完成！",
+        "text_content": "声音："
+    },
+    {
+        "id": 2,
+        "title": "发音",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

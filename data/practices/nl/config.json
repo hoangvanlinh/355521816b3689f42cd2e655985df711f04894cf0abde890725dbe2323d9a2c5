@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Welk IPA-symbool vertegenwoordigt het juiste geluid?",
+        "title": "Geluidsherkenning",
+        "btn_check": "Antwoord controleren",
+        "btn_next": "Volgende vraag",
+        "text_correct": "Correct!",
+        "text_wrong": "Fout! Probeer het opnieuw.",
+        "text_finish": "Quiz voltooid!",
+        "text_content": "Geluid: "
+    },
+    {
+        "id": 2,
+        "title": "Uitspraak",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Qual símbolo IPA representa o som correto?",
+        "title": "Identificação do Som",
+        "btn_check": "Verificar Resposta",
+        "btn_next": "Próxima Pergunta",
+        "text_correct": "Correto!",
+        "text_wrong": "Errado! Tente novamente.",
+        "text_finish": "Quiz Finalizado!",
+        "text_content": "Som: "
+    },
+    {
+        "id": 2,
+        "title": "Pronunciar",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "সঠিক শব্দকে উপস্থাপন করে এমন IPA প্রতীক কোনটি?",
+        "title": "ধ্বনি শনাক্তকরণ",
+        "btn_check": "উত্তর পরীক্ষা করুন",
+        "btn_next": "পরবর্তী প্রশ্ন",
+        "text_correct": "সঠিক!",
+        "text_wrong": "ভুল! আবার চেষ্টা করুন.",
+        "text_finish": "কুইজ শেষ!",
+        "text_content": "ধ্বনি: "
+    },
+    {
+        "id": 2,
+        "title": "উচ্চারণ",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

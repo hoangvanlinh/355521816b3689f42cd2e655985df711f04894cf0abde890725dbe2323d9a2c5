@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "कौन सा IPA प्रतीक सही ध्वनि का प्रतिनिधित्व करता है?",
+        "title": "ध्वनि पहचान",
+        "btn_check": "उत्तर जांचें",
+        "btn_next": "अगला प्रश्न",
+        "text_correct": "सही!",
+        "text_wrong": "गलत! पुन: प्रयास करें.",
+        "text_finish": "क्विज़ समाप्त!",
+        "text_content": "ध्वनि: "
+    },
+    {
+        "id": 2,
+        "title": "उच्चारण",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

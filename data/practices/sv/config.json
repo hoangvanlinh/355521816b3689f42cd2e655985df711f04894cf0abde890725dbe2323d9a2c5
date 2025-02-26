@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Vilken IPA-symbol representerar det korrekta ljudet?",
+        "title": "Ljudidentifiering",
+        "btn_check": "Kontrollera svar",
+        "btn_next": "Nästa fråga",
+        "text_correct": "Rätt!",
+        "text_wrong": "Fel! Försök igen.",
+        "text_finish": "Quiz avslutat!",
+        "text_content": "Ljud: "
+    },
+    {
+        "id": 2,
+        "title": "Uttal",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

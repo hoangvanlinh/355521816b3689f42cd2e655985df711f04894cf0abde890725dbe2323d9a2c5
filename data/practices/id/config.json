@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Simbol IPA mana yang mewakili suara yang benar?",
+        "title": "Identifikasi Suara",
+        "btn_check": "Periksa Jawaban",
+        "btn_next": "Pertanyaan Berikutnya",
+        "text_correct": "Benar!",
+        "text_wrong": "Salah! Coba lagi.",
+        "text_finish": "Kuis Selesai!",
+        "text_content": "Suara: "
+    },
+    {
+        "id": 2,
+        "title": "Pengucapan",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

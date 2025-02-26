@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "สัญลักษณ์ IPA ตัวไหนที่แสดงเสียงที่ถูกต้อง?",
+        "title": "การระบุเสียง",
+        "btn_check": "ตรวจสอบคำตอบ",
+        "btn_next": "คำถามถัดไป",
+        "text_correct": "ถูกต้อง!",
+        "text_wrong": "ผิด! ลองอีกครั้ง.",
+        "text_finish": "ทำแบบทดสอบเสร็จสิ้นแล้ว!",
+        "text_content": "เสียง: "
+    },
+    {
+        "id": 2,
+        "title": "การออกเสียง",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

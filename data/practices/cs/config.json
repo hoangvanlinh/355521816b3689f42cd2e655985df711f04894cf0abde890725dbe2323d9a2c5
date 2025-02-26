@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Který symbol IPA představuje správný zvuk?",
+        "title": "Identifikace zvuku",
+        "btn_check": "Zkontrolovat odpověď",
+        "btn_next": "Další otázka",
+        "text_correct": "Správně!",
+        "text_wrong": "Špatně! Zkuste to znovu.",
+        "text_finish": "Kvíz dokončen!",
+        "text_content": "Zvuk: "
+    },
+    {
+        "id": 2,
+        "title": "Výslovnost",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

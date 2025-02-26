@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Quel symbole IPA représente le son correct ?",
+        "title": "Identification du son",
+        "btn_check": "Vérifier la réponse",
+        "btn_next": "Question suivante",
+        "text_correct": "Correct !",
+        "text_wrong": "Faux ! Réessayez.",
+        "text_finish": "Quiz terminé !",
+        "text_content": "Son : "
+    },
+    {
+        "id": 2,
+        "title": "Prononciation",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

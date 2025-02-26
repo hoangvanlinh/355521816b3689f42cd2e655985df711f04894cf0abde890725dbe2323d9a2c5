@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "어떤 IPA 기호가 올바른 소리를 나타내나요?",
+        "title": "소리 식별",
+        "btn_check": "답 확인",
+        "btn_next": "다음 질문",
+        "text_correct": "정답!",
+        "text_wrong": "틀렸습니다! 다시 시도하세요.",
+        "text_finish": "퀴즈 완료!",
+        "text_content": "소리: "
+    },
+    {
+        "id": 2,
+        "title": "발음",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]

@@ -13,6 +13,6 @@
     {
         "id" : 2,
         "title" : "Pronounce",
-        "url" : "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_UK.txt"
+        "url" : "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
       }
 ]
