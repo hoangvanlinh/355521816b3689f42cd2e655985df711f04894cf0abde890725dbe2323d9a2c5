@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "question": "Ký hiệu IPA nào đại diện cho âm thanh đúng?",
+        "title": "Nhận diện âm thanh",
+        "btn_check": "Kiểm tra câu trả lời",
+        "btn_next": "Câu hỏi tiếp theo",
+        "text_correct": "Chính xác!",
+        "text_wrong": "Sai! Thử lại.",
+        "text_finish": "Trắc nghiệm đã hoàn thành!",
+        "text_content": "Âm thanh: "
+    },
+    {
+        "id": 2,
+        "title": "Phát âm",
+        "url": "https://raw.githubusercontent.com/open-dict-data/ipa-dict/refs/heads/master/data/en_US.txt"
+    }
+]
