@@ -1,5 +1,5 @@
 {
-    "version" : "22",
+    "version" : "11",
     "langapp":[
         {"code": "en", "name": "English", "flag": "🇬🇧", "country": "United Kingdom"},
         {"code": "zh", "name": "Chinese", "flag": "🇨🇳", "country": "China"},
@@ -27,26 +27,26 @@
         {"code": "uk", "name": "Ukrainian", "flag": "🇺🇦", "country": "Ukraine"},
         {"code": "ur", "name": "Urdu", "flag": "🇵🇰", "country": "Pakistan"},
         {"code": "vi", "name": "Vietnamese", "flag": "🇻🇳", "country": "Vietnam"}
-
     ],
     "langvoice":[
         {"code": "en-US", "name": "English (United States)", "flag": "🇺🇸"},
         {"code": "en-GB", "name": "English (United Kingdom)", "flag": "🇬🇧"}
+
     ],
     "ads":{
         "limitAdsTime": 300000,
         "mute": true,
         "admob": {
             "enable": false,
-            "app_id": "ca-app-pub-7223114719058225~2553065622",
-            "banner": "ca-app-pub-7223114719058225/1669636471",
-            "interstitial": "ca-app-pub-7223114719058225/8626761217",
+            "app_id": "ca-app-pub-7223114719058225~1138249478",
+            "banner": "ca-app-pub-7223114719058225/6647319349",
+            "interstitial": "ca-app-pub-7223114719058225/3302970704",
             "interstitialVideo": "",
-            "rewardVideo": "",
+            "rewardVideo": "ca-app-pub-7223114719058225/4967976989",
             "nativeExpress": "",
             "showVideoAdPercent": 100,
             "showIntertisialPercent": 20,
-            "nativeAdvance": "ca-app-pub-7223114719058225/1050689372",
+            "nativeAdvance": "ca-app-pub-7223114719058225/1253799545",
             "showBanner": true,
             "showNativeAdvance": true,
             "ecmp": "22"
@@ -58,9 +58,9 @@
         },
         "unity_ads": {
             "enable": false,
-            "game_id": "5802043",
-            "banner": "Banner_iOS",
-            "interstitial": "Interstitial_iOS",
+            "game_id": "5802042",
+            "banner": "Banner_Android",
+            "interstitial": "Interstitial_Android",
             "ecmp": "9"
         }
     },
