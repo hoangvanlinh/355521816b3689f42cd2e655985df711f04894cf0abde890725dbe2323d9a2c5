@@ -156,143 +156,143 @@
           ]
         }
       ],
-     "exercises": [
-    {
-      "level": "easy",
-      "sentences": [
-        { "text": "Bit", "ipa": "/bɪt/", "hl": "B<span style='color:red'>ɪ</span>t" },
-        { "text": "Sit", "ipa": "/sɪt/", "hl": "S<span style='color:red'>ɪ</span>t" },
-        { "text": "Lid", "ipa": "/lɪd/", "hl": "L<span style='color:red'>ɪ</span>d" },
-        { "text": "Ship", "ipa": "/ʃɪp/", "hl": "Sh<span style='color:red'>ɪ</span>p" },
-        { "text": "Milk", "ipa": "/mɪlk/", "hl": "M<span style='color:red'>ɪ</span>lk" },
-        { "text": "Tip", "ipa": "/tɪp/", "hl": "T<span style='color:red'>ɪ</span>p" },
-        { "text": "Pin", "ipa": "/pɪn/", "hl": "P<span style='color:red'>ɪ</span>n" },
-        { "text": "Pick", "ipa": "/pɪk/", "hl": "P<span style='color:red'>ɪ</span>ck" },
-        { "text": "Slip", "ipa": "/slɪp/", "hl": "Sl<span style='color:red'>ɪ</span>p" },
-        { "text": "Fish", "ipa": "/fɪʃ/", "hl": "F<span style='color:red'>ɪ</span>sh" }
-      ]
-    },
-    {
-      "level": "medium",
-      "sentences": [
-        { "text": "Big Ship", "ipa": "/bɪɡ ʃɪp/", "hl": "B<span style='color:red'>ɪ</span>g Sh<span style='color:red'>ɪ</span>p" },
-        { "text": "Quick Fix", "ipa": "/kwɪk fɪks/", "hl": "Qu<span style='color:red'>ɪ</span>ck F<span style='color:red'>ɪ</span>x" },
-        { "text": "Little Bit", "ipa": "/ˈlɪtl bɪt/", "hl": "L<span style='color:red'>ɪ</span>ttle B<span style='color:red'>ɪ</span>t" },
-        { "text": "Silly Slip", "ipa": "/ˈsɪli slɪp/", "hl": "S<span style='color:red'>ɪ</span>lly Sl<span style='color:red'>ɪ</span>p" },
-        { "text": "Fast Hit", "ipa": "/fæst hɪt/", "hl": "Fast H<span style='color:red'>ɪ</span>t" },
-        { "text": "Tiny Pin", "ipa": "/ˈtaɪni pɪn/", "hl": "T<span style='color:red'>ɪ</span>ny P<span style='color:red'>ɪ</span>n" },
-        { "text": "Rich Dish", "ipa": "/rɪtʃ dɪʃ/", "hl": "R<span style='color:red'>ɪ</span>ch D<span style='color:red'>ɪ</span>sh" },
-        { "text": "Hip Tip", "ipa": "/hɪp tɪp/", "hl": "H<span style='color:red'>ɪ</span>p T<span style='color:red'>ɪ</span>p" },
-        { "text": "Thin Film", "ipa": "/θɪn fɪlm/", "hl": "Th<span style='color:red'>ɪ</span>n F<span style='color:red'>ɪ</span>lm" },
-        { "text": "Brisk Wind", "ipa": "/brɪsk wɪnd/", "hl": "Br<span style='color:red'>ɪ</span>sk W<span style='color:red'>ɪ</span>nd" }
-      ]
-    },
-    {
-      "level": "hard",
-      "sentences": [
+      "exercises": [
         {
-          "text": "The Nimble Child Quickly Picked Up A Bit Of Sticky Glue.",
-          "ipa": "/ðə ˈnɪmbl tʃaɪld ˈkwɪkli pɪkt ʌp ə bɪt əv ˈstɪki ɡluː/",
-          "hl": "The N<span style='color:red'>ɪ</span>mble Ch<span style='color:red'>ɪ</span>ld Qu<span style='color:red'>ɪ</span>ckly P<span style='color:red'>ɪ</span>cked Up A B<span style='color:red'>ɪ</span>t Of St<span style='color:red'>ɪ</span>cky Glue."
+          "level": "easy",
+          "sentences": [
+            { "text": "Bit", "ipa": "/bɪt/", "hl": "B<span style='color:red'>i</span>t" },
+            { "text": "England", "ipa": "/ˈɪŋɡlənd/", "hl": "<span style='color:red'>E</span>ngland" },
+            { "text": "Women", "ipa": "/ˈwɪmɪn/", "hl": "W<span style='color:red'>o</span>men" },
+            { "text": "Busy", "ipa": "/ˈbɪzi/", "hl": "B<span style='color:red'>u</span>sy" },
+            { "text": "Guild", "ipa": "/ɡɪld/", "hl": "G<span style='color:red'>ui</span>ld" },
+            { "text": "Gym", "ipa": "/dʒɪm/", "hl": "G<span style='color:red'>y</span>m" },
+            { "text": "Sieve", "ipa": "/sɪv/", "hl": "S<span style='color:red'>ie</span>ve" },
+            { "text": "Sit", "ipa": "/sɪt/", "hl": "S<span style='color:red'>i</span>t" },
+            { "text": "Lid", "ipa": "/lɪd/", "hl": "L<span style='color:red'>i</span>d" },
+            { "text": "Fish", "ipa": "/fɪʃ/", "hl": "F<span style='color:red'>i</span>sh" }
+          ]
         },
         {
-          "text": "A Timid Kitten Hid Behind The Thick Brick Wall.",
-          "ipa": "/ə ˈtɪmɪd ˈkɪtn hɪd bɪˈhaɪnd ðə θɪk brɪk wɔːl/",
-          "hl": "A T<span style='color:red'>ɪ</span>m<span style='color:red'>ɪ</span>d K<span style='color:red'>ɪ</span>t<span style='color:red'>ɪ</span>n Hid Behind The Th<span style='color:red'>ɪ</span>ck Br<span style='color:red'>ɪ</span>ck Wall."
+          "level": "medium",
+          "sentences": [
+            { "text": "Big Bit", "ipa": "/bɪɡ bɪt/", "hl": "B<span style='color:red'>i</span>g B<span style='color:red'>i</span>t" },
+            { "text": "Quick Fix", "ipa": "/kwɪk fɪks/", "hl": "Qu<span style='color:red'>ui</span>ck F<span style='color:red'>i</span>x" },
+            { "text": "Little Bit", "ipa": "/ˈlɪtl bɪt/", "hl": "L<span style='color:red'>i</span>ttle B<span style='color:red'>i</span>t" },
+            { "text": "Silly Slip", "ipa": "/ˈsɪli slɪp/", "hl": "S<span style='color:red'>i</span>lly Sl<span style='color:red'>i</span>p" },
+            { "text": "Fast Hit", "ipa": "/fæst hɪt/", "hl": "Fast H<span style='color:red'>i</span>t" },
+            { "text": "Tiny Pin", "ipa": "/ˈtaɪni pɪn/", "hl": "T<span style='color:red'>i</span>ny P<span style='color:red'>i</span>n" },
+            { "text": "Rich Dish", "ipa": "/rɪtʃ dɪʃ/", "hl": "R<span style='color:red'>i</span>ch D<span style='color:red'>i</span>sh" },
+            { "text": "Hip Tip", "ipa": "/hɪp tɪp/", "hl": "H<span style='color:red'>i</span>p T<span style='color:red'>i</span>p" },
+            { "text": "Thin Film", "ipa": "/θɪn fɪlm/", "hl": "Th<span style='color:red'>i</span>n F<span style='color:red'>i</span>lm" },
+            { "text": "Brisk Wind", "ipa": "/brɪsk wɪnd/", "hl": "Br<span style='color:red'>i</span>sk W<span style='color:red'>i</span>nd" }
+          ]
         },
         {
-          "text": "The Bitter Wind Hit The Silent Town At Midnight.",
-          "ipa": "/ðə ˈbɪtər wɪnd hɪt ðə ˈsaɪlənt taʊn æt ˈmɪdnaɪt/",
-          "hl": "The B<span style='color:red'>ɪ</span>tter W<span style='color:red'>ɪ</span>nd Hit The Sa<span style='color:red'>ɪ</span>lent Town At M<span style='color:red'>ɪ</span>dn<span style='color:red'>aɪ</span>t."
-        },
-        {
-          "text": "The Brisk Morning Air Filled His Spirit With Energy.",
-          "ipa": "/ðə brɪsk ˈmɔːrnɪŋ ɛər fɪld hɪz ˈspɪrɪt wɪð ˈɛnərdʒi/",
-          "hl": "The Br<span style='color:red'>ɪ</span>sk M<span style='color:red'>ɔː</span>rning Air Filled His Sp<span style='color:red'>ɪ</span>r<span style='color:red'>ɪ</span>t With Energy."
-        },
-        {
-          "text": "A Little Fish Swam In The Brisk Stream Under The Dim Light.",
-          "ipa": "/ə ˈlɪtl fɪʃ swæm ɪn ðə brɪsk striːm ˈʌndər ðə dɪm laɪt/",
-          "hl": "A L<span style='color:red'>ɪ</span>ttle F<span style='color:red'>ɪ</span>sh Swam In The Br<span style='color:red'>ɪ</span>sk Stream Under The D<span style='color:red'>ɪ</span>m Light."
-        },
-        {
-          "text": "The Strict Teacher Insisted That The Students Sit Still During The Quiz.",
-          "ipa": "/ðə strɪkt ˈtiːtʃər ɪnˈsɪstɪd ðæt ðə ˈstjuːdənts sɪt stɪl ˈdjʊərɪŋ ðə kwɪz/",
-          "hl": "The Str<span style='color:red'>ɪ</span>ct Teacher Insisted That The Students S<span style='color:red'>ɪ</span>t St<span style='color:red'>ɪ</span>ll During The Quiz."
-        },
-        {
-          "text": "In A Tiny Village, A Rich Mixture Of Cultures Thrives.",
-          "ipa": "/ɪn ə ˈtaɪni ˈvɪlɪdʒ, ə rɪtʃ ˈmɪkstʃər əv ˈkʌltʃərz θraɪvz/",
-          "hl": "In A T<span style='color:red'>ɪ</span>ny Village, A R<span style='color:red'>ɪ</span>ch Mixture Of Cultures Thrives."
-        },
-        {
-          "text": "The Digital Clock Ticked In The Quiet, Dim Room.",
-          "ipa": "/ðə ˈdɪdʒɪtl klɒk tɪkt ɪn ðə ˈkwaɪət, dɪm ruːm/",
-          "hl": "The D<span style='color:red'>ɪ</span>dʒ<span style='color:red'>ɪ</span>tl Clock T<span style='color:red'>ɪ</span>cked In The Quiet, Dim Room."
-        },
-        {
-          "text": "His Vivid Imagination Brought Life To The Intricate Design.",
-          "ipa": "/hɪz ˈvɪvɪd ɪˌmædʒɪˈneɪʃən brɔːt laɪf tuː ði ˈɪntrɪkət dɪˈzaɪn/",
-          "hl": "His V<span style='color:red'>ɪ</span>v<span style='color:red'>ɪ</span>d Imagination Brought Life To The Intr<span style='color:red'>ɪ</span>cate Design."
-        },
-        {
-          "text": "The Brisk Wind Whipped Through The Flimsy Curtains.",
-          "ipa": "/ðə brɪsk wɪnd wɪpt θruː ðə ˈflɪmzi ˈkɜːtnz/",
-          "hl": "The Br<span style='color:red'>ɪ</span>sk W<span style='color:red'>ɪ</span>nd Wh<span style='color:red'>ɪ</span>pped Through The Fl<span style='color:red'>ɪ</span>msy Curtains."
-        },
-        {
-          "text": "A Quick Flick Of His Wrist Switched The Dim Light Off.",
-          "ipa": "/ə kwɪk flɪk əv hɪz rɪst swɪtʃt ðə dɪm laɪt ɒf/",
-          "hl": "A Qu<span style='color:red'>ɪ</span>ck Flick Of His Wrist Sw<span style='color:red'>ɪ</span>tched The Dim Light Off."
-        },
-        {
-          "text": "The Slim, Fit Athlete Sprinted Across The Busy City Street.",
-          "ipa": "/ðə slɪm, fɪt ˈæθliːt sprɪntɪd əˈkrɒs ðə ˈbɪzi ˈsɪti striːt/",
-          "hl": "The Sl<span style='color:red'>ɪ</span>m, Fit Athlete Spr<span style='color:red'>ɪ</span>nted Across The Busy City Street."
-        },
-        {
-          "text": "The Brittle Ice On The River Melted In The Midday Heat.",
-          "ipa": "/ðə ˈbrɪtl aɪs ɒn ðə ˈrɪvər ˈmɛltɪd ɪn ðə ˈmɪddeɪ hiːt/",
-          "hl": "The Br<span style='color:red'>ɪ</span>ttle Ice On The River Melted In The Midday Heat."
-        },
-        {
-          "text": "The Slick Trick Impressed The Crowd At The Fair.",
-          "ipa": "/ðə slɪk trɪk ɪmˈprɛst ðə kraʊd æt ðə feər/",
-          "hl": "The Sl<span style='color:red'>ɪ</span>ck Tr<span style='color:red'>ɪ</span>ck Impressed The Crowd At The Fair."
-        },
-        {
-          "text": "The Dismissive Tone In His Voice Was Unmistakably Cold.",
-          "ipa": "/ðə dɪsˈmɪsɪv təʊn ɪn hɪz vɔɪs wəz ʌnˈmɪstɪkəblɪ kəʊld/",
-          "hl": "The D<span style='color:red'>ɪ</span>s<span style='color:red'>ɪ</span>ms<span style='color:red'>ɪ</span>ve Tone In His Voice Was Unmistakably Cold."
-        },
-        {
-          "text": "She Whispered A Secret In The Dim Corridor.",
-          "ipa": "/ʃiː ˈwɪspəd ə ˈsiːkrət ɪn ðə dɪm ˈkɒrɪdɔːr/",
-          "hl": "She Wh<span style='color:red'>ɪ</span>sp<span style='color:red'>ɪ</span>red A Secret In The Dim Corridor."
-        },
-        {
-          "text": "The Intricate Pattern On The Fabric Was A Delight To The Eyes.",
-          "ipa": "/ði ˈɪntrɪkət ˈpætərn ɒn ðə ˈfæbrɪk wəz ə dɪˈlaɪt tuː ði aɪz/",
-          "hl": "The Intr<span style='color:red'>ɪ</span>cate Pattern On The Fabric Was A Delight To The Eyes."
-        },
-        {
-          "text": "A Brisk Sip Of Chilled Milk Revived His Spirits.",
-          "ipa": "/ə brɪsk sɪp əv tʃɪld mɪlk rɪˈvaɪvd hɪz ˈspɪrɪts/",
-          "hl": "A Br<span style='color:red'>ɪ</span>sk Sip Of Ch<span style='color:red'>ɪ</span>lled Milk Revived His Sp<span style='color:red'>ɪ</span>r<span style='color:red'>ɪ</span>ts."
-        },
-        {
-          "text": "In The Midnight Silence, The Distant Bells Clicked Rhythmically.",
-          "ipa": "/ɪn ðə ˈmɪdnaɪt ˈsaɪləns, ðə ˈdɪstənt belz klɪkt ˈrɪðmɪkli/",
-          "hl": "In The M<span style='color:red'>ɪ</span>dn<span style='color:red'>aɪ</span>t Silence, The D<span style='color:red'>ɪ</span>st<span style='color:red'>ə</span>nt Bells Clicked Rhythmically."
-        },
-        {
-          "text": "The Busy Market In The City Bustled With Vibrant Energy And Lively Chatter.",
-          "ipa": "/ðə ˈbɪzi ˈmɑːrkɪt ɪn ðə ˈsɪti ˈbʌsəld wɪð ˈvaɪbrənt ˈɛnərdʒi ənd ˈlaɪvli ˈʧætər/",
-          "hl": "The B<span style='color:red'>ɪ</span>zy Market In The C<span style='color:red'>ɪ</span>ty Bustled With Vibrant Energy And Lively Chatter."
+          "level": "hard",
+          "sentences": [
+            {
+              "text": "The Brisk Morning Air Filled His Spirit With Energy.",
+              "ipa": "/ðə brɪsk ˈmɔːrnɪŋ ɛər fɪld hɪz ˈspɪrɪt wɪð ˈɛnərdʒi/",
+              "hl": "The Br<span style='color:red'>i</span>sk Morn<span style='color:red'>i</span>ng Air F<span style='color:red'>i</span>lled H<span style='color:red'>i</span>s Sp<span style='color:red'>i</span>r<span style='color:red'>i</span>t W<span style='color:red'>i</span>th Energy."
+            },
+            {
+              "text": "The Nimble Child Quickly Picked Up A Bit Of Sticky Glue.",
+              "ipa": "/ðə ˈnɪmbl tʃaɪld ˈkwɪkli pɪkt ʌp ə bɪt əv ˈstɪki ɡluː/",
+              "hl": "The N<span style='color:red'>i</span>mble Ch<span style='color:red'>i</span>ld Qu<span style='color:red'>ui</span>ckly P<span style='color:red'>i</span>cked Up A B<span style='color:red'>i</span>t Of St<span style='color:red'>i</span>cky Glue."
+            },
+            {
+              "text": "A Timid Kitten Hid Behind The Thick Brick Wall.",
+              "ipa": "/ə ˈtɪmɪd ˈkɪtn hɪd bɪˈhaɪnd ðə θɪk brɪk wɔːl/",
+              "hl": "A T<span style='color:red'>i</span>mid K<span style='color:red'>i</span>tten H<span style='color:red'>i</span>d Behind The Th<span style='color:red'>i</span>ck Br<span style='color:red'>i</span>ck Wall."
+            },
+            {
+              "text": "The Bitter Wind Hit The Silent Town At Midnight.",
+              "ipa": "/ðə ˈbɪtər wɪnd hɪt ðə ˈsaɪlənt taʊn æt ˈmɪdnaɪt/",
+              "hl": "The B<span style='color:red'>i</span>tter Wind H<span style='color:red'>i</span>t The Silent Town At M<span style='color:red'>i</span>dn<span style='color:red'>i</span>ght."
+            },
+            {
+              "text": "The Strict Teacher Insisted That The Students Sit Still During The Quiz.",
+              "ipa": "/ðə strɪkt ˈtiːtʃər ɪnˈsɪstɪd ðæt ðə ˈstjuːdənts sɪt stɪl ˈdjʊərɪŋ ðə kwɪz/",
+              "hl": "The Str<span style='color:red'>i</span>ct Teacher Ins<span style='color:red'>i</span>st<span style='color:red'>i</span>d That The Students S<span style='color:red'>i</span>t St<span style='color:red'>i</span>ll D<span style='color:red'>i</span>ring The Qu<span style='color:red'>ui</span>z."
+            },
+            {
+              "text": "In A Tiny Village, A Rich Mixture Of Cultures Thrives.",
+              "ipa": "/ɪn ə ˈtaɪni ˈvɪlɪdʒ, ə rɪtʃ ˈmɪkstʃər əv ˈkʌltʃərz θraɪvz/",
+              "hl": "In A T<span style='color:red'>i</span>ny V<span style='color:red'>i</span>llage, A R<span style='color:red'>i</span>ch Mixture Of Cultures Thr<span style='color:red'>i</span>ves."
+            },
+            {
+              "text": "The Digital Clock Ticked In The Quiet, Dim Room.",
+              "ipa": "/ðə ˈdɪdʒɪtl klɒk tɪkt ɪn ðə ˈkwaɪət, dɪm ruːm/",
+              "hl": "The D<span style='color:red'>i</span>dʒɪtl Clock T<span style='color:red'>i</span>cked In The Quiet, D<span style='color:red'>i</span>m Room."
+            },
+            {
+              "text": "His Vivid Imagination Began To Breathe Life Into The Intricate Design.",
+              "ipa": "/hɪz ˈvɪvɪd ɪˌmædʒɪˈneɪʃən bɪˈɡæn tuː briːð laɪf ˈɪntuː ði ˈɪntrɪkət dɪˈzaɪn/",
+              "hl": "His V<span style='color:red'>i</span>v<span style='color:red'>i</span>d <span style='color:red'>I</span>mag<span style='color:red'>i</span>nation Beg<span style='color:red'>e</span>gan To Breathe L<span style='color:red'>i</span>fe Into The Intr<span style='color:red'>i</span>cate D<span style='color:red'>i</span>sign."
+            },
+            {
+              "text": "The Brisk Wind Whipped Through The Flimsy Curtains.",
+              "ipa": "/ðə brɪsk wɪnd wɪpt θruː ðə ˈflɪmzi ˈkɜːtnz/",
+              "hl": "The Br<span style='color:red'>i</span>sk Wind Wh<span style='color:red'>i</span>pped Through The Fl<span style='color:red'>i</span>msy Curtains."
+            },
+            {
+              "text": "A Quick Flick Of His Wrist Switched The Dim Light Off.",
+              "ipa": "/ə kwɪk flɪk əv hɪz rɪst swɪtʃt ðə dɪm laɪt ɒf/",
+              "hl": "A Qu<span style='color:red'>ui</span>ck Flick Of H<span style='color:red'>i</span>s Wrist Sw<span style='color:red'>i</span>tched The D<span style='color:red'>i</span>m Light Off."
+            },
+            {
+              "text": "The Slim, Fit Athlete Sprinted Across The Busy City Street.",
+              "ipa": "/ðə slɪm, fɪt ˈæθliːt sprɪntɪd əˈkrɒs ðə ˈbɪzi ˈsɪti striːt/",
+              "hl": "The Sl<span style='color:red'>i</span>m, Fit Athlete Spr<span style='color:red'>i</span>nted Across The B<span style='color:red'>u</span>sy C<span style='color:red'>i</span>ty Street."
+            },
+            {
+              "text": "The Brittle Ice On The River Melted In The Midday Heat.",
+              "ipa": "/ðə ˈbrɪtl aɪs ɒn ðə ˈrɪvər ˈmɛltɪd ɪn ðə ˈmɪddeɪ hiːt/",
+              "hl": "The Br<span style='color:red'>i</span>ttle Ice On The R<span style='color:red'>i</span>ver Melted In The M<span style='color:red'>i</span>dday Heat."
+            },
+            {
+              "text": "The Slick Trick Impressed The Crowd At The Fair.",
+              "ipa": "/ðə slɪk trɪk ɪmˈprɛst ðə kraʊd æt ðə feər/",
+              "hl": "The Sl<span style='color:red'>i</span>ck Tr<span style='color:red'>i</span>ck Impr<span style='color:red'>i</span>ssed The Crowd At The Fair."
+            },
+            {
+              "text": "The Dismissive Tone In His Voice Was Unmistakably Cold.",
+              "ipa": "/ðə dɪsˈmɪsɪv təʊn ɪn hɪz vɔɪs wəz ʌnˈmɪstɪkəblɪ kəʊld/",
+              "hl": "The D<span style='color:red'>i</span>sm<span style='color:red'>i</span>s<span style='color:red'>i</span>ve Tone In H<span style='color:red'>i</span>s Voice Was Unm<span style='color:red'>i</span>stakably Cold."
+            },
+            {
+              "text": "She Whispered A Secret In The Dim Corridor.",
+              "ipa": "/ʃiː ˈwɪspəd ə ˈsiːkrət ɪn ðə dɪm ˈkɒrɪdɔːr/",
+              "hl": "She Wh<span style='color:red'>i</span>sp<span style='color:red'>i</span>red A Secret In The D<span style='color:red'>i</span>m Corr<span style='color:red'>i</span>dor."
+            },
+            {
+              "text": "The Intricate Pattern On The Fabric Was A Delight To The Eyes.",
+              "ipa": "/ði ˈɪntrɪkət ˈpætərn ɒn ðə ˈfæbrɪk wəz ə dɪˈlaɪt tuː ði aɪz/",
+              "hl": "The Intr<span style='color:red'>i</span>cate Pattern On The Fab<span style='color:red'>i</span>c Was A Del<span style='color:red'>i</span>ght To The Eyes."
+            },
+            {
+              "text": "A Brisk Sip Of Chilled Milk Revived His Spirits.",
+              "ipa": "/ə brɪsk sɪp əv tʃɪld mɪlk rɪˈvaɪvd hɪz ˈspɪrɪts/",
+              "hl": "A Br<span style='color:red'>i</span>sk Sip Of Ch<span style='color:red'>i</span>lled Milk R<span style='color:red'>e</span>vived H<span style='color:red'>i</span>s Sp<span style='color:red'>i</span>r<span style='color:red'>i</span>ts."
+            },
+            {
+              "text": "In The Midnight Silence, The Distant Bells Clicked Rhythmically.",
+              "ipa": "/ɪn ðə ˈmɪdnaɪt ˈsaɪləns, ðə ˈdɪstənt belz klɪkt ˈrɪðmɪkli/",
+              "hl": "In The M<span style='color:red'>i</span>dnight Silence, The D<span style='color:red'>i</span>st<span style='color:red'>i</span>nt Bells Cl<span style='color:red'>i</span>cked Rhythm<span style='color:red'>i</span>cally."
+            },
+  {
+  "text": "This Simple Trick Helps You Master The i Sound.",
+  "ipa": "/ðɪs ˈsɪmpl trɪk hɛlps juː ˈmɑːstər ðə ˈɪ saʊnd/",
+  "hl": "Th<span style='color:red'>i</span>s S<span style='color:red'>i</span>mple Tr<span style='color:red'>i</span>ck Helps You Master The <span style='color:red'>i</span> Sound."
+  },
+            {
+              "text": "Little Children Sing In The Classroom.",
+              "ipa": "/ˈlɪtl ˈʧɪldrən sɪŋ ɪn ðə ˈklæsruːm/",
+              "hl": "L<span style='color:red'>i</span>ttle Ch<span style='color:red'>i</span>ldren S<span style='color:red'>i</span>ng <span style='color:red'>i</span>n The Classroom."
+            }
+          ]
         }
       ]
-    }
-]
     },
     "2": {
       "letters": {"ipa": "/ʊ/", "type": "short vowels"},
