@@ -1,15 +1,15 @@
 [
     {
-        "id" : 1
-
+        "id" : 1,
+"url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main//data/practices2/questions.json"
     },
     {
         "id" : 2,
-        "url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices/vocabulary.txt"
+        "url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/vocabulary.txt"
       },
       {
         "id" : 2,
-        "url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/topics/topics.json"
+        "url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/topics.json"
    
       }
 ]
