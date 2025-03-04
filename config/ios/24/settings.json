@@ -47,8 +47,8 @@
             "showVideoAdPercent": 100,
             "showIntertisialPercent": 20,
             "nativeAdvance": "ca-app-pub-7223114719058225/1050689372",
-            "showBanner": true,
-            "showNativeAdvance": true,
+            "showBanner": false,
+            "showNativeAdvance": false,
             "ecmp": "22"
         },
         "house_ads": {

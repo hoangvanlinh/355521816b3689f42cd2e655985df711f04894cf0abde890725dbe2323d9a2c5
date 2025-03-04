@@ -47,8 +47,8 @@
             "showVideoAdPercent": 100,
             "showIntertisialPercent": 20,
             "nativeAdvance": "ca-app-pub-7223114719058225/1253799545",
-            "showBanner": true,
-            "showNativeAdvance": true,
+            "showBanner": false,
+            "showNativeAdvance": false,
             "ecmp": "22"
         },
         "house_ads": {
@@ -57,7 +57,7 @@
             "enable": false
         },
         "unity_ads": {
-            "enable": true,
+            "enable": false,
             "game_id": "5802042",
             "banner": "Banner_Android",
             "interstitial": "Interstitial_Android",
