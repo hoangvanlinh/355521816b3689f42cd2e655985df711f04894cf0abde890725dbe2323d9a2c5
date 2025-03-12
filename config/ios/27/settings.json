@@ -71,6 +71,12 @@
     },
     "services": [
         {
+            "name": "free",
+            "api-key": "oycl81qsdh0qFZpLTkUAsw==:hAs7fA2Crp+68Sq719urCeP/O/zRT6RH9UYvPMk3iK6rbh0qtzLpkAG7zqDjULuL",
+            "model": ["gemini-1.5-flash"],
+            "docs": ""
+          },
+        {
           "name": "OpenAI",
           "apiKey": "YOUR_API_KEY",
           "model": ["gpt-4o"],
