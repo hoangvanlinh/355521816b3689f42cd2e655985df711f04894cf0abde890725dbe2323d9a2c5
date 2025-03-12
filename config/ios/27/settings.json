@@ -71,49 +71,61 @@
     },
     "services": [
         {
-            "name": "Free",
-            "api-key": "oycl81qsdh0qFZpLTkUAsw==:hAs7fA2Crp+68Sq719urCeP/O/zRT6RH9UYvPMk3iK6rbh0qtzLpkAG7zqDjULuL",
-            "model": ["gemini-1.5-flash"],
-            "docs": ""
-          },
-          {
             "name": "OpenAI",
-            "api-key": "YOUR_API_KEY",
-            "model": ["gpt-4o"],
+            "api-key": "",
+            "model": [
+              "gpt-4o"
+            ],
+            "docs": "https://platform.openai.com/api-keys",
+            "free": false
           },
           {
             "name": "xAI",
             "baseUrl": "https://api.x.ai/v1",
-            "api-key": "YOUR_API_KEY",
-            "model": ["grok-beta"],
-            "docs": "https://docs.x.ai/docs/overview#quick-reference"
+            "api-key": "Tx/pobGRxUbSM7yvgYo3Ig==:hj+hHDp49FXTDfWXAIhuCE1ttHbX2ZQzXu/S6W6sghNl29wjflpyf92+LmnpSgWh/bMD+zT5WCkz9vC2YrDLLm40btm/WLPMZm3NyG5sf33dvE4mBXWvRtlrb4QQHTAM",
+            "model": [
+              "grok-beta"
+            ],
+            "docs": "https://docs.x.ai/docs/overview#featured-models",
+            "free": true
           },
           {
             "name": "OpenRouter",
-            "api-key": "YOUR_API_KEY",
-            "model": ["meta-llama/llama-3.3-70b-instruct"],
+            "api-key": "MoLyzewTt2LC4JKsape0aw==:gdWy7N+nlnrcIyP58eVbTyZzy/sqKyi0HdvGYIEJaR4/f/AM2ISCEorSn4ctQ/aBtP5TeWnscXSBSe6n3eV7RtAG3XFBryvJVx5x47Z2FW0=",
+            "model": [
+              "meta-llama/llama-3.3-70b-instruct"
+            ],
             "baseUrl": "https://openrouter.ai/api/v1",
-            "docs": ""
+            "docs": "https://openrouter.ai/settings/keys",
+            "free": true
           },
-        
           {
             "name": "GitHub",
             "baseUrl": "https://models.inference.ai.azure.com",
-            "api-key": "YOUR_API_KEY",
-            "model": ["Phi-3.5-MoE-instruct"],
-            "docs": ""
+            "api-key": "",
+            "model": [
+              "Phi-3.5-MoE-instruct"
+            ],
+            "docs": "https://github.com/settings/tokens",
+            "free": false
           },
           {
             "name": "Google Gemini",
-            "api-key": "YOUR_API_KEY",
-            "model": ["gemini-1.5-flash"],
-            "docs": ""
+            "api-key": "sQOUxBYiYMIwcs0PL/nftA==:Lc1mkJctp/wVGbcLLmeBJKTNuaV5x7rLSTR3DfHoWu7hPL1TFKE+le4Q5di9cIK/",
+            "model": [
+              "gemini-1.5-flash"
+            ],
+            "docs": "https://aistudio.google.com/apikey",
+            "free": true
           },
           {
             "name": "Anthropic",
-            "api-key": "YOUR_API_KEY",
-            "model": ["claude-3-opus-20240229"],
-            "docs": ""
+            "api-key": "",
+            "model": [
+              "claude-3-opus-20240229"
+            ],
+            "docs": "https://console.anthropic.com/settings/keys",
+            "free": false
           }
       ]
 }
