@@ -82,12 +82,12 @@
           {
             "name": "xAI",
             "baseUrl": "https://api.x.ai/v1",
-            "api-key": "Tx/pobGRxUbSM7yvgYo3Ig==:hj+hHDp49FXTDfWXAIhuCE1ttHbX2ZQzXu/S6W6sghNl29wjflpyf92+LmnpSgWh/bMD+zT5WCkz9vC2YrDLLm40btm/WLPMZm3NyG5sf33dvE4mBXWvRtlrb4QQHTAM",
+            "api-key": "",
             "model": [
               "grok-beta"
             ],
             "docs": "https://docs.x.ai/docs/overview#featured-models",
-            "free": true
+            "free": false
           },
           {
             "name": "OpenRouter",
