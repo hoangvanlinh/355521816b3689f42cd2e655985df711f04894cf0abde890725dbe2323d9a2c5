@@ -71,49 +71,49 @@
     },
     "services": [
         {
-            "name": "free",
+            "name": "Free",
             "api-key": "oycl81qsdh0qFZpLTkUAsw==:hAs7fA2Crp+68Sq719urCeP/O/zRT6RH9UYvPMk3iK6rbh0qtzLpkAG7zqDjULuL",
             "model": ["gemini-1.5-flash"],
             "docs": ""
           },
-        {
-          "name": "OpenAI",
-          "apiKey": "YOUR_API_KEY",
-          "model": ["gpt-4o"],
-        },
-        {
-          "name": "xAI",
-          "baseUrl": "https://api.x.ai/v1",
-          "header": {"api-key": "YOUR_API_KEY"},
-          "model": ["grok-beta"],
-          "docs": "https://docs.x.ai/docs/overview#quick-reference"
-        },
-        {
-          "name": "OpenRouter",
-          "apiKey": "YOUR_API_KEY",
-          "model": ["meta-llama/llama-3.3-70b-instruct"],
-          "baseUrl": "https://openrouter.ai/api/v1",
-          "docs": ""
-        },
-      
-        {
-          "name": "GitHub",
-          "baseUrl": "https://models.inference.ai.azure.com",
-          "header": {"api-key": "YOUR_API_KEY"},
-          "model": ["Phi-3.5-MoE-instruct"],
-          "docs": ""
-        },
-        {
-          "name": "Google Gemini",
-          "api-key": "oycl81qsdh0qFZpLTkUAsw==:hAs7fA2Crp+68Sq719urCeP/O/zRT6RH9UYvPMk3iK6rbh0qtzLpkAG7zqDjULuL",
-          "model": ["gemini-1.5-flash"],
-          "docs": ""
-        },
-        {
-          "name": "Anthropic",
-          "api-key": "YOUR_API_KEY",
-          "model": ["claude-3-opus-20240229"],
-          "docs": ""
-        }
+          {
+            "name": "OpenAI",
+            "api-key": "YOUR_API_KEY",
+            "model": ["gpt-4o"],
+          },
+          {
+            "name": "xAI",
+            "baseUrl": "https://api.x.ai/v1",
+            "api-key": "YOUR_API_KEY",
+            "model": ["grok-beta"],
+            "docs": "https://docs.x.ai/docs/overview#quick-reference"
+          },
+          {
+            "name": "OpenRouter",
+            "api-key": "YOUR_API_KEY",
+            "model": ["meta-llama/llama-3.3-70b-instruct"],
+            "baseUrl": "https://openrouter.ai/api/v1",
+            "docs": ""
+          },
+        
+          {
+            "name": "GitHub",
+            "baseUrl": "https://models.inference.ai.azure.com",
+            "api-key": "YOUR_API_KEY",
+            "model": ["Phi-3.5-MoE-instruct"],
+            "docs": ""
+          },
+          {
+            "name": "Google Gemini",
+            "api-key": "YOUR_API_KEY",
+            "model": ["gemini-1.5-flash"],
+            "docs": ""
+          },
+          {
+            "name": "Anthropic",
+            "api-key": "YOUR_API_KEY",
+            "model": ["claude-3-opus-20240229"],
+            "docs": ""
+          }
       ]
 }
