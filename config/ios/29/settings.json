@@ -1,5 +1,5 @@
 {
-    "version" : "28",
+    "version" : "29",
     "langapp":[
         {"code": "en", "name": "English", "flag": "🇬🇧", "country": "United Kingdom"},
         {"code": "zh", "name": "Chinese", "flag": "🇨🇳", "country": "China"},
