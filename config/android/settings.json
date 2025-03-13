@@ -68,5 +68,64 @@
         "crypto":{
             "url": ""
         }
-    }
+    },
+    "services": [
+        {
+            "name": "OpenAI",
+            "api-key": "",
+            "model": [
+              "gpt-4o"
+            ],
+            "docs": "https://platform.openai.com/api-keys",
+            "free": false
+          },
+          {
+            "name": "xAI",
+            "baseUrl": "https://api.x.ai/v1",
+            "api-key": "",
+            "model": [
+              "grok-beta"
+            ],
+            "docs": "https://docs.x.ai/docs/overview#featured-models",
+            "free": false
+          },
+          {
+            "name": "OpenRouter",
+            "api-key": "MoLyzewTt2LC4JKsape0aw==:gdWy7N+nlnrcIyP58eVbTyZzy/sqKyi0HdvGYIEJaR4/f/AM2ISCEorSn4ctQ/aBtP5TeWnscXSBSe6n3eV7RtAG3XFBryvJVx5x47Z2FW0=",
+            "model": [
+              "meta-llama/llama-3.3-70b-instruct"
+            ],
+            "baseUrl": "https://openrouter.ai/api/v1",
+            "docs": "https://openrouter.ai/settings/keys",
+            "free": true
+          },
+          {
+            "name": "GitHub",
+            "baseUrl": "https://models.inference.ai.azure.com",
+            "api-key": "",
+            "model": [
+              "Phi-3.5-MoE-instruct"
+            ],
+            "docs": "https://github.com/settings/tokens",
+            "free": false
+          },
+          {
+            "name": "Google Gemini",
+            "api-key": "sQOUxBYiYMIwcs0PL/nftA==:Lc1mkJctp/wVGbcLLmeBJKTNuaV5x7rLSTR3DfHoWu7hPL1TFKE+le4Q5di9cIK/",
+            "model": [
+              "gemini-1.5-flash"
+            ],
+            "docs": "https://aistudio.google.com/apikey",
+            "free": true
+          },
+          {
+            "name": "Anthropic",
+            "api-key": "",
+            "model": [
+              "claude-3-opus-20240229"
+            ],
+            "docs": "https://console.anthropic.com/settings/keys",
+            "free": false
+          }
+      ]
 }
