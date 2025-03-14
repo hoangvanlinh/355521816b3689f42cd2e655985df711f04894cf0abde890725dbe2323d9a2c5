@@ -113,7 +113,7 @@
             "name": "Google Gemini",
             "api-key": "sQOUxBYiYMIwcs0PL/nftA==:Lc1mkJctp/wVGbcLLmeBJKTNuaV5x7rLSTR3DfHoWu7hPL1TFKE+le4Q5di9cIK/",
             "model": [
-              "gemini-1.5-flash"
+              "gemini-1.5-flash-002"
             ],
             "docs": "https://aistudio.google.com/apikey",
             "free": true
