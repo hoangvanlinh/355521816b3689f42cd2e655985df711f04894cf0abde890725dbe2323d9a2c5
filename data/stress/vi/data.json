@@ -1,0 +1,409 @@
+{
+    "sections": [
+      {
+        "title": "Trọng Âm Từ",
+        "description": "Trọng âm từ là việc nhấn mạnh một âm tiết cụ thể trong từ, giúp phân biệt nghĩa và đảm bảo phát âm chính xác.",
+        "rules": [
+          {
+            "rule": "Từ hai âm tiết - Danh từ và Tính từ",
+            "details": "Thông thường nhấn âm tiết đầu.",
+            "example": [
+              {
+                "text": "Table",
+                "ipa": "/ˈteɪ.bəl/",
+                "hl": "/<span style='color:red'>teɪ</span>.bəl/"
+              },
+              {
+                "text": "Happy",
+                "ipa": "/ˈhæ.pi/",
+                "hl": "/<span style='color:red'>hæ</span>.pi/"
+              },
+              {
+                "text": "Doctor",
+                "ipa": "/ˈdɒk.tər/",
+                "hl": "/<span style='color:red'>dɒk</span>.tər/"
+              },
+              {
+                "text": "Window",
+                "ipa": "/ˈwɪn.doʊ/",
+                "hl": "/<span style='color:red'>wɪn</span>.doʊ/"
+              },
+              {
+                "text": "Apple",
+                "ipa": "/ˈæp.əl/",
+                "hl": "/<span style='color:red'>æp</span>.əl/"
+              },
+              {
+                "text": "Mother",
+                "ipa": "/ˈmʌð.ər/",
+                "hl": "/<span style='color:red'>mʌð</span>.ər/"
+              },
+              {
+                "text": "Garden",
+                "ipa": "/ˈɡɑːr.dən/",
+                "hl": "/<span style='color:red'>ɡɑːr</span>.dən/"
+              },
+              {
+                "text": "Market",
+                "ipa": "/ˈmɑːr.kɪt/",
+                "hl": "/<span style='color:red'>mɑːr</span>.kɪt/"
+              },
+              {
+                "text": "Candle",
+                "ipa": "/ˈkæn.dəl/",
+                "hl": "/<span style='color:red'>kæn</span>.dəl/"
+              },
+              {
+                "text": "Bottle",
+                "ipa": "/ˈbɒt.əl/",
+                "hl": "/<span style='color:red'>bɒt</span>.əl/"
+              }
+            ]
+          },
+          {
+            "rule": "Từ hai âm tiết - Động từ và Giới từ",
+            "details": "Thông thường nhấn âm tiết thứ hai.",
+            "example": [
+              {
+                "text": "Relax",
+                "ipa": "/rɪˈlæks/",
+                "hl": "/rɪ<span style='color:red'>læks</span>/"
+              },
+              {
+                "text": "Arrive",
+                "ipa": "/əˈraɪv/",
+                "hl": "/ə<span style='color:red'>raɪv</span>/"
+              },
+              {
+                "text": "Begin",
+                "ipa": "/bɪˈɡɪn/",
+                "hl": "/bɪ<span style='color:red'>ɡɪn</span>/"
+              },
+              {
+                "text": "Export",
+                "ipa": "/ɪkˈspɔːrt/",
+                "hl": "/ɪk<span style='color:red'>spɔːrt</span>/"
+              },
+              {
+                "text": "Prepare",
+                "ipa": "/prɪˈpeər/",
+                "hl": "/prɪ<span style='color:red'>peər</span>/"
+              },
+              {
+                "text": "Receive",
+                "ipa": "/rɪˈsiːv/",
+                "hl": "/rɪ<span style='color:red'>siːv</span>/"
+              },
+              {
+                "text": "Include",
+                "ipa": "/ɪnˈkluːd/",
+                "hl": "/ɪn<span style='color:red'>kluːd</span>/"
+              },
+              {
+                "text": "Admit",
+                "ipa": "/ədˈmɪt/",
+                "hl": "/əd<span style='color:red'>mɪt</span>/"
+              },
+              {
+                "text": "Decide",
+                "ipa": "/dɪˈsaɪd/",
+                "hl": "/dɪ<span style='color:red'>saɪd</span>/"
+              },
+              {
+                "text": "Respond",
+                "ipa": "/rɪˈspɒnd/",
+                "hl": "/rɪ<span style='color:red'>spɒnd</span>/"
+              }
+            ]
+          },
+          {
+            "rule": "Từ kết thúc bằng -ion, -ic, -ity, -ical",
+            "details": "Nhấn âm tiết ngay trước hậu tố.",
+            "example": [
+              {
+                "text": "Geology",
+                "ipa": "/dʒiˈɒ.lə.dʒi/",
+                "hl": "/dʒi<span style='color:red'>ɒ</span>.lə.dʒi/"
+              },
+              {
+                "text": "Graphic",
+                "ipa": "/ɡræˈfɪk/",
+                "hl": "/ɡræ<span style='color:red'>fɪk</span>/"
+              },
+              {
+                "text": "Critic",
+                "ipa": "/ˈkrɪt.ɪk/",
+                "hl": "/<span style='color:red'>krɪt</span>.ɪk/"
+              },
+              {
+                "text": "Electric",
+                "ipa": "/ɪˈlɛk.trɪk/",
+                "hl": "/ɪ<span style='color:red'>lɛk</span>.trɪk/"
+              },
+              {
+                "text": "Activity",
+                "ipa": "/ækˈtɪv.ɪ.ti/",
+                "hl": "/æk<span style='color:red'>tɪv</span>.ɪ.ti/"
+              },
+              {
+                "text": "Ability",
+                "ipa": "/əˈbɪl.ɪ.ti/",
+                "hl": "/ə<span style='color:red'>bɪl</span>.ɪ.ti/"
+              },
+              {
+                "text": "Typical",
+                "ipa": "/ˈtɪp.ɪ.kəl/",
+                "hl": "/<span style='color:red'>tɪp</span>.ɪ.kəl/"
+              },
+              {
+                "text": "Logical",
+                "ipa": "/ˈlɒdʒ.ɪ.kəl/",
+                "hl": "/<span style='color:red'>lɒdʒ</span>.ɪ.kəl/"
+              },
+              {
+                "text": "Physical",
+                "ipa": "/ˈfɪz.ɪ.kəl/",
+                "hl": "/<span style='color:red'>fɪz</span>.ɪ.kəl/"
+              },
+              {
+                "text": "Musical",
+                "ipa": "/ˈmjuː.zɪ.kəl/",
+                "hl": "/<span style='color:red'>mjuː</span>.zɪ.kəl/"
+              }
+            ]
+          },
+          {
+            "rule": "Từ ghép - Danh từ ghép",
+            "details": "Nhấn từ đầu.",
+            "example": [
+              {
+                "text": "Postman",
+                "ipa": "/ˈpoʊst.mən/",
+                "hl": "/<span style='color:red'>poʊst</span>.mən/"
+              },
+              {
+                "text": "Blackboard",
+                "ipa": "/ˈblæk.bɔːrd/",
+                "hl": "/<span style='color:red'>blæk</span>.bɔːrd/"
+              },
+              {
+                "text": "Football",
+                "ipa": "/ˈfʊt.bɔːl/",
+                "hl": "/<span style='color:red'>fʊt</span>.bɔːl/"
+              },
+              {
+                "text": "Sunflower",
+                "ipa": "/ˈsʌn.flaʊ.ər/",
+                "hl": "/<span style='color:red'>sʌn</span>.flaʊ.ər/"
+              },
+              {
+                "text": "Notebook",
+                "ipa": "/ˈnoʊt.bʊk/",
+                "hl": "/<span style='color:red'>noʊt</span>.bʊk/"
+              },
+              {
+                "text": "Bedroom",
+                "ipa": "/ˈbed.ruːm/",
+                "hl": "/<span style='color:red'>bed</span>.ruːm/"
+              },
+              {
+                "text": "Cupcake",
+                "ipa": "/ˈkʌp.keɪk/",
+                "hl": "/<span style='color:red'>kʌp</span>.keɪk/"
+              },
+              {
+                "text": "Toothbrush",
+                "ipa": "/ˈtuːθ.brʌʃ/",
+                "hl": "/<span style='color:red'>tuːθ</span>.brʌʃ/"
+              },
+              {
+                "text": "Fireman",
+                "ipa": "/ˈfaɪər.mən/",
+                "hl": "/<span style='color:red'>faɪər</span>.mən/"
+              },
+              {
+                "text": "Birdhouse",
+                "ipa": "/ˈbɜːrd.haʊs/",
+                "hl": "/<span style='color:red'>bɜːrd</span>.haʊs/"
+              }
+            ]
+          },
+          {
+            "rule": "Từ ghép - Tính từ ghép",
+            "details": "Nhấn từ thứ hai.",
+            "example": [
+              {
+                "text": "Old-fashioned",
+                "ipa": "/oʊldˈfæ.ʃənd/",
+                "hl": "/oʊld<span style='color:red'>fæ</span>.ʃənd/"
+              },
+              {
+                "text": "Bad-tempered",
+                "ipa": "/bædˈtɛmp.ərd/",
+                "hl": "/bæd<span style='color:red'>tɛmp</span>.ərd/"
+              },
+              {
+                "text": "Well-known",
+                "ipa": "/wɛlˈnoʊn/",
+                "hl": "/wɛl<span style='color:red'>noʊn</span>/"
+              },
+              {
+                "text": "High-pitched",
+                "ipa": "/haɪˈpɪtʃt/",
+                "hl": "/haɪ<span style='color:red'>pɪtʃt</span>/"
+              },
+              {
+                "text": "Long-lasting",
+                "ipa": "/lɔŋˈlæs.tɪŋ/",
+                "hl": "/lɔŋ<span style='color:red'>læs</span>.tɪŋ/"
+              },
+              {
+                "text": "Cold-hearted",
+                "ipa": "/koʊldˈhɑːr.tɪd/",
+                "hl": "/koʊld<span style='color:red'>hɑːr</span>.tɪd/"
+              },
+              {
+                "text": "Light-weight",
+                "ipa": "/laɪtˈweɪt/",
+                "hl": "/laɪt<span style='color:red'>weɪt</span>/"
+              },
+              {
+                "text": "Quick-witted",
+                "ipa": "/kwɪkˈwɪt.ɪd/",
+                "hl": "/kwɪk<span style='color:red'>wɪt</span>.ɪd/"
+              },
+              {
+                "text": "Heavy-handed",
+                "ipa": "/ˌhev.iˈhænd.ɪd/",
+                "hl": "/hev.i<span style='color:red'>hænd</span>.ɪd/"
+              },
+              {
+                "text": "Tight-lipped",
+                "ipa": "/taɪtˈlɪpt/",
+                "hl": "/taɪt<span style='color:red'>lɪpt</span>/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Trọng Âm Câu",
+        "description": "Trọng âm câu là việc nhấn mạnh các từ mang ý nghĩa chính trong câu nhằm làm nổi bật thông tin quan trọng.",
+        "rules": [
+          {
+            "rule": "Từ mang nội dung chính",
+            "details": "Các từ như danh từ, động từ chính, tính từ, trạng từ và từ để hỏi thường được nhấn mạnh.",
+            "example": [
+              {
+                "text": "I like reading books on the weekend.",
+                "ipa": "/aɪ ˈlaɪk ˈriː.dɪŋ ˈbʊks ɒn ðə ˈwiːkˌɛnd/",
+                "hl": "/aɪ <span style='color:red'>laɪk</span> <span style='color:red'>riː</span>.dɪŋ <span style='color:red'>bʊks</span> ɒn ðə <span style='color:red'>wiːk</span><span style='color:red'>ɛnd</span>/"
+              },
+              {
+                "text": "She enjoys playing the piano beautifully.",
+                "ipa": "/ʃi ɪnˈdʒɔɪz ˈpleɪ.ɪŋ ðə piˈæ.noʊ ˌbjuː.tɪ.fəl.i/",
+                "hl": "/ʃi ɪn<span style='color:red'>dʒɔɪz</span> <span style='color:red'>pleɪ</span>.ɪŋ ðə pi<span style='color:red'>æ</span>.noʊ <span style='color:red'>bjuː</span>.tɪ.fəl.i/"
+              },
+              {
+                "text": "They visited the ancient castle last summer.",
+                "ipa": "/ðeɪ ˈvɪz.ɪ.tɪd ðə ˈeɪn.ʃənt ˈkæs.əl lɑːst ˈsʌm.ər/",
+                "hl": "/ðeɪ <span style='color:red'>vɪz</span>.ɪ.tɪd ðə <span style='color:red'>eɪn</span>.ʃənt <span style='color:red'>kæs</span>.əl lɑːst <span style='color:red'>sʌm</span>.ər/"
+              },
+              {
+                "text": "We will travel across the country by train.",
+                "ipa": "/wi wɪl ˈtræv.əl əˈkrɒs ðə ˈkʌn.tri baɪ treɪn/",
+                "hl": "/wi wɪl <span style='color:red'>træv</span>.əl əˈkrɒs ðə <span style='color:red'>kʌn</span>.tri baɪ <span style='color:red'>treɪn</span>/"
+              },
+              {
+                "text": "He studies history at the prestigious university.",
+                "ipa": "/hi ˈstʌd.iz ˈhɪs.tər.i æt ðə prɪˈstiː.dʒəs ˌjuː.nɪˈvɜːr.sə.ti/",
+                "hl": "/hi <span style='color:red'>stʌd</span>.iz <span style='color:red'>hɪs</span>.tər.i æt ðə prɪ<span style='color:red'>stiː</span>.dʒəs <span style='color:red'>juː</span>.nɪ<span style='color:red'>vɜːr</span>.sə.ti/"
+              },
+              {
+                "text": "The chef prepared a delicious meal for dinner.",
+                "ipa": "/ðə ʃɛf prɪˈpeərd ə dɪˈlɪʃ.əs miːl fɔːr ˈdɪn.ər/",
+                "hl": "/ðə ʃɛf prɪ<span style='color:red'>peərd</span> ə dɪ<span style='color:red'>lɪʃ</span>.əs miːl fɔːr <span style='color:red'>dɪn</span>.ər/"
+              },
+              {
+                "text": "Our team won the championship game yesterday.",
+                "ipa": "/aʊər tiːm wʌn ðə ˈtʃæm.pi.ən.ʃɪp ɡeɪm ˈjɛs.tə.deɪ/",
+                "hl": "/aʊər tiːm <span style='color:red'>wʌn</span> ðə <span style='color:red'>tʃæm</span>.pi.ən.ʃɪp ɡeɪm <span style='color:red'>jɛs</span>.tə.deɪ/"
+              },
+              {
+                "text": "My friend bought a new smartphone online.",
+                "ipa": "/maɪ frɛnd bɔːt ə njuː ˈsmɑːrt.foʊn ˈɒn.laɪn/",
+                "hl": "/maɪ frɛnd bɔːt ə njuː <span style='color:red'>smɑːrt</span>.foʊn <span style='color:red'>ɒn</span>.laɪn/"
+              },
+              {
+                "text": "Parents value their children's education greatly.",
+                "ipa": "/ˈpeər.ənts ˈvæl.juː ðɛər ˈtʃɪl.drənz ˌɛd.jʊˈkeɪ.ʃən ˈɡreɪt.li/",
+                "hl": "/<span style='color:red'>peər</span>.ənts <span style='color:red'>væl</span>.juː ðɛər <span style='color:red'>tʃɪl</span>.drənz ˌɛd.jʊ<span style='color:red'>keɪ</span>.ʃən <span style='color:red'>ɡreɪt</span>.li/"
+              },
+              {
+                "text": "Artists create stunning artworks in vibrant colors.",
+                "ipa": "/ˈɑːr.tɪsts kriˈeɪt ˈstʌn.ɪŋ ˈɑːrt.wɜːrks ɪn ˈvaɪ.brənt ˈkʌl.ərz/",
+                "hl": "/<span style='color:red'>ɑːr</span>.tɪsts kri<span style='color:red'>eɪt</span> <span style='color:red'>stʌn</span>.ɪŋ <span style='color:red'>ɑːrt</span>.wɜːrks ɪn <span style='color:red'>vaɪ</span>.brənt <span style='color:red'>kʌl</span>.ərz/"
+              }
+            ]
+          },
+          {
+            "rule": "Từ chức năng",
+            "details": "Các từ như mạo từ, đại từ, giới từ và liên từ thường không được nhấn mạnh.",
+            "example": [
+              {
+                "text": "The",
+                "ipa": "/ðə/",
+                "hl": "/ðə/"
+              },
+              {
+                "text": "And",
+                "ipa": "/ənd/",
+                "hl": "/ənd/"
+              },
+              {
+                "text": "But",
+                "ipa": "/bʌt/",
+                "hl": "/bʌt/"
+              },
+              {
+                "text": "Or",
+                "ipa": "/ɔːr/",
+                "hl": "/ɔːr/"
+              },
+              {
+                "text": "If",
+                "ipa": "/ɪf/",
+                "hl": "/ɪf/"
+              },
+              {
+                "text": "When",
+                "ipa": "/wɛn/",
+                "hl": "/wɛn/"
+              },
+              {
+                "text": "Where",
+                "ipa": "/wɛər/",
+                "hl": "/wɛər/"
+              },
+              {
+                "text": "Because",
+                "ipa": "/bɪˈkɔːz/",
+                "hl": "/bɪˈkɔːz/"
+              },
+              {
+                "text": "Although",
+                "ipa": "/ɔːlˈðoʊ/",
+                "hl": "/ɔːlˈðoʊ/"
+              },
+              {
+                "text": "So",
+                "ipa": "/soʊ/",
+                "hl": "/soʊ/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
