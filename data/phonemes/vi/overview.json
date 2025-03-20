@@ -1,31 +1,30 @@
 {
-    "vowels": {
-      "short": {
-        "explanation": "Short vowels are produced quickly with minimal muscular tension. They are typically unstressed and have a concise, less distinct vowel quality."
-      },
-      "long": {
-        "explanation": "Long vowels have an extended duration and require more muscular tension during articulation. They are often used in minimal pairs to differentiate word meanings."
-      },
-      "diphthongs": {
-        "explanation": "Diphthongs involve a smooth transition from one vowel quality to another within the same syllable, creating a dynamic, shifting sound."
-      }
+  "vowels": {
+    "short": {
+      "explanation": "Nguyên âm ngắn được phát âm nhanh chóng với ít căng cơ. Chúng thường không được nhấn mạnh và có chất lượng nguyên âm ngắn gọn, không rõ ràng."
     },
-    "consonants": {
-      "fricatives": {
-        "explanation": "Fricatives are produced by forcing air through a narrow channel, which creates continuous, turbulent airflow without completely stopping the air."
-      },
-      "plosives": {
-        "explanation": "Plosives (or stops) are formed by completely blocking the airflow and then releasing it suddenly, which produces a burst of sound."
-      },
-      "nasals": {
-        "explanation": "Nasals are articulated by closing the oral cavity and directing the airflow exclusively through the nasal passages, giving them a distinctive 'nasal' quality."
-      },
-      "approximants": {
-        "explanation": "Approximants are produced with the articulators coming close together but not close enough to create significant friction. They offer smooth transitions and are less disruptive to airflow."
-      },
-      "affricates": {
-        "explanation": "Affricates begin with a complete blockage of airflow, similar to plosives, and then transition into a fricative phase, combining characteristics of both sound types."
-      }
+    "long": {
+      "explanation": "Nguyên âm dài có thời lượng phát âm kéo dài hơn và đòi hỏi sự căng cơ nhiều hơn trong quá trình phát âm. Chúng thường được sử dụng trong các cặp tối thiểu để phân biệt nghĩa của từ."
+    },
+    "diphthongs": {
+      "explanation": "Nguyên âm đôi liên quan đến sự chuyển đổi mượt mà từ một chất lượng nguyên âm sang chất lượng nguyên âm khác trong cùng một âm tiết, tạo ra âm thanh năng động và thay đổi."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Âm xát được phát âm bằng cách ép luồng không khí qua một khe hẹp, tạo ra luồng không khí liên tục và rối loạn mà không chặn hoàn toàn luồng không khí."
+    },
+    "plosives": {
+      "explanation": "Âm bật (hoặc âm dừng) được hình thành bằng cách chặn hoàn toàn luồng không khí và sau đó thả ra đột ngột, tạo ra một vụ nổ âm thanh."
+    },
+    "nasals": {
+      "explanation": "Âm mũi được phát âm bằng cách đóng khoang miệng và chỉ định hướng luồng không khí qua các lỗ mũi, mang lại chất lượng âm thanh đặc trưng của 'âm mũi'."
+    },
+    "approximants": {
+      "explanation": "Âm tiếp cận được phát âm khi các cơ quan tạo âm tiến gần nhau nhưng không đủ gần để tạo ra sự ma sát đáng kể. Chúng cho phép sự chuyển đổi mượt mà và ít cản trở luồng không khí."
+    },
+    "affricates": {
+      "explanation": "Âm tắc-xát bắt đầu với việc chặn hoàn toàn luồng không khí, tương tự như âm bật, sau đó chuyển sang pha âm xát, kết hợp các đặc tính của cả hai loại âm."
     }
   }
-  
+}
