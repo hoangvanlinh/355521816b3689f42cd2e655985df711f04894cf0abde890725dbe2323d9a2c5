@@ -345,10 +345,17 @@
                 "hl": "/<span style='color:red'>ɑːr</span>.tɪsts kri<span style='color:red'>eɪt</span> <span style='color:red'>stʌn</span>.ɪŋ <span style='color:red'>ɑːrt</span>.wɜːrks ɪn <span style='color:red'>vaɪ</span>.brənt <span style='color:red'>kʌl</span>.ərz/"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Function Words",
+        "description": "Function words are words that support the grammatical structure of a sentence and typically are not stressed because they do not carry the main lexical meaning.",
+        "rules": [
           {
-            "rule": "Function Words",
-            "details": "Words such as articles, pronouns, prepositions, and conjunctions are usually not stressed.",
+            "rule": "Non-Stressed Words",
+            "details": "Articles, pronouns, prepositions, and conjunctions are generally not stressed.",
+            "note": "These words serve grammatical functions rather than conveying primary meaning, which is why they are usually spoken with less stress.",
             "example": [
               {
                 "text": "The",
