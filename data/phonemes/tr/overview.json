@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Kısa ünlüler, minimum kas gerilimiyle hızlı bir şekilde telaffuz edilir. Genellikle vurgusuzdur ve kısa, daha az belirgin bir ses kalitesine sahiptir."
+    },
+    "long": {
+      "explanation": "Uzun ünlüler, daha uzun bir süreye sahiptir ve telaffuz sırasında daha fazla kas gerilimi gerektirir. Genellikle kelime anlamlarını ayırt etmek için minimal çiftlerde kullanılır."
+    },
+    "diphthongs": {
+      "explanation": "İkili ünlüler, aynı hecede bir ünlü sesinden diğerine yumuşak bir geçişle oluşur ve dinamik, değişen bir ses yaratır."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Sürtünmeli ünsüzler, dar bir kanaldan hava geçirilerek üretilir ve havanın tamamen engellenmeden sürekli ve türbülanslı bir akış oluşturmasına neden olur."
+    },
+    "plosives": {
+      "explanation": "Patlayıcı ünsüzler, hava akışının tamamen engellenmesi ve ardından ani bir şekilde serbest bırakılmasıyla üretilir ve patlayıcı bir ses çıkarır."
+    },
+    "nasals": {
+      "explanation": "Nazal ünsüzler, ağız boşluğunun kapatılması ve havanın yalnızca burundan geçmesine izin verilmesiyle üretilir ve karakteristik 'nazal' bir tını verir."
+    },
+    "approximants": {
+      "explanation": "Yakınsayan ünsüzler, artikülatörlerin birbirine yaklaşması ancak sürtünme oluşturacak kadar yakın olmamasıyla oluşur ve hava akışında minimum engelleme ile akıcı geçişler sağlar."
+    },
+    "affricates": {
+      "explanation": "Afrikatlar, hava akışının patlayıcı bir sesle tamamen engellenmesiyle başlar ve ardından sürtünmeli bir aşamaya geçerek her iki sesin özelliklerini birleştirir."
+    }
+  }
+}

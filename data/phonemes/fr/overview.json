@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Les voyelles courtes se prononcent rapidement avec une tension musculaire minimale. Elles sont généralement non accentuées et ont une qualité sonore brève et moins marquée."
+    },
+    "long": {
+      "explanation": "Les voyelles longues ont une durée plus importante et nécessitent plus de tension musculaire lors de la prononciation. Elles sont souvent utilisées dans des paires minimales pour distinguer le sens des mots."
+    },
+    "diphthongs": {
+      "explanation": "Les diphtongues impliquent une transition fluide d'une qualité vocalique à une autre au sein d'une même syllabe, créant un son dynamique et changeant."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Les fricatives sont produites en forçant l'air à travers un canal étroit, créant un flux d'air turbulent et continu sans bloquer complètement l'air."
+    },
+    "plosives": {
+      "explanation": "Les occlusives (ou explosives) sont produites en bloquant complètement le flux d'air, puis en le relâchant brusquement, créant un son explosif."
+    },
+    "nasals": {
+      "explanation": "Les nasales sont produites en fermant la cavité buccale et en dirigeant l'air uniquement par le nez, leur donnant une qualité sonore caractéristique 'nasale'."
+    },
+    "approximants": {
+      "explanation": "Les approximantes sont produites lorsque les articulateurs se rapprochent sans créer suffisamment de friction. Elles permettent des transitions fluides et gênent à peine le flux d'air."
+    },
+    "affricates": {
+      "explanation": "Les affriquées commencent par un blocage complet du flux d'air, comme les occlusives, puis passent à une phase fricative, combinant les caractéristiques des deux types de sons."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Kurze Vokale werden schnell mit minimaler Muskelanspannung ausgesprochen. Sie sind typischerweise unbetont und haben eine kurze und weniger ausgeprägte Klangqualität."
+    },
+    "long": {
+      "explanation": "Lange Vokale haben eine längere Dauer und erfordern mehr Muskelspannung beim Sprechen. Sie werden häufig in Minimalpaaren verwendet, um Bedeutungsunterschiede zwischen Wörtern zu markieren."
+    },
+    "diphthongs": {
+      "explanation": "Diphthonge beinhalten einen sanften Übergang von einer Vokalqualität zu einer anderen innerhalb derselben Silbe und erzeugen einen dynamischen, wechselnden Klang."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Frikative entstehen, wenn Luft durch einen engen Spalt gepresst wird, wodurch ein kontinuierlicher, turbulenter Luftstrom entsteht, ohne den Luftfluss vollständig zu blockieren."
+    },
+    "plosives": {
+      "explanation": "Plosive (oder Verschlusslaute) entstehen durch das vollständige Blockieren des Luftstroms, gefolgt von einer plötzlichen Freigabe, was einen Explosionslaut erzeugt."
+    },
+    "nasals": {
+      "explanation": "Nasale werden gebildet, indem der Mundraum verschlossen und die Luft ausschließlich durch die Nase geleitet wird, was ihnen einen charakteristischen 'nasalen' Klang verleiht."
+    },
+    "approximants": {
+      "explanation": "Approximanten entstehen, wenn sich die Artikulatoren annähern, aber nicht nah genug sind, um eine nennenswerte Reibung zu erzeugen. Sie ermöglichen sanfte Übergänge mit minimaler Luftstrombehinderung."
+    },
+    "affricates": {
+      "explanation": "Affrikaten beginnen mit einer vollständigen Blockierung des Luftstroms wie bei Plosiven und gehen dann in eine Frikativphase über, wodurch sie Merkmale beider Laute kombinieren."
+    }
+  }
+}

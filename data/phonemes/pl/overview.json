@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Samogłoski krótkie wymawia się szybko, z minimalnym napięciem mięśniowym. Zwykle nie są akcentowane i mają krótką, mniej wyraźną jakość dźwięku."
+    },
+    "long": {
+      "explanation": "Samogłoski długie mają dłuższy czas trwania i wymagają większego napięcia mięśniowego podczas wymowy. Często są używane w parach minimalnych, aby rozróżniać znaczenie słów."
+    },
+    "diphthongs": {
+      "explanation": "Dyftongi polegają na płynnym przejściu z jednej jakości samogłoski do innej w tej samej sylabie, tworząc dynamiczny i zmieniający się dźwięk."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Spółgłoski szczelinowe powstają poprzez przepuszczenie powietrza przez wąski kanał, tworząc ciągły, turbulentny przepływ powietrza bez całkowitego jego zablokowania."
+    },
+    "plosives": {
+      "explanation": "Spółgłoski zwarte powstają przez całkowite zablokowanie przepływu powietrza, a następnie jego nagłe uwolnienie, co tworzy wybuchowy dźwięk."
+    },
+    "nasals": {
+      "explanation": "Spółgłoski nosowe powstają poprzez zamknięcie jamy ustnej i przepuszczenie powietrza wyłącznie przez nos, co nadaje im charakterystyczne „nosowe” brzmienie."
+    },
+    "approximants": {
+      "explanation": "Spółgłoski przydechowe powstają, gdy narządy mowy zbliżają się do siebie, ale nie na tyle, aby wytworzyć tarcie, umożliwiając płynne przejścia z minimalnym zakłóceniem przepływu powietrza."
+    },
+    "affricates": {
+      "explanation": "Afrikaty zaczynają się od całkowitego zablokowania przepływu powietrza jak w przypadku spółgłoski zwartej, a następnie przechodzą w fazę szczelinową, łącząc cechy obu dźwięków."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Las vocales cortas se pronuncian rápidamente con una mínima tensión muscular. Normalmente no son acentuadas y tienen una calidad sonora breve y menos clara."
+    },
+    "long": {
+      "explanation": "Las vocales largas tienen una duración mayor y requieren más tensión muscular durante su pronunciación. A menudo se utilizan en pares mínimos para diferenciar significados de palabras."
+    },
+    "diphthongs": {
+      "explanation": "Los diptongos implican una transición suave de una calidad vocálica a otra dentro de la misma sílaba, creando un sonido dinámico y cambiante."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Las fricativas se producen al forzar el aire a través de un canal estrecho, creando un flujo de aire continuo y turbulento sin detenerlo por completo."
+    },
+    "plosives": {
+      "explanation": "Las oclusivas (o explosivas) se producen bloqueando completamente el flujo de aire y luego liberándolo de forma repentina, generando un sonido explosivo."
+    },
+    "nasals": {
+      "explanation": "Las nasales se producen cerrando la cavidad oral y dirigiendo el aire únicamente a través de la nariz, lo que les da una calidad sonora 'nasal' característica."
+    },
+    "approximants": {
+      "explanation": "Las aproximantes se producen cuando los órganos articulatorios se acercan entre sí pero no lo suficiente como para crear fricción. Permiten transiciones suaves y apenas obstruyen el flujo de aire."
+    },
+    "affricates": {
+      "explanation": "Las africadas comienzan con una obstrucción completa del aire, como las oclusivas, y luego pasan a una fase fricativa, combinando características de ambos tipos."
+    }
+  }
+}

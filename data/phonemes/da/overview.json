@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Korte vokaler udtales hurtigt med minimal muskelspænding. De er typisk uden tryk og har en kort og mindre tydelig vokalkvalitet."
+    },
+    "long": {
+      "explanation": "Lange vokaler har en længere varighed og kræver mere muskelspænding under udtalen. De bruges ofte i minimale par til at skelne mellem ords betydninger."
+    },
+    "diphthongs": {
+      "explanation": "Diftonger indebærer en glidende overgang fra én vokalkvalitet til en anden inden for samme stavelse og skaber en dynamisk og skiftende lyd."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Frikativer dannes ved at tvinge luft gennem en smal åbning, hvilket skaber en kontinuerlig, turbulent luftstrøm uden helt at blokere luftvejene."
+    },
+    "plosives": {
+      "explanation": "Plosiver (eller lukkelyde) dannes ved at blokere luftstrømmen helt og derefter frigive den pludseligt, hvilket skaber en eksplosion af lyd."
+    },
+    "nasals": {
+      "explanation": "Nasaler udtales ved at lukke mundhulen og lede luften udelukkende gennem næsen, hvilket giver dem en karakteristisk 'nasal' kvalitet."
+    },
+    "approximants": {
+      "explanation": "Approksimanter dannes, når artikulatorerne nærmer sig hinanden uden at skabe tilstrækkelig friktion. De skaber glidende overgange og forstyrrer luftstrømmen minimalt."
+    },
+    "affricates": {
+      "explanation": "Affrikater begynder med en fuldstændig blokering af luftstrømmen som plosiver og overgår derefter til en frikativ fase, hvor de kombinerer egenskaber fra begge lydtyper."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Le vocali brevi vengono pronunciate rapidamente con una minima tensione muscolare. Di solito non sono accentate e hanno una qualità sonora breve e meno marcata."
+    },
+    "long": {
+      "explanation": "Le vocali lunghe hanno una durata maggiore e richiedono una maggiore tensione muscolare durante la pronuncia. Sono spesso utilizzate in coppie minime per distinguere il significato delle parole."
+    },
+    "diphthongs": {
+      "explanation": "I dittonghi comportano una transizione fluida da una qualità vocalica a un'altra all'interno della stessa sillaba, creando un suono dinamico e mutevole."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Le fricative si producono forzando l'aria attraverso un canale stretto, creando un flusso d'aria continuo e turbolento senza bloccare completamente l'aria."
+    },
+    "plosives": {
+      "explanation": "Le plosive (o occlusive) si producono bloccando completamente il flusso d'aria e poi rilasciandolo improvvisamente, creando un suono esplosivo."
+    },
+    "nasals": {
+      "explanation": "Le nasali si formano chiudendo la cavità orale e facendo passare l'aria esclusivamente attraverso il naso, conferendo loro una qualità sonora 'nasale' caratteristica."
+    },
+    "approximants": {
+      "explanation": "Le approssimanti si producono quando gli organi articolatori si avvicinano ma non abbastanza da creare frizione. Consentono transizioni fluide con minima ostruzione del flusso d'aria."
+    },
+    "affricates": {
+      "explanation": "Le affricate iniziano con un blocco completo del flusso d'aria come le plosive, per poi passare a una fase fricativa, combinando le caratteristiche di entrambi i tipi di suoni."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Korta vokaler uttalas snabbt med minimal muskelspänning. De är vanligtvis obetonade och har en kort, mindre tydlig klang."
+    },
+    "long": {
+      "explanation": "Långa vokaler har längre varaktighet och kräver mer muskelspänning vid uttal. De används ofta i minimala par för att skilja mellan ords betydelser."
+    },
+    "diphthongs": {
+      "explanation": "Diftonger innebär en smidig övergång från en vokalkvalitet till en annan inom samma stavelse, vilket skapar ett dynamiskt och skiftande ljud."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Frikativor produceras genom att pressa luft genom en smal kanal, vilket skapar ett kontinuerligt och turbulent luftflöde utan att helt blockera luften."
+    },
+    "plosives": {
+      "explanation": "Plosiver skapas genom att helt blockera luftflödet och sedan släppa det plötsligt, vilket ger ett explosivt ljud."
+    },
+    "nasals": {
+      "explanation": "Nasaler bildas genom att stänga munhålan och låta luften passera enbart genom näsan, vilket ger dem en karakteristisk 'nasal' klang."
+    },
+    "approximants": {
+      "explanation": "Approximanter uppstår när artikulatorerna närmar sig varandra, men inte tillräckligt för att skapa friktion, vilket möjliggör smidiga övergångar med minimal störning av luftflödet."
+    },
+    "affricates": {
+      "explanation": "Affrikator börjar med en fullständig blockering av luftflödet som en plosiv och övergår sedan till en frikativ fas, vilket kombinerar egenskaper från båda ljuden."
+    }
+  }
+}

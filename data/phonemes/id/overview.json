@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Vokal pendek diucapkan dengan cepat dan dengan ketegangan otot yang minimal. Mereka biasanya tidak diberi tekanan dan memiliki kualitas suara yang singkat dan kurang jelas."
+    },
+    "long": {
+      "explanation": "Vokal panjang memiliki durasi yang lebih lama dan membutuhkan lebih banyak ketegangan otot saat diucapkan. Mereka sering digunakan dalam pasangan minimal untuk membedakan makna kata."
+    },
+    "diphthongs": {
+      "explanation": "Diftong melibatkan transisi yang mulus dari satu kualitas vokal ke kualitas vokal lainnya dalam satu suku kata, menciptakan suara yang dinamis dan berubah-ubah."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Fricative dihasilkan dengan memaksa udara melewati celah sempit, menciptakan aliran udara yang terus-menerus dan turbulen tanpa sepenuhnya menghalangi aliran udara."
+    },
+    "plosives": {
+      "explanation": "Plosif (atau letupan) dihasilkan dengan memblokir aliran udara sepenuhnya dan kemudian melepaskannya secara tiba-tiba, menciptakan suara seperti ledakan."
+    },
+    "nasals": {
+      "explanation": "Nasal diucapkan dengan menutup rongga mulut dan mengalirkan udara hanya melalui hidung, memberi mereka kualitas suara yang khas 'nasal'."
+    },
+    "approximants": {
+      "explanation": "Aproksiman dihasilkan ketika artikulator mendekat satu sama lain tetapi tidak cukup dekat untuk menciptakan gesekan. Mereka memungkinkan transisi yang lancar dengan gangguan minimal pada aliran udara."
+    },
+    "affricates": {
+      "explanation": "Afrikat dimulai dengan blokade penuh aliran udara seperti plosif, lalu beralih ke fase frikatif, menggabungkan karakteristik kedua jenis bunyi tersebut."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Korte klinkers worden snel uitgesproken met minimale spierspanning. Ze krijgen meestal geen klemtoon en hebben een korte, minder duidelijke klankkwaliteit."
+    },
+    "long": {
+      "explanation": "Lange klinkers hebben een langere duur en vereisen meer spierspanning tijdens de uitspraak. Ze worden vaak gebruikt in minimale paren om betekenisverschillen tussen woorden aan te geven."
+    },
+    "diphthongs": {
+      "explanation": "Diftongen omvatten een vloeiende overgang van de ene klinkerklank naar de andere binnen één lettergreep, wat een dynamisch en veranderlijk geluid creëert."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Fricatieven worden geproduceerd door lucht door een nauwe opening te persen, waardoor een continue, turbulente luchtstroom ontstaat zonder de lucht volledig te blokkeren."
+    },
+    "plosives": {
+      "explanation": "Plosieven worden geproduceerd door de luchtstroom volledig te blokkeren en deze vervolgens plotseling los te laten, wat een explosief geluid oplevert."
+    },
+    "nasals": {
+      "explanation": "Nasalen worden uitgesproken door de mondholte te sluiten en de lucht uitsluitend via de neus te laten ontsnappen, wat hen een kenmerkende 'neuzige' klank geeft."
+    },
+    "approximants": {
+      "explanation": "Approximanten worden gevormd wanneer de articulatoren elkaar benaderen, maar niet dichtbij genoeg komen om wrijving te veroorzaken. Ze zorgen voor vloeiende overgangen met minimale verstoring van de luchtstroom."
+    },
+    "affricates": {
+      "explanation": "Affricaten beginnen met een volledige blokkering van de luchtstroom zoals bij plosieven en gaan vervolgens over naar een fricatiefase, waarbij kenmerken van beide klanken worden gecombineerd."
+    }
+  }
+}

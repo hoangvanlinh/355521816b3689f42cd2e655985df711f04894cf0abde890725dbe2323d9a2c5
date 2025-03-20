@@ -1,0 +1,30 @@
+{
+  "vowels": {
+    "short": {
+      "explanation": "Krátké samohlásky se vyslovují rychle s minimálním svalovým napětím. Obvykle nejsou přízvučné a mají méně výraznou, kratší kvalitu."
+    },
+    "long": {
+      "explanation": "Dlouhé samohlásky mají delší trvání a vyžadují větší svalové napětí při výslovnosti. Často se používají k rozlišování významů slov v minimálních párech."
+    },
+    "diphthongs": {
+      "explanation": "Dvojhlásky představují plynulý přechod z jedné samohlásky na druhou v rámci jedné slabiky a vytvářejí dynamický a měnící se zvuk."
+    }
+  },
+  "consonants": {
+    "fricatives": {
+      "explanation": "Třené souhlásky vznikají tím, že se vzduch tlačí úzkým kanálem, čímž se vytváří nepřerušovaný, turbulentní proud vzduchu bez úplného zastavení."
+    },
+    "plosives": {
+      "explanation": "Závěrové souhlásky (exploze) vznikají úplným zablokováním vzduchového proudu a jeho náhlým uvolněním, což způsobuje zvukový výbuch."
+    },
+    "nasals": {
+      "explanation": "Nosové souhlásky se tvoří zavřením ústní dutiny a směrováním vzduchu pouze nosem, což jim dává charakteristickou 'nosovou' kvalitu."
+    },
+    "approximants": {
+      "explanation": "Polozávěrové souhlásky vznikají tím, že se artikulační orgány přiblíží, ale ne natolik, aby vytvořily znatelnou třecí sílu. Umožňují hladké přechody a jen minimálně narušují proudění vzduchu."
+    },
+    "affricates": {
+      "explanation": "Afikáty začínají jako závěrové souhlásky úplným zablokováním vzduchu a poté přecházejí do fáze třeného zvuku, čímž kombinují vlastnosti obou typů."
+    }
+  }
+}
