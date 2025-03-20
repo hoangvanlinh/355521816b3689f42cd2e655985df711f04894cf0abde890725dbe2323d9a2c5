@@ -1,0 +1,31 @@
+{
+    "vowels": {
+      "short": {
+        "explanation": "Short vowels are produced quickly with minimal muscular tension. They are typically unstressed and have a concise, less distinct vowel quality."
+      },
+      "long": {
+        "explanation": "Long vowels have an extended duration and require more muscular tension during articulation. They are often used in minimal pairs to differentiate word meanings."
+      },
+      "diphthongs": {
+        "explanation": "Diphthongs involve a smooth transition from one vowel quality to another within the same syllable, creating a dynamic, shifting sound."
+      }
+    },
+    "consonants": {
+      "fricatives": {
+        "explanation": "Fricatives are produced by forcing air through a narrow channel, which creates continuous, turbulent airflow without completely stopping the air."
+      },
+      "plosives": {
+        "explanation": "Plosives (or stops) are formed by completely blocking the airflow and then releasing it suddenly, which produces a burst of sound."
+      },
+      "nasals": {
+        "explanation": "Nasals are articulated by closing the oral cavity and directing the airflow exclusively through the nasal passages, giving them a distinctive 'nasal' quality."
+      },
+      "approximants": {
+        "explanation": "Approximants are produced with the articulators coming close together but not close enough to create significant friction. They offer smooth transitions and are less disruptive to airflow."
+      },
+      "affricates": {
+        "explanation": "Affricates begin with a complete blockage of airflow, similar to plosives, and then transition into a fricative phase, combining characteristics of both sound types."
+      }
+    }
+  }
+  
