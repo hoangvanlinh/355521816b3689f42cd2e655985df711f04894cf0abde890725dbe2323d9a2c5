@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Penekanan Kata",
+      "description": "Penekanan kata adalah penempatan tekanan pada suku kata tertentu dalam sebuah kata, yang membantu membedakan makna dan memastikan pengucapan yang benar.",
+      "rules": [
+        {
+          "rule": "Kata dua suku kata - kata benda dan kata sifat",
+          "details": "Biasanya tekanan diberikan pada suku kata pertama."
+        },
+        {
+          "rule": "Kata dua suku kata - kata kerja dan preposisi",
+          "details": "Biasanya tekanan diberikan pada suku kata kedua."
+        },
+        {
+          "rule": "Kata yang berakhiran -ion, -ic, -ity, -ical",
+          "details": "Tekanan diberikan pada suku kata sebelum akhiran tersebut."
+        },
+        {
+          "rule": "Kata majemuk - kata benda majemuk",
+          "details": "Tekanan diberikan pada kata pertama."
+        },
+        {
+          "rule": "Kata majemuk - kata sifat majemuk",
+          "details": "Tekanan diberikan pada kata kedua."
+        }
+      ]
+    },
+    {
+      "title": "Penekanan Kalimat",
+      "description": "Penekanan kalimat adalah penempatan tekanan pada kata-kata isi dalam sebuah kalimat untuk menyoroti informasi penting.",
+      "rules": [
+        {
+          "rule": "Kata-kata isi",
+          "details": "Kata benda, kata kerja utama, kata sifat, kata keterangan, dan kata tanya biasanya mendapatkan tekanan."
+        }
+      ]
+    },
+    {
+      "title": "Kata fungsi",
+      "description": "Kata fungsi adalah kata-kata yang mendukung struktur gramatikal kalimat dan biasanya tidak mendapatkan tekanan karena tidak membawa makna leksikal utama.",
+      "rules": [
+        {
+          "rule": "Kata-kata yang biasanya tidak ditekan",
+          "details": "Artikel, kata ganti, preposisi, dan konjungsi biasanya tidak mendapatkan tekanan.",
+          "note": "Kata-kata ini berfungsi secara gramatikal daripada menyampaikan makna utama, sehingga biasanya diucapkan dengan tekanan yang lebih ringan."
+        }
+      ]
+    }
+  ]
+}

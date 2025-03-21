@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Kelime vurgusu",
+      "description": "Kelime vurgusu, bir kelimedeki belirli bir heceye yapılan vurgudur ve anlamı ayırt etmeye ve doğru telaffuza yardımcı olur.",
+      "rules": [
+        {
+          "rule": "İki heceli kelimeler - isimler ve sıfatlar",
+          "details": "Genellikle birinci hece vurgulanır."
+        },
+        {
+          "rule": "İki heceli kelimeler - fiiller ve edatlar",
+          "details": "Genellikle ikinci hece vurgulanır."
+        },
+        {
+          "rule": "-ion, -ic, -ity, -ical ile biten kelimeler",
+          "details": "Vurgu genellikle ekten hemen önceki hecededir."
+        },
+        {
+          "rule": "Bileşik kelimeler - isim bileşikleri",
+          "details": "Vurgu birinci kelimededir."
+        },
+        {
+          "rule": "Bileşik kelimeler - sıfat bileşikleri",
+          "details": "Vurgu ikinci kelimededir."
+        }
+      ]
+    },
+    {
+      "title": "Cümle vurgusu",
+      "description": "Cümle vurgusu, önemli bilgileri öne çıkarmak için cümlede içerik kelimelerine yapılan vurgudur.",
+      "rules": [
+        {
+          "rule": "İçerik kelimeleri",
+          "details": "İsimler, ana fiiller, sıfatlar, zarflar ve soru kelimeleri genellikle vurgulanır."
+        }
+      ]
+    },
+    {
+      "title": "Yardımcı kelimeler",
+      "description": "Yardımcı kelimeler, cümlenin dilbilgisel yapısını destekleyen ve genellikle ana anlamı taşımadıkları için vurgulanmayan kelimelerdir.",
+      "rules": [
+        {
+          "rule": "Vurgulanmayan kelimeler",
+          "details": "Artikeller, zamirler, edatlar ve bağlaçlar genellikle vurgulanmaz.",
+          "note": "Bu kelimeler dilbilgisel işlev görür ve ana anlamı taşımadıkları için genellikle düşük tonla söylenir."
+        }
+      ]
+    }
+  ]
+}

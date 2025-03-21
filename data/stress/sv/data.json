@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Ordbetoning",
+      "description": "Ordbetoning är den betoning som placeras på en specifik stavelse i ett ord, vilket hjälper till att särskilja betydelse och säkerställa korrekt uttal.",
+      "rules": [
+        {
+          "rule": "Tvåstaviga ord - substantiv och adjektiv",
+          "details": "Vanligtvis betonas den första stavelsen."
+        },
+        {
+          "rule": "Tvåstaviga ord - verb och prepositioner",
+          "details": "Vanligtvis betonas den andra stavelsen."
+        },
+        {
+          "rule": "Ord som slutar på -ion, -ic, -ity, -ical",
+          "details": "Betoningen ligger på stavelsen precis före ändelsen."
+        },
+        {
+          "rule": "Sammansatta ord - substantivsammanställningar",
+          "details": "Betoningen ligger på det första ordet."
+        },
+        {
+          "rule": "Sammansatta ord - adjektivsammanställningar",
+          "details": "Betoningen ligger på det andra ordet."
+        }
+      ]
+    },
+    {
+      "title": "Meningsbetoning",
+      "description": "Meningsbetoning är den betoning som placeras på innehållsord i en mening för att lyfta fram viktig information.",
+      "rules": [
+        {
+          "rule": "Innehållsord",
+          "details": "Substantiv, huvudverb, adjektiv, adverb och frågeord betonas vanligtvis."
+        }
+      ]
+    },
+    {
+      "title": "Funktionsord",
+      "description": "Funktionsord stöder den grammatiska strukturen i en mening och betonas vanligtvis inte eftersom de inte bär huvudbetydelsen.",
+      "rules": [
+        {
+          "rule": "Icke-betonade ord",
+          "details": "Artiklar, pronomen, prepositioner och konjunktioner betonas vanligtvis inte.",
+          "note": "Dessa ord fyller en grammatisk funktion snarare än att förmedla huvudbetydelsen och uttalas därför vanligtvis med mindre betoning."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "L'accento nelle parole",
+      "description": "L'accento nelle parole è l'enfasi posta su una specifica sillaba di una parola, che aiuta a distinguere il significato e garantire una corretta pronuncia.",
+      "rules": [
+        {
+          "rule": "Parole di due sillabe - sostantivi e aggettivi",
+          "details": "Di solito si accentua la prima sillaba."
+        },
+        {
+          "rule": "Parole di due sillabe - verbi e preposizioni",
+          "details": "Di solito si accentua la seconda sillaba."
+        },
+        {
+          "rule": "Parole che terminano con -ion, -ic, -ity, -ical",
+          "details": "Si accentua la sillaba immediatamente precedente al suffisso."
+        },
+        {
+          "rule": "Parole composte - composti nominali",
+          "details": "Si accentua la prima parola."
+        },
+        {
+          "rule": "Parole composte - composti aggettivali",
+          "details": "Si accentua la seconda parola."
+        }
+      ]
+    },
+    {
+      "title": "L'accento nella frase",
+      "description": "L'accento nella frase è l'enfasi posta sulle parole di contenuto per evidenziare le informazioni importanti.",
+      "rules": [
+        {
+          "rule": "Parole di contenuto",
+          "details": "Sostantivi, verbi principali, aggettivi, avverbi e pronomi interrogativi sono solitamente accentuati."
+        }
+      ]
+    },
+    {
+      "title": "Parole funzionali",
+      "description": "Le parole funzionali sostengono la struttura grammaticale della frase e di solito non sono accentuate perché non portano il significato principale.",
+      "rules": [
+        {
+          "rule": "Parole generalmente non accentuate",
+          "details": "Articoli, pronomi, preposizioni e congiunzioni di solito non sono accentuati.",
+          "note": "Queste parole svolgono una funzione grammaticale piuttosto che comunicare il significato principale, quindi vengono generalmente pronunciate con minore enfasi."
+        }
+      ]
+    }
+  ]
+}

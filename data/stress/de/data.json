@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Wortbetonung",
+      "description": "Wortbetonung ist die Betonung einer bestimmten Silbe in einem Wort, die hilft, die Bedeutung zu unterscheiden und die richtige Aussprache zu gewährleisten.",
+      "rules": [
+        {
+          "rule": "Zweisilbige Wörter – Substantive und Adjektive",
+          "details": "Normalerweise wird die erste Silbe betont."
+        },
+        {
+          "rule": "Zweisilbige Wörter – Verben und Präpositionen",
+          "details": "Normalerweise wird die zweite Silbe betont."
+        },
+        {
+          "rule": "Wörter, die auf -ion, -ic, -ity, -ical enden",
+          "details": "Die Silbe vor der Endung wird betont."
+        },
+        {
+          "rule": "Zusammengesetzte Wörter – Substantiv-Komposita",
+          "details": "Die erste Wortkomponente wird betont."
+        },
+        {
+          "rule": "Zusammengesetzte Wörter – Adjektiv-Komposita",
+          "details": "Die zweite Wortkomponente wird betont."
+        }
+      ]
+    },
+    {
+      "title": "Satzbetonung",
+      "description": "Satzbetonung ist die Hervorhebung von Inhaltswörtern in einem Satz, um wichtige Informationen zu betonen.",
+      "rules": [
+        {
+          "rule": "Inhaltswörter",
+          "details": "Substantive, Hauptverben, Adjektive, Adverbien und Fragewörter werden normalerweise betont."
+        }
+      ]
+    },
+    {
+      "title": "Funktionswörter",
+      "description": "Funktionswörter stützen die grammatikalische Struktur eines Satzes und werden normalerweise nicht betont, da sie keine Hauptbedeutung tragen.",
+      "rules": [
+        {
+          "rule": "Unbetonte Wörter",
+          "details": "Artikel, Pronomen, Präpositionen und Konjunktionen werden in der Regel nicht betont.",
+          "note": "Diese Wörter erfüllen grammatikalische Funktionen und werden deshalb meist mit weniger Betonung gesprochen."
+        }
+      ]
+    }
+  ]
+}

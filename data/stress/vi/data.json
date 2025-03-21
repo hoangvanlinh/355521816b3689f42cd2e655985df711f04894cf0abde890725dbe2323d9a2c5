@@ -1,50 +1,49 @@
 {
     "sections": [
       {
-        "title": "Trọng Âm Từ",
-        "description": "Trọng âm từ là sự nhấn mạnh vào một âm tiết cụ thể trong từ, giúp phân biệt nghĩa và đảm bảo phát âm chính xác.",
+        "title": "Trọng âm từ",
+        "description": "Trọng âm từ là sự nhấn mạnh vào một âm tiết cụ thể trong từ, giúp phân biệt nghĩa và đảm bảo phát âm đúng.",
         "rules": [
           {
-            "rule": "Từ hai âm tiết - Danh từ và Tính từ",
-            "details": "Thông thường nhấn âm tiết đầu tiên."
-
+            "rule": "Từ có hai âm tiết - danh từ và tính từ",
+            "details": "Thường nhấn âm tiết đầu tiên."
           },
           {
-            "rule": "Từ hai âm tiết - Động từ và Giới từ",
-            "details": "Thông thường nhấn âm tiết thứ hai."
+            "rule": "Từ có hai âm tiết - động từ và giới từ",
+            "details": "Thường nhấn âm tiết thứ hai."
           },
           {
-            "rule": "Các từ kết thúc bằng -ion, -ic, -ity, -ical",
-            "details": "Nhấn âm tiết ngay trước hậu tố."
+            "rule": "Từ kết thúc bằng -ion, -ic, -ity, -ical",
+            "details": "Nhấn vào âm tiết ngay trước hậu tố."
           },
           {
-            "rule": "Từ ghép - Danh từ ghép",
-            "details": "Nhấn từ đầu tiên."
+            "rule": "Từ ghép - danh từ ghép",
+            "details": "Nhấn vào từ đầu tiên."
           },
           {
-            "rule": "Từ ghép - Từ ghép tính từ",
-            "details": "Nhấn từ thứ hai."
+            "rule": "Từ ghép - tính từ ghép",
+            "details": "Nhấn vào từ thứ hai."
           }
         ]
       },
       {
-        "title": "Trọng Âm Câu",
-        "description": "Trọng âm câu là sự nhấn mạnh vào các từ mang nội dung trong câu nhằm làm nổi bật thông tin quan trọng.",
+        "title": "Trọng âm câu",
+        "description": "Trọng âm câu là sự nhấn mạnh vào các từ nội dung trong câu để làm nổi bật thông tin quan trọng.",
         "rules": [
           {
-            "rule": "Từ mang nội dung chính",
-            "details": "Các từ như danh từ, động từ chính, tính từ, trạng từ và từ để hỏi thường được nhấn mạnh."
+            "rule": "Từ nội dung",
+            "details": "Danh từ, động từ chính, tính từ, trạng từ và từ để hỏi thường được nhấn."
           }
         ]
       },
       {
-        "title": "Từ Chức Năng",
-        "description": "Từ chức năng là các từ hỗ trợ cấu trúc ngữ pháp của câu và thường không được nhấn mạnh vì chúng không mang ý nghĩa từ vựng chính.",
+        "title": "Từ chức năng",
+        "description": "Từ chức năng là những từ hỗ trợ cấu trúc ngữ pháp của câu và thường không được nhấn vì không mang nghĩa chính.",
         "rules": [
           {
-            "rule": "Các từ không được nhấn",
-            "details": "Các từ như mạo từ, đại từ, giới từ, và liên từ thường không được nhấn mạnh.",
-            "note": "Những từ này thực hiện các chức năng ngữ pháp thay vì truyền đạt ý nghĩa chính, do đó thường được nói với mức độ nhấn ít hơn."
+            "rule": "Từ không nhấn",
+            "details": "Mạo từ, đại từ, giới từ và liên từ thường không được nhấn.",
+            "note": "Những từ này có vai trò ngữ pháp hơn là truyền đạt ý chính, nên thường được phát âm nhẹ hơn."
           }
         ]
       }

@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Tekanan Kata",
+      "description": "Tekanan kata ialah penekanan yang diletakkan pada suku kata tertentu dalam sesuatu perkataan untuk membezakan makna dan memastikan sebutan yang betul.",
+      "rules": [
+        {
+          "rule": "Perkataan dua suku kata - kata nama dan kata adjektif",
+          "details": "Biasanya tekanan diletakkan pada suku kata pertama."
+        },
+        {
+          "rule": "Perkataan dua suku kata - kata kerja dan kata sendi",
+          "details": "Biasanya tekanan diletakkan pada suku kata kedua."
+        },
+        {
+          "rule": "Perkataan yang berakhir dengan -ion, -ic, -ity, -ical",
+          "details": "Tekanan diletakkan pada suku kata sebelum akhiran."
+        },
+        {
+          "rule": "Kata majmuk - kata nama majmuk",
+          "details": "Tekanan diletakkan pada perkataan pertama."
+        },
+        {
+          "rule": "Kata majmuk - kata adjektif majmuk",
+          "details": "Tekanan diletakkan pada perkataan kedua."
+        }
+      ]
+    },
+    {
+      "title": "Tekanan Ayat",
+      "description": "Tekanan ayat ialah penekanan yang diletakkan pada kata isi dalam ayat untuk menonjolkan maklumat penting.",
+      "rules": [
+        {
+          "rule": "Kata isi",
+          "details": "Kata nama, kata kerja utama, kata adjektif, kata keterangan, dan kata tanya biasanya ditekankan."
+        }
+      ]
+    },
+    {
+      "title": "Kata tugas",
+      "description": "Kata tugas ialah kata yang menyokong struktur tatabahasa ayat dan biasanya tidak ditekankan kerana tidak membawa makna utama.",
+      "rules": [
+        {
+          "rule": "Kata yang biasanya tidak ditekankan",
+          "details": "Kata sandang, kata ganti nama, kata sendi, dan kata hubung biasanya tidak ditekankan.",
+          "note": "Kata-kata ini berfungsi secara tatabahasa dan bukannya membawa makna utama, oleh itu biasanya diucapkan dengan tekanan yang lebih ringan."
+        }
+      ]
+    }
+  ]
+}

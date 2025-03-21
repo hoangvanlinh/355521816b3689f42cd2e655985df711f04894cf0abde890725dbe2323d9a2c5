@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Accentuation des mots",
+      "description": "L'accentuation des mots correspond à l’emphase mise sur une syllabe particulière d’un mot, ce qui aide à différencier le sens et à garantir une prononciation correcte.",
+      "rules": [
+        {
+          "rule": "Mots de deux syllabes - noms et adjectifs",
+          "details": "On met généralement l'accent sur la première syllabe."
+        },
+        {
+          "rule": "Mots de deux syllabes - verbes et prépositions",
+          "details": "On met généralement l'accent sur la deuxième syllabe."
+        },
+        {
+          "rule": "Mots terminés par -ion, -ic, -ity, -ical",
+          "details": "On met l'accent sur la syllabe qui précède immédiatement le suffixe."
+        },
+        {
+          "rule": "Mots composés - noms composés",
+          "details": "On met l'accent sur le premier mot."
+        },
+        {
+          "rule": "Mots composés - adjectifs composés",
+          "details": "On met l'accent sur le deuxième mot."
+        }
+      ]
+    },
+    {
+      "title": "Accentuation de la phrase",
+      "description": "L'accentuation de la phrase concerne l’emphase placée sur les mots de contenu pour souligner les informations importantes.",
+      "rules": [
+        {
+          "rule": "Mots de contenu",
+          "details": "Les noms, les verbes principaux, les adjectifs, les adverbes et les mots interrogatifs sont généralement accentués."
+        }
+      ]
+    },
+    {
+      "title": "Mots outils",
+      "description": "Les mots outils soutiennent la structure grammaticale d’une phrase et ne sont généralement pas accentués car ils n’apportent pas le sens principal.",
+      "rules": [
+        {
+          "rule": "Mots généralement non accentués",
+          "details": "Les articles, pronoms, prépositions et conjonctions ne sont généralement pas accentués.",
+          "note": "Ces mots remplissent une fonction grammaticale et non lexicale, d’où leur prononciation plus faible en termes d’accentuation."
+        }
+      ]
+    }
+  ]
+}

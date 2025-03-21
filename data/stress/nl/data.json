@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Woordaccent",
+      "description": "Woordaccent is de nadruk die op een specifieke lettergreep in een woord wordt gelegd om betekenis te onderscheiden en een correcte uitspraak te garanderen.",
+      "rules": [
+        {
+          "rule": "Woorden met twee lettergrepen - zelfstandige naamwoorden en bijvoeglijke naamwoorden",
+          "details": "Normaal ligt de nadruk op de eerste lettergreep."
+        },
+        {
+          "rule": "Woorden met twee lettergrepen - werkwoorden en voorzetsels",
+          "details": "Normaal ligt de nadruk op de tweede lettergreep."
+        },
+        {
+          "rule": "Woorden die eindigen op -ion, -ic, -ity, -ical",
+          "details": "De nadruk ligt op de lettergreep direct vóór het achtervoegsel."
+        },
+        {
+          "rule": "Samenstellingen - zelfstandig naamwoord samenstellingen",
+          "details": "De nadruk ligt op het eerste woord."
+        },
+        {
+          "rule": "Samenstellingen - bijvoeglijk naamwoord samenstellingen",
+          "details": "De nadruk ligt op het tweede woord."
+        }
+      ]
+    },
+    {
+      "title": "Zinsaccent",
+      "description": "Zinsaccent is de nadruk die wordt gelegd op inhoudswoorden in een zin om belangrijke informatie te benadrukken.",
+      "rules": [
+        {
+          "rule": "Inhoudswoorden",
+          "details": "Zelfstandige naamwoorden, hoofdwerkwoorden, bijvoeglijke naamwoorden, bijwoorden en vraagwoorden krijgen meestal de nadruk."
+        }
+      ]
+    },
+    {
+      "title": "Functiewoorden",
+      "description": "Functiewoorden ondersteunen de grammaticale structuur van een zin en krijgen meestal geen nadruk omdat ze geen hoofdbetekenis dragen.",
+      "rules": [
+        {
+          "rule": "Niet-beklemtoonde woorden",
+          "details": "Lidwoorden, voornaamwoorden, voorzetsels en voegwoorden worden meestal niet beklemtoond.",
+          "note": "Deze woorden hebben een grammaticale functie in plaats van een betekenisvolle rol, daarom worden ze meestal met minder nadruk uitgesproken."
+        }
+      ]
+    }
+  ]
+}

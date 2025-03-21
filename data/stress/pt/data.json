@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Acentuação das palavras",
+      "description": "A acentuação das palavras é a ênfase colocada em uma sílaba específica de uma palavra, ajudando a distinguir o significado e garantir a pronúncia correta.",
+      "rules": [
+        {
+          "rule": "Palavras de duas sílabas - substantivos e adjetivos",
+          "details": "Normalmente, a ênfase recai na primeira sílaba."
+        },
+        {
+          "rule": "Palavras de duas sílabas - verbos e preposições",
+          "details": "Normalmente, a ênfase recai na segunda sílaba."
+        },
+        {
+          "rule": "Palavras terminadas em -ion, -ic, -ity, -ical",
+          "details": "A ênfase recai na sílaba imediatamente anterior ao sufixo."
+        },
+        {
+          "rule": "Palavras compostas - compostos nominais",
+          "details": "A ênfase recai na primeira palavra."
+        },
+        {
+          "rule": "Palavras compostas - compostos adjetivais",
+          "details": "A ênfase recai na segunda palavra."
+        }
+      ]
+    },
+    {
+      "title": "Acentuação na frase",
+      "description": "A acentuação na frase é a ênfase colocada nas palavras de conteúdo em uma frase para destacar informações importantes.",
+      "rules": [
+        {
+          "rule": "Palavras de conteúdo",
+          "details": "Substantivos, verbos principais, adjetivos, advérbios e pronomes interrogativos geralmente são enfatizados."
+        }
+      ]
+    },
+    {
+      "title": "Palavras funcionais",
+      "description": "Palavras funcionais são aquelas que apoiam a estrutura gramatical de uma frase e geralmente não são enfatizadas, pois não carregam o significado principal.",
+      "rules": [
+        {
+          "rule": "Palavras não enfatizadas",
+          "details": "Artigos, pronomes, preposições e conjunções geralmente não são enfatizados.",
+          "note": "Essas palavras têm uma função gramatical em vez de transmitir o significado principal, por isso geralmente são pronunciadas com menos ênfase."
+        }
+      ]
+    }
+  ]
+}

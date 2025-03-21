@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Ordtryk",
+      "description": "Ordtryk er den vægt, der lægges på en bestemt stavelse i et ord, hvilket hjælper med at skelne betydning og sikre korrekt udtale.",
+      "rules": [
+        {
+          "rule": "Tosstavelsesord – substantiver og adjektiver",
+          "details": "Normalt lægges trykket på første stavelse."
+        },
+        {
+          "rule": "Tosstavelsesord – verber og præpositioner",
+          "details": "Normalt lægges trykket på anden stavelse."
+        },
+        {
+          "rule": "Ord der ender på -ion, -ic, -ity, -ical",
+          "details": "Trykket lægges på stavelsen før endelsen."
+        },
+        {
+          "rule": "Sammensatte ord – substantiv-sammensætninger",
+          "details": "Trykket lægges på første ord."
+        },
+        {
+          "rule": "Sammensatte ord – adjektiv-sammensætninger",
+          "details": "Trykket lægges på andet ord."
+        }
+      ]
+    },
+    {
+      "title": "Sætningstryk",
+      "description": "Sætningstryk er vægt lagt på indholdsord i en sætning for at fremhæve vigtige informationer.",
+      "rules": [
+        {
+          "rule": "Indholdsord",
+          "details": "Substantiver, hovedverber, adjektiver, adverbier og spørgeord får normalt tryk."
+        }
+      ]
+    },
+    {
+      "title": "Funktionsord",
+      "description": "Funktionsord understøtter sætningsstruktur og trykkes sjældent, da de ikke bærer hovedbetydningen.",
+      "rules": [
+        {
+          "rule": "Ord uden tryk",
+          "details": "Artikler, pronomener, præpositioner og konjunktioner trykkes generelt ikke.",
+          "note": "Disse ord har grammatisk funktion og udtales derfor ofte uden tryk."
+        }
+      ]
+    }
+  ]
+}

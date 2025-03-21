@@ -1,11 +1,11 @@
 {
     "sections": [
       {
-        "title": "Word Stress",
+        "title": "Word stress",
         "description": "Word stress is the emphasis placed on a specific syllable in a word, helping to distinguish meaning and ensure correct pronunciation.",
         "rules": [
           {
-            "rule": "Two-syllable words - Nouns and Adjectives",
+            "rule": "Two-syllable words - nouns and adjectives",
             "details": "Usually stress the first syllable.",
             "example": [
               {
@@ -61,7 +61,7 @@
             ]
           },
           {
-            "rule": "Two-syllable words - Verbs and Prepositions",
+            "rule": "Two-syllable words - verbs and prepositions",
             "details": "Usually stress the second syllable.",
             "example": [
               {
@@ -173,7 +173,7 @@
             ]
           },
           {
-            "rule": "Compound words - Noun compounds",
+            "rule": "Compound words - noun compounds",
             "details": "Stress the first word.",
             "example": [
               {
@@ -229,7 +229,7 @@
             ]
           },
           {
-            "rule": "Compound words - Adjective compounds",
+            "rule": "Compound words - adjective compounds",
             "details": "Stress the second word.",
             "example": [
               {
@@ -287,11 +287,11 @@
         ]
       },
       {
-        "title": "Sentence Stress",
+        "title": "Sentence stress",
         "description": "Sentence stress is the emphasis placed on content words in a sentence to highlight important information.",
         "rules": [
           {
-            "rule": "Content Words",
+            "rule": "Content words",
             "details": "Words such as nouns, main verbs, adjectives, adverbs, and question words are usually stressed.",
             "example": [
               {
@@ -349,11 +349,11 @@
         ]
       },
       {
-        "title": "Function Words",
+        "title": "Function words",
         "description": "Function words are words that support the grammatical structure of a sentence and typically are not stressed because they do not carry the main lexical meaning.",
         "rules": [
           {
-            "rule": "Non-Stressed Words",
+            "rule": "Non-stressed words",
             "details": "Articles, pronouns, prepositions, and conjunctions are generally not stressed.",
             "note": "These words serve grammatical functions rather than conveying primary meaning, which is why they are usually spoken with less stress.",
             "example": [
@@ -468,3 +468,4 @@
       }
     ]
   }
+  

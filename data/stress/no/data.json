@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Ordtrykk",
+      "description": "Ordtrykk er betoningen som legges på en bestemt stavelse i et ord for å skille betydning og sikre korrekt uttale.",
+      "rules": [
+        {
+          "rule": "To-stavelsesord - substantiv og adjektiv",
+          "details": "Vanligvis legges trykket på den første stavelsen."
+        },
+        {
+          "rule": "To-stavelsesord - verb og preposisjoner",
+          "details": "Vanligvis legges trykket på den andre stavelsen."
+        },
+        {
+          "rule": "Ord som ender på -ion, -ic, -ity, -ical",
+          "details": "Trykket legges på stavelsen rett før endelsen."
+        },
+        {
+          "rule": "Sammensatte ord - substantiv-sammensetninger",
+          "details": "Trykket legges på det første ordet."
+        },
+        {
+          "rule": "Sammensatte ord - adjektiv-sammensetninger",
+          "details": "Trykket legges på det andre ordet."
+        }
+      ]
+    },
+    {
+      "title": "Setningstrykk",
+      "description": "Setningstrykk er betoningen som legges på innholdsord i en setning for å fremheve viktig informasjon.",
+      "rules": [
+        {
+          "rule": "Innholdsord",
+          "details": "Substantiv, hovedverb, adjektiv, adverb og spørreord får vanligvis trykk."
+        }
+      ]
+    },
+    {
+      "title": "Funksjonsord",
+      "description": "Funksjonsord støtter den grammatiske strukturen i en setning og får vanligvis ikke trykk fordi de ikke bærer hovedbetydningen.",
+      "rules": [
+        {
+          "rule": "Ord som vanligvis ikke får trykk",
+          "details": "Artikler, pronomen, preposisjoner og konjunksjoner får vanligvis ikke trykk.",
+          "note": "Disse ordene har en grammatisk funksjon snarere enn å bære hovedbetydning, og blir derfor vanligvis uttalt med mindre betoning."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Přízvuk ve slově",
+      "description": "Přízvuk ve slově je důraz kladený na konkrétní slabiku, což pomáhá rozlišit význam a zajistit správnou výslovnost.",
+      "rules": [
+        {
+          "rule": "Dvouslabičná slova – podstatná jména a přídavná jména",
+          "details": "Obvykle se přízvuk klade na první slabiku."
+        },
+        {
+          "rule": "Dvouslabičná slova – slovesa a předložky",
+          "details": "Obvykle se přízvuk klade na druhou slabiku."
+        },
+        {
+          "rule": "Slova končící na -ion, -ic, -ity, -ical",
+          "details": "Přízvuk je na slabice před těmito příponami."
+        },
+        {
+          "rule": "Složená slova – podstatná jména",
+          "details": "Přízvuk je na prvním slově."
+        },
+        {
+          "rule": "Složená slova – přídavná jména",
+          "details": "Přízvuk je na druhém slově."
+        }
+      ]
+    },
+    {
+      "title": "Přízvuk ve větě",
+      "description": "Přízvuk ve větě znamená důraz na významová slova pro zdůraznění důležitých informací.",
+      "rules": [
+        {
+          "rule": "Významová slova",
+          "details": "Podstatná jména, hlavní slovesa, přídavná jména, příslovce a tázací slova jsou obvykle přízvučná."
+        }
+      ]
+    },
+    {
+      "title": "Funkční slova",
+      "description": "Funkční slova tvoří gramatickou strukturu věty a obvykle nejsou přízvučná, protože nenesou hlavní význam.",
+      "rules": [
+        {
+          "rule": "Nepřízvučná slova",
+          "details": "Články, zájmena, předložky a spojky obvykle nejsou přízvučné.",
+          "note": "Tato slova plní gramatickou funkci, proto se obvykle vyslovují bez důrazu."
+        }
+      ]
+    }
+  ]
+}

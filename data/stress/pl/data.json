@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Akcent wyrazowy",
+      "description": "Akcent wyrazowy to nacisk położony na określoną sylabę w słowie, co pomaga odróżnić znaczenie i zapewnić poprawną wymowę.",
+      "rules": [
+        {
+          "rule": "Wyrazy dwusylabowe - rzeczowniki i przymiotniki",
+          "details": "Zazwyczaj akcent pada na pierwszą sylabę."
+        },
+        {
+          "rule": "Wyrazy dwusylabowe - czasowniki i przyimki",
+          "details": "Zazwyczaj akcent pada na drugą sylabę."
+        },
+        {
+          "rule": "Wyrazy zakończone na -ion, -ic, -ity, -ical",
+          "details": "Akcent pada na sylabę bezpośrednio przed końcówką."
+        },
+        {
+          "rule": "Złożenia rzeczownikowe",
+          "details": "Akcent pada na pierwszy wyraz."
+        },
+        {
+          "rule": "Złożenia przymiotnikowe",
+          "details": "Akcent pada na drugi wyraz."
+        }
+      ]
+    },
+    {
+      "title": "Akcent zdaniowy",
+      "description": "Akcent zdaniowy to nacisk kładziony na wyrazy treściowe w zdaniu, aby podkreślić ważne informacje.",
+      "rules": [
+        {
+          "rule": "Wyrazy treściowe",
+          "details": "Rzeczowniki, czasowniki główne, przymiotniki, przysłówki i zaimki pytające są zazwyczaj akcentowane."
+        }
+      ]
+    },
+    {
+      "title": "Wyrazy funkcyjne",
+      "description": "Wyrazy funkcyjne wspierają strukturę gramatyczną zdania i zazwyczaj nie są akcentowane, ponieważ nie niosą głównego znaczenia.",
+      "rules": [
+        {
+          "rule": "Wyrazy nieakcentowane",
+          "details": "Rodzajniki, zaimki, przyimki i spójniki zazwyczaj nie są akcentowane.",
+          "note": "Te wyrazy pełnią funkcję gramatyczną, a nie niosą główne znaczenie, dlatego zazwyczaj są wymawiane z mniejszym naciskiem."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sections": [
+    {
+      "title": "Acentuación de palabras",
+      "description": "La acentuación de palabras es el énfasis colocado en una sílaba específica dentro de una palabra, lo que ayuda a distinguir el significado y asegurar la pronunciación correcta.",
+      "rules": [
+        {
+          "rule": "Palabras de dos sílabas - sustantivos y adjetivos",
+          "details": "Generalmente se acentúa la primera sílaba."
+        },
+        {
+          "rule": "Palabras de dos sílabas - verbos y preposiciones",
+          "details": "Generalmente se acentúa la segunda sílaba."
+        },
+        {
+          "rule": "Palabras que terminan en -ion, -ic, -ity, -ical",
+          "details": "Se acentúa la sílaba inmediatamente anterior al sufijo."
+        },
+        {
+          "rule": "Palabras compuestas - sustantivos compuestos",
+          "details": "Se acentúa la primera palabra."
+        },
+        {
+          "rule": "Palabras compuestas - adjetivos compuestos",
+          "details": "Se acentúa la segunda palabra."
+        }
+      ]
+    },
+    {
+      "title": "Acentuación en la oración",
+      "description": "La acentuación en la oración es el énfasis que se pone en las palabras de contenido para destacar la información importante.",
+      "rules": [
+        {
+          "rule": "Palabras de contenido",
+          "details": "Sustantivos, verbos principales, adjetivos, adverbios y palabras interrogativas suelen llevar acentuación."
+        }
+      ]
+    },
+    {
+      "title": "Palabras funcionales",
+      "description": "Las palabras funcionales son aquellas que apoyan la estructura gramatical de la oración y generalmente no se acentúan porque no llevan el significado principal.",
+      "rules": [
+        {
+          "rule": "Palabras sin acento",
+          "details": "Artículos, pronombres, preposiciones y conjunciones generalmente no se acentúan.",
+          "note": "Estas palabras cumplen funciones gramaticales en lugar de aportar el significado principal, por eso se pronuncian con menos énfasis."
+        }
+      ]
+    }
+  ]
+}
