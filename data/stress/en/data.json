@@ -8,280 +8,110 @@
             "rule": "Two-syllable words - nouns and adjectives",
             "details": "Usually stress the first syllable.",
             "example": [
-              {
-                "text": "Table",
-                "ipa": "/ˈteɪ.bəl/",
-                "hl": "/<span style='color:red'>teɪ</span>.bəl/"
-              },
-              {
-                "text": "Happy",
-                "ipa": "/ˈhæ.pi/",
-                "hl": "/<span style='color:red'>hæ</span>.pi/"
-              },
-              {
-                "text": "Doctor",
-                "ipa": "/ˈdɒk.tər/",
-                "hl": "/<span style='color:red'>dɒk</span>.tər/"
-              },
-              {
-                "text": "Window",
-                "ipa": "/ˈwɪn.doʊ/",
-                "hl": "/<span style='color:red'>wɪn</span>.doʊ/"
-              },
-              {
-                "text": "Apple",
-                "ipa": "/ˈæp.əl/",
-                "hl": "/<span style='color:red'>æp</span>.əl/"
-              },
-              {
-                "text": "Mother",
-                "ipa": "/ˈmʌð.ər/",
-                "hl": "/<span style='color:red'>mʌð</span>.ər/"
-              },
-              {
-                "text": "Garden",
-                "ipa": "/ˈɡɑːr.dən/",
-                "hl": "/<span style='color:red'>ɡɑːr</span>.dən/"
-              },
-              {
-                "text": "Market",
-                "ipa": "/ˈmɑːr.kɪt/",
-                "hl": "/<span style='color:red'>mɑːr</span>.kɪt/"
-              },
-              {
-                "text": "Candle",
-                "ipa": "/ˈkæn.dəl/",
-                "hl": "/<span style='color:red'>kæn</span>.dəl/"
-              },
-              {
-                "text": "Bottle",
-                "ipa": "/ˈbɒt.əl/",
-                "hl": "/<span style='color:red'>bɒt</span>.əl/"
-              }
+              {"text": "Table", "ipa": "/ˈteɪ.bəl/", "hl": "/<span style='color:red'>teɪ</span>.bəl/"},
+              {"text": "Happy", "ipa": "/ˈhæ.pi/", "hl": "/<span style='color:red'>hæ</span>.pi/"},
+              {"text": "Doctor", "ipa": "/ˈdɒk.tər/", "hl": "/<span style='color:red'>dɒk</span>.tər/"},
+              {"text": "Window", "ipa": "/ˈwɪn.doʊ/", "hl": "/<span style='color:red'>wɪn</span>.doʊ/"},
+              {"text": "Apple", "ipa": "/ˈæp.əl/", "hl": "/<span style='color:red'>æp</span>.əl/"},
+              {"text": "Mother", "ipa": "/ˈmʌð.ər/", "hl": "/<span style='color:red'>mʌð</span>.ər/"},
+              {"text": "Garden", "ipa": "/ˈɡɑːr.dən/", "hl": "/<span style='color:red'>ɡɑːr</span>.dən/"},
+              {"text": "Market", "ipa": "/ˈmɑːr.kɪt/", "hl": "/<span style='color:red'>mɑːr</span>.kɪt/"},
+              {"text": "Candle", "ipa": "/ˈkæn.dəl/", "hl": "/<span style='color:red'>kæn</span>.dəl/"},
+              {"text": "Bottle", "ipa": "/ˈbɒt.əl/", "hl": "/<span style='color:red'>bɒt</span>.əl/"}
             ]
           },
           {
             "rule": "Two-syllable words - verbs and prepositions",
             "details": "Usually stress the second syllable.",
             "example": [
-              {
-                "text": "Relax",
-                "ipa": "/rɪˈlæks/",
-                "hl": "/rɪ<span style='color:red'>læks</span>/"
-              },
-              {
-                "text": "Arrive",
-                "ipa": "/əˈraɪv/",
-                "hl": "/ə<span style='color:red'>raɪv</span>/"
-              },
-              {
-                "text": "Begin",
-                "ipa": "/bɪˈɡɪn/",
-                "hl": "/bɪ<span style='color:red'>ɡɪn</span>/"
-              },
-              {
-                "text": "Export",
-                "ipa": "/ɪkˈspɔːrt/",
-                "hl": "/ɪk<span style='color:red'>spɔːrt</span>/"
-              },
-              {
-                "text": "Prepare",
-                "ipa": "/prɪˈpeər/",
-                "hl": "/prɪ<span style='color:red'>peər</span>/"
-              },
-              {
-                "text": "Receive",
-                "ipa": "/rɪˈsiːv/",
-                "hl": "/rɪ<span style='color:red'>siːv</span>/"
-              },
-              {
-                "text": "Include",
-                "ipa": "/ɪnˈkluːd/",
-                "hl": "/ɪn<span style='color:red'>kluːd</span>/"
-              },
-              {
-                "text": "Admit",
-                "ipa": "/ədˈmɪt/",
-                "hl": "/əd<span style='color:red'>mɪt</span>/"
-              },
-              {
-                "text": "Decide",
-                "ipa": "/dɪˈsaɪd/",
-                "hl": "/dɪ<span style='color:red'>saɪd</span>/"
-              },
-              {
-                "text": "Respond",
-                "ipa": "/rɪˈspɒnd/",
-                "hl": "/rɪ<span style='color:red'>spɒnd</span>/"
-              }
+              {"text": "Relax", "ipa": "/rɪˈlæks/", "hl": "/rɪ<span style='color:red'>læks</span>/"},
+              {"text": "Arrive", "ipa": "/əˈraɪv/", "hl": "/ə<span style='color:red'>raɪv</span>/"},
+              {"text": "Begin", "ipa": "/bɪˈɡɪn/", "hl": "/bɪ<span style='color:red'>ɡɪn</span>/"},
+              {"text": "Export", "ipa": "/ɪkˈspɔːrt/", "hl": "/ɪk<span style='color:red'>spɔːrt</span>/"},
+              {"text": "Prepare", "ipa": "/prɪˈpeər/", "hl": "/prɪ<span style='color:red'>peər</span>/"},
+              {"text": "Receive", "ipa": "/rɪˈsiːv/", "hl": "/rɪ<span style='color:red'>siːv</span>/"},
+              {"text": "Include", "ipa": "/ɪnˈkluːd/", "hl": "/ɪn<span style='color:red'>kluːd</span>/"},
+              {"text": "Admit", "ipa": "/ədˈmɪt/", "hl": "/əd<span style='color:red'>mɪt</span>/"},
+              {"text": "Decide", "ipa": "/dɪˈsaɪd/", "hl": "/dɪ<span style='color:red'>saɪd</span>/"},
+              {"text": "Respond", "ipa": "/rɪˈspɒnd/", "hl": "/rɪ<span style='color:red'>spɒnd</span>/"}
             ]
           },
           {
             "rule": "Words ending with -ion, -ic, -ity, -ical",
             "details": "Stress the syllable immediately before the suffix.",
             "example": [
-              {
-                "text": "Geology",
-                "ipa": "/dʒiˈɒ.lə.dʒi/",
-                "hl": "/dʒi<span style='color:red'>ɒ</span>.lə.dʒi/"
-              },
-              {
-                "text": "Graphic",
-                "ipa": "/ɡræˈfɪk/",
-                "hl": "/ɡræ<span style='color:red'>fɪk</span>/"
-              },
-              {
-                "text": "Critic",
-                "ipa": "/ˈkrɪt.ɪk/",
-                "hl": "/<span style='color:red'>krɪt</span>.ɪk/"
-              },
-              {
-                "text": "Electric",
-                "ipa": "/ɪˈlɛk.trɪk/",
-                "hl": "/ɪ<span style='color:red'>lɛk</span>.trɪk/"
-              },
-              {
-                "text": "Activity",
-                "ipa": "/ækˈtɪv.ɪ.ti/",
-                "hl": "/æk<span style='color:red'>tɪv</span>.ɪ.ti/"
-              },
-              {
-                "text": "Ability",
-                "ipa": "/əˈbɪl.ɪ.ti/",
-                "hl": "/ə<span style='color:red'>bɪl</span>.ɪ.ti/"
-              },
-              {
-                "text": "Typical",
-                "ipa": "/ˈtɪp.ɪ.kəl/",
-                "hl": "/<span style='color:red'>tɪp</span>.ɪ.kəl/"
-              },
-              {
-                "text": "Logical",
-                "ipa": "/ˈlɒdʒ.ɪ.kəl/",
-                "hl": "/<span style='color:red'>lɒdʒ</span>.ɪ.kəl/"
-              },
-              {
-                "text": "Physical",
-                "ipa": "/ˈfɪz.ɪ.kəl/",
-                "hl": "/<span style='color:red'>fɪz</span>.ɪ.kəl/"
-              },
-              {
-                "text": "Musical",
-                "ipa": "/ˈmjuː.zɪ.kəl/",
-                "hl": "/<span style='color:red'>mjuː</span>.zɪ.kəl/"
-              }
+              {"text": "Action", "ipa": "/ˈæk.ʃən/", "hl": "/<span style='color:red'>æk</span>.ʃən/"},
+              {"text": "Decision", "ipa": "/dɪˈsɪʒ.ən/", "hl": "/dɪ<span style='color:red'>sɪʒ</span>.ən/"},
+              {"text": "Education", "ipa": "/ˌed.jʊˈkeɪ.ʃən/", "hl": "/ˌed.jʊ<span style='color:red'>keɪ</span>.ʃən/"},
+              {"text": "Information", "ipa": "/ˌɪn.fəˈmeɪ.ʃən/", "hl": "/ˌɪn.fə<span style='color:red'>meɪ</span>.ʃən/"},
+              {"text": "Operation", "ipa": "/ˌɒp.əˈreɪ.ʃən/", "hl": "/ˌɒp.ə<span style='color:red'>reɪ</span>.ʃən/"},
+              {"text": "Communication", "ipa": "/kəˌmjuː.nɪˈkeɪ.ʃən/", "hl": "/kəˌmjuː.nɪ<span style='color:red'>keɪ</span>.ʃən/"},
+              {"text": "Invitation", "ipa": "/ˌɪn.vɪˈteɪ.ʃən/", "hl": "/ˌɪn.vɪ<span style='color:red'>teɪ</span>.ʃən/"},
+              {"text": "Celebration", "ipa": "/ˌsel.əˈbreɪ.ʃən/", "hl": "/ˌsel.ə<span style='color:red'>breɪ</span>.ʃən/"},
+              {"text": "Exploration", "ipa": "/ˌek.spləˈreɪ.ʃən/", "hl": "/ˌek.splə<span style='color:red'>reɪ</span>.ʃən/"},
+              {"text": "Reservation", "ipa": "/ˌrez.əˈveɪ.ʃən/", "hl": "/ˌrez.ə<span style='color:red'>veɪ</span>.ʃən/"},
+              {"text": "Graphic", "ipa": "/ˈɡræf.ɪk/", "hl": "/<span style='color:red'>ɡræf</span>.ɪk/"},
+              {"text": "Electric", "ipa": "/ɪˈlek.trɪk/", "hl": "/ɪ<span style='color:red'>lek</span>.trɪk/"},
+              {"text": "Scientific", "ipa": "/ˌsaɪ.ənˈtɪf.ɪk/", "hl": "/ˌsaɪ.ən<span style='color:red'>tɪf</span>.ɪk/"},
+              {"text": "Economic", "ipa": "/ˌiː.kəˈnɒm.ɪk/", "hl": "/ˌiː.kə<span style='color:red'>nɒm</span>.ɪk/"},
+              {"text": "Historic", "ipa": "/hɪˈstɒr.ɪk/", "hl": "/hɪ<span style='color:red'>stɒr</span>.ɪk/"},
+              {"text": "Academic", "ipa": "/ˌæk.əˈdem.ɪk/", "hl": "/ˌæk.ə<span style='color:red'>dem</span>.ɪk/"},
+              {"text": "Fantastic", "ipa": "/fænˈtæs.tɪk/", "hl": "/fæn<span style='color:red'>tæs</span>.tɪk/"},
+              {"text": "Romantic", "ipa": "/rəʊˈmæn.tɪk/", "hl": "/rəʊ<span style='color:red'>mæn</span>.tɪk/"},
+              {"text": "Specific", "ipa": "/spəˈsɪf.ɪk/", "hl": "/spə<span style='color:red'>sɪf</span>.ɪk/"},
+              {"text": "Organic", "ipa": "/ɔːˈɡæn.ɪk/", "hl": "/ɔː<span style='color:red'>ɡæn</span>.ɪk/"},
+              {"text": "Activity", "ipa": "/ækˈtɪv.ɪ.ti/", "hl": "/æk<span style='color:red'>tɪv</span>.ɪ.ti/"},
+              {"text": "Ability", "ipa": "/əˈbɪl.ɪ.ti/", "hl": "/ə<span style='color:red'>bɪl</span>.ɪ.ti/"},
+              {"text": "Possibility", "ipa": "/ˌpɒs.əˈbɪl.ɪ.ti/", "hl": "/ˌpɒs.ə<span style='color:red'>bɪl</span>.ɪ.ti/"},
+              {"text": "University", "ipa": "/ˌjuː.nɪˈvɜː.sɪ.ti/", "hl": "/ˌjuː.nɪ<span style='color:red'>vɜː</span>.sɪ.ti/"},
+              {"text": "Nationality", "ipa": "/ˌnæʃ.əˈnæl.ɪ.ti/", "hl": "/ˌnæʃ.ə<span style='color:red'>næl</span>.ɪ.ti/"},
+              {"text": "Creativity", "ipa": "/ˌkriː.eɪˈtɪv.ɪ.ti/", "hl": "/ˌkriː.eɪ<span style='color:red'>tɪv</span>.ɪ.ti/"},
+              {"text": "Security", "ipa": "/sɪˈkjʊə.rɪ.ti/", "hl": "/sɪ<span style='color:red'>kjʊə</span>.rɪ.ti/"},
+              {"text": "Reality", "ipa": "/riˈæl.ɪ.ti/", "hl": "/ri<span style='color:red'>æl</span>.ɪ.ti/"},
+              {"text": "Identity", "ipa": "/aɪˈden.tɪ.ti/", "hl": "/aɪ<span style='color:red'>den</span>.tɪ.ti/"},
+              {"text": "Authority", "ipa": "/ɔːˈθɒr.ɪ.ti/", "hl": "/ɔː<span style='color:red'>θɒr</span>.ɪ.ti/"},
+              {"text": "Typical", "ipa": "/ˈtɪp.ɪ.kəl/", "hl": "/<span style='color:red'>tɪp</span>.ɪ.kəl/"},
+              {"text": "Logical", "ipa": "/ˈlɒdʒ.ɪ.kəl/", "hl": "/<span style='color:red'>lɒdʒ</span>.ɪ.kəl/"},
+              {"text": "Physical", "ipa": "/ˈfɪz.ɪ.kəl/", "hl": "/<span style='color:red'>fɪz</span>.ɪ.kəl/"},
+              {"text": "Musical", "ipa": "/ˈmjuː.zɪ.kəl/", "hl": "/<span style='color:red'>mjuː</span>.zɪ.kəl/"},
+              {"text": "Political", "ipa": "/pəˈlɪt.ɪ.kəl/", "hl": "/pə<span style='color:red'>lɪt</span>.ɪ.kəl/"},
+              {"text": "Historical", "ipa": "/hɪˈstɒr.ɪ.kəl/", "hl": "/hɪ<span style='color:red'>stɒr</span>.ɪ.kəl/"},
+              {"text": "Economical", "ipa": "/ˌiː.kəˈnɒm.ɪ.kəl/", "hl": "/ˌiː.kə<span style='color:red'>nɒm</span>.ɪ.kəl/"},
+              {"text": "Theoretical", "ipa": "/ˌθɪəˈret.ɪ.kəl/", "hl": "/ˌθɪə<span style='color:red'>ret</span>.ɪ.kəl/"},
+              {"text": "Practical", "ipa": "/ˈpræk.tɪ.kəl/", "hl": "/<span style='color:red'>præk</span>.tɪ.kəl/"},
+              {"text": "Magical", "ipa": "/ˈmædʒ.ɪ.kəl/", "hl": "/<span style='color:red'>mædʒ</span>.ɪ.kəl/"}
             ]
           },
           {
             "rule": "Compound words - noun compounds",
             "details": "Stress the first word.",
             "example": [
-              {
-                "text": "Postman",
-                "ipa": "/ˈpoʊst.mən/",
-                "hl": "/<span style='color:red'>poʊst</span>.mən/"
-              },
-              {
-                "text": "Blackboard",
-                "ipa": "/ˈblæk.bɔːrd/",
-                "hl": "/<span style='color:red'>blæk</span>.bɔːrd/"
-              },
-              {
-                "text": "Football",
-                "ipa": "/ˈfʊt.bɔːl/",
-                "hl": "/<span style='color:red'>fʊt</span>.bɔːl/"
-              },
-              {
-                "text": "Sunflower",
-                "ipa": "/ˈsʌn.flaʊ.ər/",
-                "hl": "/<span style='color:red'>sʌn</span>.flaʊ.ər/"
-              },
-              {
-                "text": "Notebook",
-                "ipa": "/ˈnoʊt.bʊk/",
-                "hl": "/<span style='color:red'>noʊt</span>.bʊk/"
-              },
-              {
-                "text": "Bedroom",
-                "ipa": "/ˈbed.ruːm/",
-                "hl": "/<span style='color:red'>bed</span>.ruːm/"
-              },
-              {
-                "text": "Cupcake",
-                "ipa": "/ˈkʌp.keɪk/",
-                "hl": "/<span style='color:red'>kʌp</span>.keɪk/"
-              },
-              {
-                "text": "Toothbrush",
-                "ipa": "/ˈtuːθ.brʌʃ/",
-                "hl": "/<span style='color:red'>tuːθ</span>.brʌʃ/"
-              },
-              {
-                "text": "Fireman",
-                "ipa": "/ˈfaɪər.mən/",
-                "hl": "/<span style='color:red'>faɪər</span>.mən/"
-              },
-              {
-                "text": "Birdhouse",
-                "ipa": "/ˈbɜːrd.haʊs/",
-                "hl": "/<span style='color:red'>bɜːrd</span>.haʊs/"
-              }
+              {"text": "Postman", "ipa": "/ˈpoʊst.mən/", "hl": "/<span style='color:red'>poʊst</span>.mən/"},
+              {"text": "Blackboard", "ipa": "/ˈblæk.bɔːrd/", "hl": "/<span style='color:red'>blæk</span>.bɔːrd/"},
+              {"text": "Football", "ipa": "/ˈfʊt.bɔːl/", "hl": "/<span style='color:red'>fʊt</span>.bɔːl/"},
+              {"text": "Sunflower", "ipa": "/ˈsʌn.flaʊ.ər/", "hl": "/<span style='color:red'>sʌn</span>.flaʊ.ər/"},
+              {"text": "Notebook", "ipa": "/ˈnoʊt.bʊk/", "hl": "/<span style='color:red'>noʊt</span>.bʊk/"},
+              {"text": "Bedroom", "ipa": "/ˈbed.ruːm/", "hl": "/<span style='color:red'>bed</span>.ruːm/"},
+              {"text": "Cupcake", "ipa": "/ˈkʌp.keɪk/", "hl": "/<span style='color:red'>kʌp</span>.keɪk/"},
+              {"text": "Toothbrush", "ipa": "/ˈtuːθ.brʌʃ/", "hl": "/<span style='color:red'>tuːθ</span>.brʌʃ/"},
+              {"text": "Fireman", "ipa": "/ˈfaɪər.mən/", "hl": "/<span style='color:red'>faɪər</span>.mən/"},
+              {"text": "Birdhouse", "ipa": "/ˈbɜːrd.haʊs/", "hl": "/<span style='color:red'>bɜːrd</span>.haʊs/"}
             ]
           },
           {
             "rule": "Compound words - adjective compounds",
             "details": "Stress the second word.",
             "example": [
-              {
-                "text": "Old-fashioned",
-                "ipa": "/oʊldˈfæ.ʃənd/",
-                "hl": "/oʊld<span style='color:red'>fæ</span>.ʃənd/"
-              },
-              {
-                "text": "Bad-tempered",
-                "ipa": "/bædˈtɛmp.ərd/",
-                "hl": "/bæd<span style='color:red'>tɛmp</span>.ərd/"
-              },
-              {
-                "text": "Well-known",
-                "ipa": "/wɛlˈnoʊn/",
-                "hl": "/wɛl<span style='color:red'>noʊn</span>/"
-              },
-              {
-                "text": "High-pitched",
-                "ipa": "/haɪˈpɪtʃt/",
-                "hl": "/haɪ<span style='color:red'>pɪtʃt</span>/"
-              },
-              {
-                "text": "Long-lasting",
-                "ipa": "/lɔŋˈlæs.tɪŋ/",
-                "hl": "/lɔŋ<span style='color:red'>læs</span>.tɪŋ/"
-              },
-              {
-                "text": "Cold-hearted",
-                "ipa": "/koʊldˈhɑːr.tɪd/",
-                "hl": "/koʊld<span style='color:red'>hɑːr</span>.tɪd/"
-              },
-              {
-                "text": "Light-weight",
-                "ipa": "/laɪtˈweɪt/",
-                "hl": "/laɪt<span style='color:red'>weɪt</span>/"
-              },
-              {
-                "text": "Quick-witted",
-                "ipa": "/kwɪkˈwɪt.ɪd/",
-                "hl": "/kwɪk<span style='color:red'>wɪt</span>.ɪd/"
-              },
-              {
-                "text": "Heavy-handed",
-                "ipa": "/ˌhev.iˈhænd.ɪd/",
-                "hl": "/hev.i<span style='color:red'>hænd</span>.ɪd/"
-              },
-              {
-                "text": "Tight-lipped",
-                "ipa": "/taɪtˈlɪpt/",
-                "hl": "/taɪt<span style='color:red'>lɪpt</span>/"
-              }
+              {"text": "Old-fashioned", "ipa": "/oʊldˈfæ.ʃənd/", "hl": "/oʊld<span style='color:red'>fæ</span>.ʃənd/"},
+              {"text": "Bad-tempered", "ipa": "/bædˈtɛmp.ərd/", "hl": "/bæ rocky<span style='color:red'>tɛmp</span>.ərd/"},
+              {"text": "Well-known", "ipa": "/wɛlˈnoʊn/", "hl": "/wɛl<span style='color:red'>noʊn</span>/"},
+              {"text": "High-pitched", "ipa": "/haɪˈpɪtʃt/", "hl": "/haɪ<span style='color:red'>pɪtʃt</span>/"},
+              {"text": "Long-lasting", "ipa": "/lɔŋˈlæs.tɪŋ/", "hl": "/lɔŋ<span style='color:red'>læs</span>.tɪŋ/"},
+              {"text": "Cold-hearted", "ipa": "/koʊldˈhɑːr.tɪd/", "hl": "/koʊld<span style='color:red'>hɑːr</span>.tɪd/"},
+              {"text": "Light-weight", "ipa": "/laɪtˈweɪt/", "hl": "/laɪt<span style='color:red'>weɪt</span>/"},
+              {"text": "Quick-witted", "ipa": "/kwɪkˈwɪt.ɪd/", "hl": "/kwɪk<span style='color:red'>wɪt</span>.ɪd/"},
+              {"text": "Heavy-handed", "ipa": "/ˌhev.iˈhænd.ɪd/", "hl": "/hev.i<span style='color:red'>hænd</span>.ɪd/"},
+              {"text": "Tight-lipped", "ipa": "/taɪtˈlɪpt/", "hl": "/taɪt<span style='color:red'>lɪpt</span>/"}
             ]
           }
         ]
@@ -294,56 +124,11 @@
             "rule": "Content words",
             "details": "Words such as nouns, main verbs, adjectives, adverbs, and question words are usually stressed.",
             "example": [
-              {
-                "text": "I like reading books on the weekend.",
-                "ipa": "/aɪ ˈlaɪk ˈriː.dɪŋ ˈbʊks ɒn ðə ˈwiːkˌɛnd/",
-                "hl": "/aɪ <span style='color:red'>laɪk</span> <span style='color:red'>riː</span>.dɪŋ <span style='color:red'>bʊks</span> ɒn ðə <span style='color:red'>wiːk</span><span style='color:red'>ɛnd</span>/"
-              },
-              {
-                "text": "She enjoys playing the piano beautifully.",
-                "ipa": "/ʃi ɪnˈdʒɔɪz ˈpleɪ.ɪŋ ðə piˈæ.noʊ ˌbjuː.tɪ.fəl.i/",
-                "hl": "/ʃi ɪn<span style='color:red'>dʒɔɪz</span> <span style='color:red'>pleɪ</span>.ɪŋ ðə pi<span style='color:red'>æ</span>.noʊ <span style='color:red'>bjuː</span>.tɪ.fəl.i/"
-              },
-              {
-                "text": "They visited the ancient castle last summer.",
-                "ipa": "/ðeɪ ˈvɪz.ɪ.tɪd ðə ˈeɪn.ʃənt ˈkæs.əl lɑːst ˈsʌm.ər/",
-                "hl": "/ðeɪ <span style='color:red'>vɪz</span>.ɪ.tɪd ðə <span style='color:red'>eɪn</span>.ʃənt <span style='color:red'>kæs</span>.əl lɑːst <span style='color:red'>sʌm</span>.ər/"
-              },
-              {
-                "text": "We will travel across the country by train.",
-                "ipa": "/wi wɪl ˈtræv.əl əˈkrɒs ðə ˈkʌn.tri baɪ treɪn/",
-                "hl": "/wi wɪl <span style='color:red'>træv</span>.əl əˈkrɒs ðə <span style='color:red'>kʌn</span>.tri baɪ <span style='color:red'>treɪn</span>/"
-              },
-              {
-                "text": "He studies history at the prestigious university.",
-                "ipa": "/hi ˈstʌd.iz ˈhɪs.tər.i æt ðə prɪˈstiː.dʒəs ˌjuː.nɪˈvɜːr.sə.ti/",
-                "hl": "/hi <span style='color:red'>stʌd</span>.iz <span style='color:red'>hɪs</span>.tər.i æt ðə prɪ<span style='color:red'>stiː</span>.dʒəs <span style='color:red'>juː</span>.nɪ<span style='color:red'>vɜːr</span>.sə.ti/"
-              },
-              {
-                "text": "The chef prepared a delicious meal for dinner.",
-                "ipa": "/ðə ʃɛf prɪˈpeərd ə dɪˈlɪʃ.əs miːl fɔːr ˈdɪn.ər/",
-                "hl": "/ðə ʃɛf prɪ<span style='color:red'>peərd</span> ə dɪ<span style='color:red'>lɪʃ</span>.əs miːl fɔːr <span style='color:red'>dɪn</span>.ər/"
-              },
-              {
-                "text": "Our team won the championship game yesterday.",
-                "ipa": "/aʊər tiːm wʌn ðə ˈtʃæm.pi.ən.ʃɪp ɡeɪm ˈjɛs.tə.deɪ/",
-                "hl": "/aʊər tiːm <span style='color:red'>wʌn</span> ðə <span style='color:red'>tʃæm</span>.pi.ən.ʃɪp ɡeɪm <span style='color:red'>jɛs</span>.tə.deɪ/"
-              },
-              {
-                "text": "My friend bought a new smartphone online.",
-                "ipa": "/maɪ frɛnd bɔːt ə njuː ˈsmɑːrt.foʊn ˈɒn.laɪn/",
-                "hl": "/maɪ frɛnd bɔːt ə njuː <span style='color:red'>smɑːrt</span>.foʊn <span style='color:red'>ɒn</span>.laɪn/"
-              },
-              {
-                "text": "Parents value their children's education greatly.",
-                "ipa": "/ˈpeər.ənts ˈvæl.juː ðɛər ˈtʃɪl.drənz ˌɛd.jʊˈkeɪ.ʃən ˈɡreɪt.li/",
-                "hl": "/<span style='color:red'>peər</span>.ənts <span style='color:red'>væl</span>.juː ðɛər <span style='color:red'>tʃɪl</span>.drənz ˌɛd.jʊ<span style='color:red'>keɪ</span>.ʃən <span style='color:red'>ɡreɪt</span>.li/"
-              },
-              {
-                "text": "Artists create stunning artworks in vibrant colors.",
-                "ipa": "/ˈɑːr.tɪsts kriˈeɪt ˈstʌn.ɪŋ ˈɑːrt.wɜːrks ɪn ˈvaɪ.brənt ˈkʌl.ərz/",
-                "hl": "/<span style='color:red'>ɑːr</span>.tɪsts kri<span style='color:red'>eɪt</span> <span style='color:red'>stʌn</span>.ɪŋ <span style='color:red'>ɑːrt</span>.wɜːrks ɪn <span style='color:red'>vaɪ</span>.brənt <span style='color:red'>kʌl</span>.ərz/"
-              }
+              {"text": "I like reading books on the weekend.", "ipa": "/aɪ ˈlaɪk ˈriː.dɪŋ ˈbʊks ɒn ðə ˈwiːkˌɛnd/", "hl": "/aɪ <span style='color:red'>laɪk</span> <span style='color:red'>riː</span>.dɪŋ <span style='color:red'>bʊks</span> ɒn ðə <span style='color:red'>wiːk</span><span style='color:red'>ɛnd</span>/"},
+              {"text": "She enjoys playing the piano beautifully.", "ipa": "/ʃi ɪnˈdʒɔɪz ˈpleɪ.ɪŋ ðə piˈæ.noʊ ˌbjuː.tɪ.fəl.i/", "hl": "/ʃi ɪn<span style='color:red'>dʒɔɪz</span> <span style='color:red'>pleɪ</span>.ɪŋ ðə pi<span style='color:red'>æ</span>.noʊ <span style='color:red'>bjuː</span>.tɪ.fəl.i/"},
+              {"text": "They visited the ancient castle last summer.", "ipa": "/ðeɪ ˈvɪz.ɪ.tɪd ðə ˈeɪn.ʃənt ˈkæs.əl lɑːst ˈsʌm.ər/", "hl": "/ðeɪ <span style='color:red'>vɪz</span>.ɪ.tɪd ðə <span style='color:red'>eɪn</span>.ʃənt <span style='color:red'>kæs</span>.əl lɑːst <span style='color:red'>sʌm</span>.ər/"},
+              {"text": "We will travel across the country by train.", "ipa": "/wi wɪl ˈtræv.əl əˈkrɒs ðə ˈkʌn.tri baɪ treɪn/", "hl": "/wi wɪl <span style='color:red'>træv</span>.əl əˈkrɒs ðə <span style='color:red'>kʌn</span>.tri baɪ <span style='color:red'>treɪn</span>/"},
+              {"text": "He studies history at the prestigious university.", "ipa": "/hi ˈstʌd.iz ˈhɪs.tər.i æt ðə prɪˈstiː.dʒəs ˌjuː.nɪˈvɜːr.sə.ti/", "hl": "/hi <span style='color:red'>stʌd</span>.iz <span style='color:red'>hɪs</span>.tər.i æt ðə prɪ<span style='color:red'>stiː</span>.dʒəs <span style='color:red'>juː</span>.nɪ<span style='color:red'>vɜːr</span>.sə.ti/"}
             ]
           }
         ]
@@ -357,115 +142,30 @@
             "details": "Articles, pronouns, prepositions, and conjunctions are generally not stressed.",
             "note": "These words serve grammatical functions rather than conveying primary meaning, which is why they are usually spoken with less stress.",
             "example": [
-              {
-                "text": "The",
-                "ipa": "/ðə/",
-                "hl": "/ðə/"
-              },
-              {
-                "text": "And",
-                "ipa": "/ənd/",
-                "hl": "/ənd/"
-              },
-              {
-                "text": "But",
-                "ipa": "/bʌt/",
-                "hl": "/bʌt/"
-              },
-              {
-                "text": "Or",
-                "ipa": "/ɔːr/",
-                "hl": "/ɔːr/"
-              },
-              {
-                "text": "If",
-                "ipa": "/ɪf/",
-                "hl": "/ɪf/"
-              },
-              {
-                "text": "When",
-                "ipa": "/wɛn/",
-                "hl": "/wɛn/"
-              },
-              {
-                "text": "Where",
-                "ipa": "/wɛər/",
-                "hl": "/wɛər/"
-              },
-              {
-                "text": "Because",
-                "ipa": "/bɪˈkɔːz/",
-                "hl": "/bɪˈkɔːz/"
-              },
-              {
-                "text": "Although",
-                "ipa": "/ɔːlˈðoʊ/",
-                "hl": "/ɔːlˈðoʊ/"
-              },
-              {
-                "text": "So",
-                "ipa": "/soʊ/",
-                "hl": "/soʊ/"
-              },
-              {
-                "text": "A",
-                "ipa": "/ə/",
-                "hl": "/ə/"
-              },
-              {
-                "text": "An",
-                "ipa": "/ən/",
-                "hl": "/ən/"
-              },
-              {
-                "text": "Of",
-                "ipa": "/əv/",
-                "hl": "/əv/"
-              },
-              {
-                "text": "To",
-                "ipa": "/tə/",
-                "hl": "/tə/"
-              },
-              {
-                "text": "In",
-                "ipa": "/ɪn/",
-                "hl": "/ɪn/"
-              },
-              {
-                "text": "On",
-                "ipa": "/ɒn/",
-                "hl": "/ɒn/"
-              },
-              {
-                "text": "At",
-                "ipa": "/ət/",
-                "hl": "/ət/"
-              },
-              {
-                "text": "By",
-                "ipa": "/baɪ/",
-                "hl": "/baɪ/"
-              },
-              {
-                "text": "With",
-                "ipa": "/wɪð/",
-                "hl": "/wɪð/"
-              },
-              {
-                "text": "For",
-                "ipa": "/fər/",
-                "hl": "/fər/"
-              },
-              {
-                "text": "From",
-                "ipa": "/frəm/",
-                "hl": "/frəm/"
-              }
+              {"text": "The", "ipa": "/ðə/", "hl": "/ðə/"},
+              {"text": "And", "ipa": "/ənd/", "hl": "/ənd/"},
+              {"text": "But", "ipa": "/bʌt/", "hl": "/bʌt/"},
+              {"text": "Or", "ipa": "/ɔːr/", "hl": "/ɔːr/"},
+              {"text": "If", "ipa": "/ɪf/", "hl": "/ɪf/"},
+              {"text": "When", "ipa": "/wɛn/", "hl": "/wɛn/"},
+              {"text": "Where", "ipa": "/wɛər/", "hl": "/wɛər/"},
+              {"text": "Because", "ipa": "/bɪˈkɔːz/", "hl": "/bɪˈkɔːz/"},
+              {"text": "Although", "ipa": "/ɔːlˈðoʊ/", "hl": "/ɔːlˈðoʊ/"},
+              {"text": "So", "ipa": "/soʊ/", "hl": "/soʊ/"},
+              {"text": "A", "ipa": "/ə/", "hl": "/ə/"},
+              {"text": "An", "ipa": "/ən/", "hl": "/ən/"},
+              {"text": "Of", "ipa": "/əv/", "hl": "/əv/"},
+              {"text": "To", "ipa": "/tə/", "hl": "/tə/"},
+              {"text": "In", "ipa": "/ɪn/", "hl": "/ɪn/"},
+              {"text": "On", "ipa": "/ɒn/", "hl": "/ɒn/"},
+              {"text": "At", "ipa": "/ət/", "hl": "/ət/"},
+              {"text": "By", "ipa": "/baɪ/", "hl": "/baɪ/"},
+              {"text": "With", "ipa": "/wɪð/", "hl": "/wɪð/"},
+              {"text": "For", "ipa": "/fər/", "hl": "/fər/"},
+              {"text": "From", "ipa": "/frəm/", "hl": "/frəm/"}
             ]
           }
         ]
       }
     ]
   }
-  
