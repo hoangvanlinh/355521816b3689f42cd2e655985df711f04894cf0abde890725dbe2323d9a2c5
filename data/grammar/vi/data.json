@@ -1,0 +1,95 @@
+[
+    {
+      "subname": "Hiện Tại Đơn",
+      "usage": [
+        "Diễn tả thói quen hoặc hành động lặp đi lặp lại.",
+        "Nêu sự thật hoặc chân lý chung.",
+        "Mô tả lịch trình hoặc thời gian biểu.",
+        "Diễn tả cảm xúc, suy nghĩ hoặc trạng thái."
+      ]
+    },
+    {
+      "subname": "Hiện Tại Tiếp Diễn",
+      "usage": [
+        "Mô tả hành động đang xảy ra tại thời điểm nói.",
+        "Diễn tả kế hoạch hoặc sự sắp xếp trong tương lai.",
+        "Mô tả hành động hoặc tình huống tạm thời.",
+        "Diễn tả tình huống đang thay đổi hoặc phát triển."
+      ]
+    },
+    {
+      "subname": "Hiện Tại Hoàn Thành",
+      "usage": [
+        "Mô tả hành động đã hoàn thành trong quá khứ nhưng có liên quan đến hiện tại.",
+        "Diễn tả kinh nghiệm hoặc thành tựu.",
+        "Mô tả hành động bắt đầu trong quá khứ và tiếp tục đến hiện tại.",
+        "Mô tả hành động đã xảy ra nhiều lần trong quá khứ."
+      ]
+    },
+    {
+      "subname": "Hiện Tại Hoàn Thành Tiếp Diễn",
+      "usage": [
+        "Mô tả hành động bắt đầu trong quá khứ và tiếp tục đến hiện tại.",
+        "Nhấn mạnh thời gian hoặc tính liên tục của hành động.",
+        "Mô tả hành động vừa mới kết thúc."
+      ]
+    },
+    {
+      "subname": "Quá Khứ Đơn",
+      "usage": [
+        "Mô tả hành động đã hoàn thành trong quá khứ.",
+        "Diễn tả thói quen hoặc thói quen trong quá khứ.",
+        "Mô tả một chuỗi hành động đã hoàn thành trong quá khứ."
+      ]
+    },
+    {
+      "subname": "Quá Khứ Tiếp Diễn",
+      "usage": [
+        "Mô tả hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ.",
+        "Diễn tả hai hành động xảy ra đồng thời trong quá khứ.",
+        "Mô tả hành động bị gián đoạn trong quá khứ."
+      ]
+    },
+    {
+      "subname": "Quá Khứ Hoàn Thành",
+      "usage": [
+        "Mô tả hành động đã hoàn thành trước một hành động khác trong quá khứ.",
+        "Diễn tả hành động đã hoàn thành trước một thời điểm cụ thể trong quá khứ."
+      ]
+    },
+    {
+      "subname": "Quá Khứ Hoàn Thành Tiếp Diễn",
+      "usage": [
+        "Mô tả hành động đang diễn ra trước một hành động khác trong quá khứ.",
+        "Nhấn mạnh thời gian của hành động trước một thời điểm cụ thể trong quá khứ."
+      ]
+    },
+    {
+      "subname": "Tương Lai Đơn",
+      "usage": [
+        "Mô tả hành động sẽ xảy ra trong tương lai.",
+        "Diễn tả dự đoán, lời hứa hoặc quyết định tức thời."
+      ]
+    },
+    {
+      "subname": "Tương Lai Tiếp Diễn",
+      "usage": [
+        "Mô tả hành động sẽ đang diễn ra tại một thời điểm cụ thể trong tương lai.",
+        "Diễn tả hành động sẽ xảy ra trong một khoảng thời gian trong tương lai."
+      ]
+    },
+    {
+      "subname": "Tương Lai Hoàn Thành",
+      "usage": [
+        "Mô tả hành động sẽ hoàn thành trước một thời điểm cụ thể trong tương lai.",
+        "Diễn tả hành động sẽ hoàn thành trước một hành động khác trong tương lai."
+      ]
+    },
+    {
+      "subname": "Tương Lai Hoàn Thành Tiếp Diễn",
+      "usage": [
+        "Mô tả hành động sẽ đang diễn ra liên tục cho đến một thời điểm cụ thể trong tương lai.",
+        "Nhấn mạnh thời gian của hành động cho đến một điểm trong tương lai."
+      ]
+    }
+]
