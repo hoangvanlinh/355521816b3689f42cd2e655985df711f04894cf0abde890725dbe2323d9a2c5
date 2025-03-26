@@ -1,0 +1,371 @@
+[
+    {
+      "name": "Simple Present",
+      "structure": {
+        "affirmative": {
+          "formula": "S + V(s/es)",
+          "examples": [
+            "She goes to school every day.",
+            "The sun rises in the east."
+          ]
+        },
+        "negative": {
+          "formula": "S + do/does + not + V",
+          "examples": [
+            "She does not go to school every day.",
+            "The sun does not rise in the west."
+          ]
+        },
+        "interrogative": {
+          "formula": "Do/Does + S + V?",
+          "examples": [
+            "Does she go to school every day?",
+            "Does the sun rise in the east?"
+          ]
+        }
+      },
+      "usage": [
+        "Expresses habits or repeated actions.",
+        "States facts or general truths.",
+        "Describes schedules or timetables.",
+        "Expresses feelings, thoughts, or states."
+      ]
+    },
+    {
+      "name": "Present Continuous",
+      "structure": {
+        "affirmative": {
+          "formula": "S + am/is/are + V-ing",
+          "examples": [
+            "I am reading a book now.",
+            "They are playing football."
+          ]
+        },
+        "negative": {
+          "formula": "S + am/is/are + not + V-ing",
+          "examples": [
+            "I am not reading a book now.",
+            "They are not playing football."
+          ]
+        },
+        "interrogative": {
+          "formula": "Am/Is/Are + S + V-ing?",
+          "examples": [
+            "Are you reading a book now?",
+            "Are they playing football?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions happening at the moment of speaking.",
+        "Expresses future plans or arrangements.",
+        "Describes temporary actions or situations.",
+        "Expresses changing or developing situations."
+      ]
+    },
+    {
+      "name": "Present Perfect",
+      "structure": {
+        "affirmative": {
+          "formula": "S + have/has + V3/ed",
+          "examples": [
+            "I have seen that movie twice.",
+            "She has lived here for five years."
+          ]
+        },
+        "negative": {
+          "formula": "S + have/has + not + V3/ed",
+          "examples": [
+            "I have not seen that movie.",
+            "She has not lived here long."
+          ]
+        },
+        "interrogative": {
+          "formula": "Have/Has + S + V3/ed?",
+          "examples": [
+            "Have you seen that movie?",
+            "Has she lived here for five years?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions completed in the past with present relevance.",
+        "Expresses experiences or achievements.",
+        "Describes actions that started in the past and continue to the present.",
+        "Describes actions that have occurred multiple times in the past."
+      ]
+    },
+    {
+      "name": "Present Perfect Continuous",
+      "structure": {
+        "affirmative": {
+          "formula": "S + have/has + been + V-ing",
+          "examples": [
+            "I have been studying English for two hours.",
+            "It has been raining since morning."
+          ]
+        },
+        "negative": {
+          "formula": "S + have/has + not + been + V-ing",
+          "examples": [
+            "I have not been studying for long.",
+            "It has not been raining much."
+          ]
+        },
+        "interrogative": {
+          "formula": "Have/Has + S + been + V-ing?",
+          "examples": [
+            "Have you been studying English for two hours?",
+            "Has it been raining since morning?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that started in the past and continue to the present.",
+        "Emphasizes the duration or continuity of an action.",
+        "Describes actions that have recently stopped."
+      ]
+    },
+    {
+      "name": "Simple Past",
+      "structure": {
+        "affirmative": {
+          "formula": "S + V2/ed",
+          "examples": [
+            "I visited Paris last year.",
+            "She walked to school yesterday."
+          ]
+        },
+        "negative": {
+          "formula": "S + did + not + V",
+          "examples": [
+            "I did not visit Paris last year.",
+            "She did not walk to school yesterday."
+          ]
+        },
+        "interrogative": {
+          "formula": "Did + S + V?",
+          "examples": [
+            "Did you visit Paris last year?",
+            "Did she walk to school yesterday?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes completed actions in the past.",
+        "Expresses past habits or routines.",
+        "Describes a series of completed actions in the past."
+      ]
+    },
+    {
+      "name": "Past Continuous",
+      "structure": {
+        "affirmative": {
+          "formula": "S + was/were + V-ing",
+          "examples": [
+            "I was watching TV at 8 p.m. yesterday.",
+            "They were playing football when it started raining."
+          ]
+        },
+        "negative": {
+          "formula": "S + was/were + not + V-ing",
+          "examples": [
+            "I was not watching TV at 8 p.m. yesterday.",
+            "They were not playing football when it started raining."
+          ]
+        },
+        "interrogative": {
+          "formula": "Was/Were + S + V-ing?",
+          "examples": [
+            "Were you watching TV at 8 p.m. yesterday?",
+            "Were they playing football when it started raining?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that were ongoing at a specific time in the past.",
+        "Expresses two actions happening simultaneously in the past.",
+        "Describes an action that was interrupted in the past."
+      ]
+    },
+    {
+      "name": "Past Perfect",
+      "structure": {
+        "affirmative": {
+          "formula": "S + had + V3/ed",
+          "examples": [
+            "I had finished my homework before I went to bed.",
+            "She had already eaten when I invited her to dinner."
+          ]
+        },
+        "negative": {
+          "formula": "S + had + not + V3/ed",
+          "examples": [
+            "I had not finished my homework before I went to bed.",
+            "She had not eaten when I invited her to dinner."
+          ]
+        },
+        "interrogative": {
+          "formula": "Had + S + V3/ed?",
+          "examples": [
+            "Had you finished your homework before you went to bed?",
+            "Had she eaten when you invited her to dinner?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions completed before another action in the past.",
+        "Expresses actions completed before a specific time in the past."
+      ]
+    },
+    {
+      "name": "Past Perfect Continuous",
+      "structure": {
+        "affirmative": {
+          "formula": "S + had + been + V-ing",
+          "examples": [
+            "I had been waiting for two hours when she finally arrived.",
+            "They had been playing football before it started raining."
+          ]
+        },
+        "negative": {
+          "formula": "S + had + not + been + V-ing",
+          "examples": [
+            "I had not been waiting long when she arrived.",
+            "They had not been playing football for long before it started raining."
+          ]
+        },
+        "interrogative": {
+          "formula": "Had + S + been + V-ing?",
+          "examples": [
+            "Had you been waiting for two hours when she arrived?",
+            "Had they been playing football before it started raining?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that were ongoing before another action in the past.",
+        "Emphasizes the duration of an action before a specific point in the past."
+      ]
+    },
+    {
+      "name": "Simple Future",
+      "structure": {
+        "affirmative": {
+          "formula": "S + will + V",
+          "examples": [
+            "I will call you tomorrow.",
+            "It will rain later."
+          ]
+        },
+        "negative": {
+          "formula": "S + will + not + V",
+          "examples": [
+            "I will not call you tomorrow.",
+            "It will not rain later."
+          ]
+        },
+        "interrogative": {
+          "formula": "Will + S + V?",
+          "examples": [
+            "Will you call me tomorrow?",
+            "Will it rain later?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that will happen in the future.",
+        "Expresses predictions, promises, or instant decisions."
+      ]
+    },
+    {
+      "name": "Future Continuous",
+      "structure": {
+        "affirmative": {
+          "formula": "S + will + be + V-ing",
+          "examples": [
+            "I will be sleeping at midnight.",
+            "They will be traveling next week."
+          ]
+        },
+        "negative": {
+          "formula": "S + will + not + be + V-ing",
+          "examples": [
+            "I will not be sleeping at midnight.",
+            "They will not be traveling next week."
+          ]
+        },
+        "interrogative": {
+          "formula": "Will + S + be + V-ing?",
+          "examples": [
+            "Will you be sleeping at midnight?",
+            "Will they be traveling next week?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that will be ongoing at a specific time in the future.",
+        "Expresses actions that will occur over a period in the future."
+      ]
+    },
+    {
+      "name": "Future Perfect",
+      "structure": {
+        "affirmative": {
+          "formula": "S + will + have + V3/ed",
+          "examples": [
+            "I will have finished my project by next Monday.",
+            "She will have graduated by next year."
+          ]
+        },
+        "negative": {
+          "formula": "S + will + not + have + V3/ed",
+          "examples": [
+            "I will not have finished my project by next Monday.",
+            "She will not have graduated by next year."
+          ]
+        },
+        "interrogative": {
+          "formula": "Will + S + have + V3/ed?",
+          "examples": [
+            "Will you have finished your project by next Monday?",
+            "Will she have graduated by next year?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that will be completed before a specific time in the future.",
+        "Expresses actions that will be completed before another future action."
+      ]
+    },
+    {
+      "name": "Future Perfect Continuous",
+      "structure": {
+        "affirmative": {
+          "formula": "S + will + have + been + V-ing",
+          "examples": [
+            "I will have been working here for ten years by next month.",
+            "She will have been waiting for two hours by the time the bus arrives."
+          ]
+        },
+        "negative": {
+          "formula": "S + will + not + have + been + V-ing",
+          "examples": [
+            "I will not have been working here for ten years by next month.",
+            "She will not have been waiting for two hours by the time the bus arrives."
+          ]
+        },
+        "interrogative": {
+          "formula": "Will + S + have + been + V-ing?",
+          "examples": [
+            "Will you have been working here for ten years by next month?",
+            "Will she have been waiting for two hours by the time the bus arrives?"
+          ]
+        }
+      },
+      "usage": [
+        "Describes actions that will have been ongoing up to a specific point in the future.",
+        "Emphasizes the duration of an action up to a future point."
+      ]
+    }
+  ]
