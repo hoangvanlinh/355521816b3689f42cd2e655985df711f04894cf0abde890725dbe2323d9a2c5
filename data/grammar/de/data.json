@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Nutid (simpel)",
+    "usage": [
+      "Udtrykker vaner eller gentagne handlinger.",
+      "Udsiger fakta eller generelle sandheder.",
+      "Beskriver tidsplaner eller skemaer.",
+      "Udtrykker følelser, tanker eller tilstande."
+    ]
+  },
+  {
+    "subname": "Nutid (løbende)",
+    "usage": [
+      "Beskriver handlinger, der foregår i øjeblikket for tale.",
+      "Udtrykker fremtidige planer eller aftaler.",
+      "Beskriver midlertidige handlinger eller situationer.",
+      "Udtrykker foranderlige eller udviklende situationer."
+    ]
+  },
+  {
+    "subname": "Nutid (perfekt)",
+    "usage": [
+      "Beskriver handlinger, der er afsluttede i fortiden med relevans for nutiden.",
+      "Udtrykker erfaringer eller præstationer.",
+      "Beskriver handlinger, der startede i fortiden og fortsætter i nutiden.",
+      "Beskriver handlinger, der har fundet sted flere gange i fortiden."
+    ]
+  },
+  {
+    "subname": "Nutid (perfekt løbende)",
+    "usage": [
+      "Beskriver handlinger, der startede i fortiden og fortsætter i nutiden.",
+      "Fremhæver varigheden eller kontinuiteten af en handling.",
+      "Beskriver handlinger, der for nylig er ophørt."
+    ]
+  },
+  {
+    "subname": "Datid (simpel)",
+    "usage": [
+      "Beskriver afsluttede handlinger i fortiden.",
+      "Udtrykker tidligere vaner eller rutiner.",
+      "Beskriver en række afsluttede handlinger i fortiden."
+    ]
+  },
+  {
+    "subname": "Datid (løbende)",
+    "usage": [
+      "Beskriver handlinger, der var i gang på et bestemt tidspunkt i fortiden.",
+      "Udtrykker to handlinger, der foregik samtidig i fortiden.",
+      "Beskriver en handling, der blev afbrudt i fortiden."
+    ]
+  },
+  {
+    "subname": "Pluskvamperfekt",
+    "usage": [
+      "Beskriver handlinger, der blev afsluttet før en anden handling i fortiden.",
+      "Udtrykker handlinger, der blev afsluttet før et bestemt tidspunkt i fortiden."
+    ]
+  },
+  {
+    "subname": "Pluskvamperfekt (løbende)",
+    "usage": [
+      "Beskriver handlinger, der var i gang før en anden handling i fortiden.",
+      "Fremhæver varigheden af en handling før et bestemt tidspunkt i fortiden."
+    ]
+  },
+  {
+    "subname": "Fremtid (simpel)",
+    "usage": [
+      "Beskriver handlinger, der vil ske i fremtiden.",
+      "Udtrykker forudsigelser, løfter eller øjeblikkelige beslutninger."
+    ]
+  },
+  {
+    "subname": "Fremtid (løbende)",
+    "usage": [
+      "Beskriver handlinger, der vil være i gang på et bestemt tidspunkt i fremtiden.",
+      "Udtrykker handlinger, der vil finde sted over en periode i fremtiden."
+    ]
+  },
+  {
+    "subname": "Fremtid (perfekt)",
+    "usage": [
+      "Beskriver handlinger, der vil være afsluttet før et bestemt tidspunkt i fremtiden.",
+      "Udtrykker handlinger, der vil være afsluttet før en anden fremtidig handling."
+    ]
+  },
+  {
+    "subname": "Fremtid (perfekt løbende)",
+    "usage": [
+      "Beskriver handlinger, der vil have været i gang indtil et bestemt tidspunkt i fremtiden.",
+      "Fremhæver varigheden af en handling op til et fremtidigt tidspunkt."
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Czas teraźniejszy prosty",
+    "usage": [
+      "Wyraża nawyki lub powtarzające się czynności.",
+      "Określa fakty lub prawdy ogólne.",
+      "Opisuje harmonogramy lub rozkłady jazdy.",
+      "Wyraża uczucia, myśli lub stany."
+    ]
+  },
+  {
+    "subname": "Czas teraźniejszy ciągły",
+    "usage": [
+      "Opisuje czynności dziejące się w chwili mówienia.",
+      "Wyraża przyszłe plany lub ustalenia.",
+      "Opisuje tymczasowe działania lub sytuacje.",
+      "Wyraża zmieniające się lub rozwijające sytuacje."
+    ]
+  },
+  {
+    "subname": "Czas teraźniejszy dokonany",
+    "usage": [
+      "Opisuje czynności zakończone w przeszłości, ale mające związek z teraźniejszością.",
+      "Wyraża doświadczenia lub osiągnięcia.",
+      "Opisuje czynności, które rozpoczęły się w przeszłości i trwają do teraz.",
+      "Opisuje czynności, które miały miejsce wielokrotnie w przeszłości."
+    ]
+  },
+  {
+    "subname": "Czas teraźniejszy dokonany ciągły",
+    "usage": [
+      "Opisuje czynności rozpoczęte w przeszłości i trwające do teraźniejszości.",
+      "Podkreśla długość trwania lub ciągłość czynności.",
+      "Opisuje czynności, które niedawno się zakończyły."
+    ]
+  },
+  {
+    "subname": "Czas przeszły prosty",
+    "usage": [
+      "Opisuje zakończone czynności w przeszłości.",
+      "Wyraża nawyki lub rutyny z przeszłości.",
+      "Opisuje serię zakończonych czynności w przeszłości."
+    ]
+  },
+  {
+    "subname": "Czas przeszły ciągły",
+    "usage": [
+      "Opisuje czynności, które trwały w określonym momencie w przeszłości.",
+      "Wyraża dwie czynności odbywające się jednocześnie w przeszłości.",
+      "Opisuje czynność przerwaną w przeszłości."
+    ]
+  },
+  {
+    "subname": "Czas zaprzeszły",
+    "usage": [
+      "Opisuje czynności zakończone przed inną czynnością w przeszłości.",
+      "Wyraża czynności zakończone przed określonym momentem w przeszłości."
+    ]
+  },
+  {
+    "subname": "Czas zaprzeszły ciągły",
+    "usage": [
+      "Opisuje czynności, które trwały przed inną czynnością w przeszłości.",
+      "Podkreśla długość trwania czynności przed określonym momentem w przeszłości."
+    ]
+  },
+  {
+    "subname": "Czas przyszły prosty",
+    "usage": [
+      "Opisuje czynności, które wydarzą się w przyszłości.",
+      "Wyraża przewidywania, obietnice lub spontaniczne decyzje."
+    ]
+  },
+  {
+    "subname": "Czas przyszły ciągły",
+    "usage": [
+      "Opisuje czynności, które będą trwać w określonym momencie w przyszłości.",
+      "Wyraża czynności, które będą odbywać się przez pewien okres w przyszłości."
+    ]
+  },
+  {
+    "subname": "Czas przyszły dokonany",
+    "usage": [
+      "Opisuje czynności, które zostaną zakończone przed określonym momentem w przyszłości.",
+      "Wyraża czynności zakończone przed inną przyszłą czynnością."
+    ]
+  },
+  {
+    "subname": "Czas przyszły dokonany ciągły",
+    "usage": [
+      "Opisuje czynności, które będą trwały do określonego momentu w przyszłości.",
+      "Podkreśla długość trwania czynności do określonego momentu w przyszłości."
+    ]
+  }
+]

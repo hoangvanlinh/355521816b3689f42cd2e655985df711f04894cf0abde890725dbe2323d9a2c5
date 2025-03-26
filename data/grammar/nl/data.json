@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Onvoltooid Tegenwoordige Tijd",
+    "usage": [
+      "Drukt gewoontes of herhaalde handelingen uit.",
+      "Geeft feiten of algemene waarheden aan.",
+      "Beschrijft schema’s of dienstregelingen.",
+      "Drukt gevoelens, gedachten of toestanden uit."
+    ]
+  },
+  {
+    "subname": "Tegenwoordige Tijd Continu",
+    "usage": [
+      "Beschrijft handelingen die op dit moment plaatsvinden.",
+      "Drukt toekomstige plannen of afspraken uit.",
+      "Beschrijft tijdelijke handelingen of situaties.",
+      "Drukt veranderende of ontwikkelende situaties uit."
+    ]
+  },
+  {
+    "subname": "Voltooid Tegenwoordige Tijd",
+    "usage": [
+      "Beschrijft handelingen die in het verleden zijn voltooid, maar relevant zijn voor het heden.",
+      "Drukt ervaringen of prestaties uit.",
+      "Beschrijft handelingen die in het verleden begonnen zijn en nog steeds doorgaan.",
+      "Beschrijft handelingen die meerdere keren in het verleden zijn voorgekomen."
+    ]
+  },
+  {
+    "subname": "Voltooid Tegenwoordige Tijd Continu",
+    "usage": [
+      "Beschrijft handelingen die in het verleden zijn begonnen en nog steeds doorgaan.",
+      "Benadrukt de duur of voortgang van een handeling.",
+      "Beschrijft handelingen die recent zijn gestopt."
+    ]
+  },
+  {
+    "subname": "Onvoltooid Verleden Tijd",
+    "usage": [
+      "Beschrijft voltooide handelingen in het verleden.",
+      "Drukt gewoontes of routines uit in het verleden.",
+      "Beschrijft een reeks voltooide gebeurtenissen in het verleden."
+    ]
+  },
+  {
+    "subname": "Verleden Tijd Continu",
+    "usage": [
+      "Beschrijft handelingen die op een specifiek moment in het verleden aan de gang waren.",
+      "Drukt twee gelijktijdige handelingen in het verleden uit.",
+      "Beschrijft een handeling die in het verleden werd onderbroken."
+    ]
+  },
+  {
+    "subname": "Voltooid Verleden Tijd",
+    "usage": [
+      "Beschrijft handelingen die waren voltooid vóór een andere handeling in het verleden.",
+      "Drukt handelingen uit die waren voltooid vóór een specifiek tijdstip in het verleden."
+    ]
+  },
+  {
+    "subname": "Voltooid Verleden Tijd Continu",
+    "usage": [
+      "Beschrijft handelingen die aan de gang waren vóór een andere handeling in het verleden.",
+      "Benadrukt de duur van een handeling vóór een specifiek moment in het verleden."
+    ]
+  },
+  {
+    "subname": "Onvoltooid Toekomende Tijd",
+    "usage": [
+      "Beschrijft handelingen die in de toekomst zullen plaatsvinden.",
+      "Drukt voorspellingen, beloften of spontane beslissingen uit."
+    ]
+  },
+  {
+    "subname": "Toekomende Tijd Continu",
+    "usage": [
+      "Beschrijft handelingen die op een specifiek moment in de toekomst aan de gang zullen zijn.",
+      "Drukt handelingen uit die zich over een bepaalde periode in de toekomst zullen voordoen."
+    ]
+  },
+  {
+    "subname": "Voltooid Toekomende Tijd",
+    "usage": [
+      "Beschrijft handelingen die voltooid zullen zijn vóór een specifiek tijdstip in de toekomst.",
+      "Drukt handelingen uit die voltooid zullen zijn vóór een andere toekomstige handeling."
+    ]
+  },
+  {
+    "subname": "Voltooid Toekomende Tijd Continu",
+    "usage": [
+      "Beschrijft handelingen die tot een bepaald moment in de toekomst zullen voortduren.",
+      "Benadrukt de duur van een handeling tot een specifiek moment in de toekomst."
+    ]
+  }
+]

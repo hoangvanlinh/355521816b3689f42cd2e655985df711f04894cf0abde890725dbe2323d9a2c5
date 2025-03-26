@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Přítomný čas prostý",
+    "usage": [
+      "Vyjadřuje zvyky nebo opakované činnosti.",
+      "Uvádí fakta nebo obecné pravdy.",
+      "Popisuje rozvrhy nebo jízdní řády.",
+      "Vyjadřuje pocity, myšlenky nebo stavy."
+    ]
+  },
+  {
+    "subname": "Přítomný čas průběhový",
+    "usage": [
+      "Popisuje činnosti, které se dějí v okamžiku mluvení.",
+      "Vyjadřuje budoucí plány nebo uspořádání.",
+      "Popisuje dočasné činnosti nebo situace.",
+      "Vyjadřuje měnící se nebo se rozvíjející situace."
+    ]
+  },
+  {
+    "subname": "Předpřítomný čas",
+    "usage": [
+      "Popisuje činnosti, které byly dokončeny v minulosti s přítomným významem.",
+      "Vyjadřuje zkušenosti nebo úspěchy.",
+      "Popisuje činnosti, které začaly v minulosti a pokračují do přítomnosti.",
+      "Popisuje činnosti, které se odehrály několikrát v minulosti."
+    ]
+  },
+  {
+    "subname": "Předpřítomný čas průběhový",
+    "usage": [
+      "Popisuje činnosti, které začaly v minulosti a pokračují do přítomnosti.",
+      "Zdůrazňuje délku nebo kontinuitu činnosti.",
+      "Popisuje činnosti, které nedávno přestaly."
+    ]
+  },
+  {
+    "subname": "Minulý čas prostý",
+    "usage": [
+      "Popisuje dokončené činnosti v minulosti.",
+      "Vyjadřuje minulá zvyklosti nebo rutiny.",
+      "Popisuje řadu dokončených činností v minulosti."
+    ]
+  },
+  {
+    "subname": "Minulý čas průběhový",
+    "usage": [
+      "Popisuje činnosti, které probíhaly v určitém čase v minulosti.",
+      "Vyjadřuje dvě činnosti probíhající současně v minulosti.",
+      "Popisuje činnost, která byla v minulosti přerušena."
+    ]
+  },
+  {
+    "subname": "Minulý čas předminulý",
+    "usage": [
+      "Popisuje činnosti dokončené před jinou činností v minulosti.",
+      "Vyjadřuje činnosti dokončené před konkrétním časem v minulosti."
+    ]
+  },
+  {
+    "subname": "Minulý čas předminulý průběhový",
+    "usage": [
+      "Popisuje činnosti, které probíhaly před jinou činností v minulosti.",
+      "Zdůrazňuje délku činnosti před konkrétním bodem v minulosti."
+    ]
+  },
+  {
+    "subname": "Budoucí čas prostý",
+    "usage": [
+      "Popisuje činnosti, které se stanou v budoucnosti.",
+      "Vyjadřuje předpovědi, sliby nebo okamžitá rozhodnutí."
+    ]
+  },
+  {
+    "subname": "Budoucí čas průběhový",
+    "usage": [
+      "Popisuje činnosti, které budou probíhat v určitém čase v budoucnosti.",
+      "Vyjadřuje činnosti, které se odehrají během určité doby v budoucnosti."
+    ]
+  },
+  {
+    "subname": "Budoucí čas předbudoucí",
+    "usage": [
+      "Popisuje činnosti, které budou dokončeny před konkrétním časem v budoucnosti.",
+      "Vyjadřuje činnosti, které budou dokončeny před jinou budoucí činností."
+    ]
+  },
+  {
+    "subname": "Budoucí čas předbudoucí průběhový",
+    "usage": [
+      "Popisuje činnosti, které budou probíhat až do konkrétního bodu v budoucnosti.",
+      "Zdůrazňuje délku činnosti až do budoucího bodu."
+    ]
+  }
+]

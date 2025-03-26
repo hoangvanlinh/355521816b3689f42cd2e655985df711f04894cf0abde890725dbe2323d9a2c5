@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Geniş Zaman",
+    "usage": [
+      "Alışkanlıkları veya tekrarlanan eylemleri ifade eder.",
+      "Gerçekleri veya genel doğruları belirtir.",
+      "Programları veya zaman çizelgelerini açıklar.",
+      "Duyguları, düşünceleri veya durumları ifade eder."
+    ]
+  },
+  {
+    "subname": "Şimdiki Zaman",
+    "usage": [
+      "Konuşma anında gerçekleşen eylemleri açıklar.",
+      "Geleceğe yönelik planları veya düzenlemeleri ifade eder.",
+      "Geçici eylemleri veya durumları tanımlar.",
+      "Değişen veya gelişen durumları ifade eder."
+    ]
+  },
+  {
+    "subname": "Yakın Geçmiş Zaman",
+    "usage": [
+      "Geçmişte tamamlanmış ancak şimdiki zamanla bağlantılı eylemleri açıklar.",
+      "Deneyimleri veya başarıları ifade eder.",
+      "Geçmişte başlayıp hâlâ devam eden eylemleri açıklar.",
+      "Geçmişte birçok kez gerçekleşmiş eylemleri tanımlar."
+    ]
+  },
+  {
+    "subname": "Süreklilik Gösteren Yakın Geçmiş Zaman",
+    "usage": [
+      "Geçmişte başlayıp hâlâ devam eden eylemleri açıklar.",
+      "Bir eylemin süresini veya devamlılığını vurgular.",
+      "Yeni sona ermiş eylemleri tanımlar."
+    ]
+  },
+  {
+    "subname": "Di'li Geçmiş Zaman",
+    "usage": [
+      "Geçmişte tamamlanmış eylemleri tanımlar.",
+      "Geçmiş alışkanlıkları veya rutinleri ifade eder.",
+      "Geçmişte gerçekleşmiş olaylar dizisini açıklar."
+    ]
+  },
+  {
+    "subname": "Süreklilik Gösteren Geçmiş Zaman",
+    "usage": [
+      "Geçmişte belirli bir zamanda devam eden eylemleri açıklar.",
+      "Geçmişte aynı anda gerçekleşen iki eylemi ifade eder.",
+      "Geçmişte kesintiye uğramış bir eylemi tanımlar."
+    ]
+  },
+  {
+    "subname": "Mi'şli Geçmiş Zaman",
+    "usage": [
+      "Geçmişte başka bir eylemden önce tamamlanmış eylemleri tanımlar.",
+      "Belirli bir zamandan önce tamamlanmış eylemleri ifade eder."
+    ]
+  },
+  {
+    "subname": "Süreklilik Gösteren Mi'şli Geçmiş Zaman",
+    "usage": [
+      "Geçmişte başka bir eylemden önce devam eden eylemleri tanımlar.",
+      "Belirli bir zamandan önce bir eylemin süresini vurgular."
+    ]
+  },
+  {
+    "subname": "Gelecek Zaman",
+    "usage": [
+      "Gelecekte gerçekleşecek eylemleri tanımlar.",
+      "Tahminleri, vaatleri veya anlık kararları ifade eder."
+    ]
+  },
+  {
+    "subname": "Süreklilik Gösteren Gelecek Zaman",
+    "usage": [
+      "Gelecekte belirli bir zamanda devam eden eylemleri açıklar.",
+      "Gelecekte belirli bir süre boyunca sürecek eylemleri tanımlar."
+    ]
+  },
+  {
+    "subname": "Gelecek Bitmiş Zaman",
+    "usage": [
+      "Gelecekte belirli bir zamandan önce tamamlanmış eylemleri tanımlar.",
+      "Gelecekte başka bir eylemden önce tamamlanacak eylemleri ifade eder."
+    ]
+  },
+  {
+    "subname": "Süreklilik Gösteren Gelecek Bitmiş Zaman",
+    "usage": [
+      "Gelecekte belirli bir noktaya kadar devam eden eylemleri tanımlar.",
+      "Belirli bir zamana kadar sürecek bir eylemin süresini vurgular."
+    ]
+  }
+]

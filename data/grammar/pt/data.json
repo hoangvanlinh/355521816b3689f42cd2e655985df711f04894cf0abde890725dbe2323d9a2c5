@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Presente Simples",
+    "usage": [
+      "Expressa hábitos ou ações repetidas.",
+      "Indica fatos ou verdades gerais.",
+      "Descreve horários ou programas.",
+      "Expressa sentimentos, pensamentos ou estados."
+    ]
+  },
+  {
+    "subname": "Presente Contínuo",
+    "usage": [
+      "Descreve ações que estão a acontecer no momento da fala.",
+      "Expressa planos ou arranjos futuros.",
+      "Descreve ações ou situações temporárias.",
+      "Expressa situações em mudança ou em desenvolvimento."
+    ]
+  },
+  {
+    "subname": "Pretérito Perfeito Composto",
+    "usage": [
+      "Descreve ações concluídas no passado com relevância para o presente.",
+      "Expressa experiências ou conquistas.",
+      "Descreve ações que começaram no passado e continuam no presente.",
+      "Descreve ações que ocorreram múltiplas vezes no passado."
+    ]
+  },
+  {
+    "subname": "Pretérito Perfeito Composto Contínuo",
+    "usage": [
+      "Descreve ações que começaram no passado e continuam no presente.",
+      "Enfatiza a duração ou continuidade de uma ação.",
+      "Descreve ações que terminaram recentemente."
+    ]
+  },
+  {
+    "subname": "Pretérito Perfeito Simples",
+    "usage": [
+      "Descreve ações concluídas no passado.",
+      "Expressa hábitos ou rotinas do passado.",
+      "Descreve uma série de ações concluídas no passado."
+    ]
+  },
+  {
+    "subname": "Pretérito Imperfeito",
+    "usage": [
+      "Descreve ações que estavam a decorrer num momento específico no passado.",
+      "Expressa duas ações a acontecer simultaneamente no passado.",
+      "Descreve uma ação que foi interrompida no passado."
+    ]
+  },
+  {
+    "subname": "Pretérito Mais-que-perfeito",
+    "usage": [
+      "Descreve ações concluídas antes de outra ação no passado.",
+      "Expressa ações concluídas antes de um momento específico no passado."
+    ]
+  },
+  {
+    "subname": "Pretérito Mais-que-perfeito Contínuo",
+    "usage": [
+      "Descreve ações que estavam a decorrer antes de outra ação no passado.",
+      "Enfatiza a duração de uma ação antes de um momento específico no passado."
+    ]
+  },
+  {
+    "subname": "Futuro Simples",
+    "usage": [
+      "Descreve ações que acontecerão no futuro.",
+      "Expressa previsões, promessas ou decisões instantâneas."
+    ]
+  },
+  {
+    "subname": "Futuro Contínuo",
+    "usage": [
+      "Descreve ações que estarão a decorrer num momento específico no futuro.",
+      "Expressa ações que ocorrerão durante um período no futuro."
+    ]
+  },
+  {
+    "subname": "Futuro Perfeito",
+    "usage": [
+      "Descreve ações que serão concluídas antes de um momento específico no futuro.",
+      "Expressa ações que serão concluídas antes de outra ação futura."
+    ]
+  },
+  {
+    "subname": "Futuro Perfeito Contínuo",
+    "usage": [
+      "Descreve ações que estarão a decorrer até um momento específico no futuro.",
+      "Enfatiza a duração de uma ação até um ponto no futuro."
+    ]
+  }
+]

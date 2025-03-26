@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Presente semplice",
+    "usage": [
+      "Esprime abitudini o azioni ripetute.",
+      "Indica fatti o verità generali.",
+      "Descrive orari o programmi fissi.",
+      "Esprime sentimenti, pensieri o stati d'animo."
+    ]
+  },
+  {
+    "subname": "Presente continuo",
+    "usage": [
+      "Descrive azioni che stanno accadendo nel momento in cui si parla.",
+      "Esprime piani o accordi futuri.",
+      "Descrive azioni o situazioni temporanee.",
+      "Esprime situazioni in cambiamento o in evoluzione."
+    ]
+  },
+  {
+    "subname": "Passato prossimo",
+    "usage": [
+      "Descrive azioni completate nel passato con rilevanza nel presente.",
+      "Esprime esperienze o successi.",
+      "Descrive azioni iniziate nel passato e che continuano nel presente.",
+      "Descrive azioni avvenute più volte nel passato."
+    ]
+  },
+  {
+    "subname": "Passato prossimo continuo",
+    "usage": [
+      "Descrive azioni iniziate nel passato e che continuano nel presente.",
+      "Sottolinea la durata o la continuità di un'azione.",
+      "Descrive azioni che si sono appena concluse."
+    ]
+  },
+  {
+    "subname": "Passato remoto",
+    "usage": [
+      "Descrive azioni completate nel passato.",
+      "Esprime abitudini o routine del passato.",
+      "Descrive una serie di azioni completate nel passato."
+    ]
+  },
+  {
+    "subname": "Imperfetto",
+    "usage": [
+      "Descrive azioni che erano in corso in un momento specifico del passato.",
+      "Esprime due azioni che accadevano simultaneamente nel passato.",
+      "Descrive un'azione interrotta nel passato."
+    ]
+  },
+  {
+    "subname": "Trapassato prossimo",
+    "usage": [
+      "Descrive azioni completate prima di un'altra azione nel passato.",
+      "Esprime azioni completate prima di un momento specifico nel passato."
+    ]
+  },
+  {
+    "subname": "Trapassato prossimo continuo",
+    "usage": [
+      "Descrive azioni che erano in corso prima di un'altra azione nel passato.",
+      "Sottolinea la durata di un'azione prima di un momento specifico nel passato."
+    ]
+  },
+  {
+    "subname": "Futuro semplice",
+    "usage": [
+      "Descrive azioni che avverranno in futuro.",
+      "Esprime previsioni, promesse o decisioni spontanee."
+    ]
+  },
+  {
+    "subname": "Futuro continuo",
+    "usage": [
+      "Descrive azioni che saranno in corso in un momento specifico del futuro.",
+      "Esprime azioni che avverranno per un certo periodo nel futuro."
+    ]
+  },
+  {
+    "subname": "Futuro anteriore",
+    "usage": [
+      "Descrive azioni che saranno completate prima di un momento specifico nel futuro.",
+      "Esprime azioni che saranno completate prima di un'altra azione futura."
+    ]
+  },
+  {
+    "subname": "Futuro anteriore continuo",
+    "usage": [
+      "Descrive azioni che saranno in corso fino a un momento specifico nel futuro.",
+      "Sottolinea la durata di un'azione fino a un determinato momento futuro."
+    ]
+  }
+]

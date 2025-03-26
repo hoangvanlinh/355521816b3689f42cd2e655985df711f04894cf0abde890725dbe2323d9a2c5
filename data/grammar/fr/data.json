@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Présent simple",
+    "usage": [
+      "Exprime des habitudes ou des actions répétées.",
+      "Indique des faits ou des vérités générales.",
+      "Décrit des horaires ou des emplois du temps.",
+      "Exprime des sentiments, des pensées ou des états."
+    ]
+  },
+  {
+    "subname": "Présent continu",
+    "usage": [
+      "Décrit des actions en cours au moment où l'on parle.",
+      "Exprime des plans ou des arrangements futurs.",
+      "Décrit des actions ou des situations temporaires.",
+      "Exprime des situations en évolution ou en développement."
+    ]
+  },
+  {
+    "subname": "Passé composé",
+    "usage": [
+      "Décrit des actions terminées dans le passé ayant une importance dans le présent.",
+      "Exprime des expériences ou des réalisations.",
+      "Décrit des actions commencées dans le passé et qui continuent dans le présent.",
+      "Décrit des actions qui se sont produites plusieurs fois dans le passé."
+    ]
+  },
+  {
+    "subname": "Passé composé progressif",
+    "usage": [
+      "Décrit des actions commencées dans le passé et qui continuent dans le présent.",
+      "Met l'accent sur la durée ou la continuité d'une action.",
+      "Décrit des actions qui viennent de se terminer."
+    ]
+  },
+  {
+    "subname": "Passé simple",
+    "usage": [
+      "Décrit des actions terminées dans le passé.",
+      "Exprime des habitudes ou des routines passées.",
+      "Décrit une série d'actions terminées dans le passé."
+    ]
+  },
+  {
+    "subname": "Imparfait",
+    "usage": [
+      "Décrit des actions en cours à un moment spécifique dans le passé.",
+      "Exprime deux actions qui se déroulaient simultanément dans le passé.",
+      "Décrit une action interrompue dans le passé."
+    ]
+  },
+  {
+    "subname": "Plus-que-parfait",
+    "usage": [
+      "Décrit des actions terminées avant une autre action dans le passé.",
+      "Exprime des actions terminées avant un moment spécifique dans le passé."
+    ]
+  },
+  {
+    "subname": "Plus-que-parfait progressif",
+    "usage": [
+      "Décrit des actions en cours avant une autre action dans le passé.",
+      "Met l'accent sur la durée d'une action avant un point spécifique dans le passé."
+    ]
+  },
+  {
+    "subname": "Futur simple",
+    "usage": [
+      "Décrit des actions qui se produiront dans le futur.",
+      "Exprime des prédictions, des promesses ou des décisions spontanées."
+    ]
+  },
+  {
+    "subname": "Futur continu",
+    "usage": [
+      "Décrit des actions qui seront en cours à un moment spécifique dans le futur.",
+      "Exprime des actions qui se produiront sur une période donnée dans le futur."
+    ]
+  },
+  {
+    "subname": "Futur antérieur",
+    "usage": [
+      "Décrit des actions qui seront terminées avant un moment spécifique dans le futur.",
+      "Exprime des actions qui seront terminées avant une autre action future."
+    ]
+  },
+  {
+    "subname": "Futur antérieur progressif",
+    "usage": [
+      "Décrit des actions qui auront été en cours jusqu'à un point spécifique dans le futur.",
+      "Met l'accent sur la durée d'une action jusqu'à un moment futur."
+    ]
+  }
+]

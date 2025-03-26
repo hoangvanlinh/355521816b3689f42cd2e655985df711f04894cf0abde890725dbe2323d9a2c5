@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Present Simple",
+    "usage": [
+      "Menyatakan tabiat atau tindakan berulang.",
+      "Menyatakan fakta atau kebenaran umum.",
+      "Menggambarkan jadual atau waktu yang telah ditetapkan.",
+      "Menyatakan perasaan, pemikiran, atau keadaan."
+    ]
+  },
+  {
+    "subname": "Present Continuous",
+    "usage": [
+      "Menggambarkan tindakan yang sedang berlaku ketika bercakap.",
+      "Menyatakan rancangan atau aturan masa depan.",
+      "Menggambarkan tindakan atau situasi sementara.",
+      "Menyatakan keadaan yang sedang berubah atau berkembang."
+    ]
+  },
+  {
+    "subname": "Present Perfect",
+    "usage": [
+      "Menggambarkan tindakan yang telah selesai di masa lalu tetapi berkaitan dengan masa kini.",
+      "Menyatakan pengalaman atau pencapaian.",
+      "Menggambarkan tindakan yang bermula di masa lalu dan masih berterusan hingga kini.",
+      "Menggambarkan tindakan yang telah berlaku beberapa kali di masa lalu."
+    ]
+  },
+  {
+    "subname": "Present Perfect Continuous",
+    "usage": [
+      "Menggambarkan tindakan yang bermula di masa lalu dan masih berterusan hingga kini.",
+      "Menekankan tempoh atau kesinambungan sesuatu tindakan.",
+      "Menggambarkan tindakan yang baru sahaja berhenti."
+    ]
+  },
+  {
+    "subname": "Past Simple",
+    "usage": [
+      "Menggambarkan tindakan yang telah selesai di masa lalu.",
+      "Menyatakan kebiasaan atau rutin di masa lalu.",
+      "Menggambarkan rangkaian tindakan yang telah selesai di masa lalu."
+    ]
+  },
+  {
+    "subname": "Past Continuous",
+    "usage": [
+      "Menggambarkan tindakan yang sedang berlaku pada waktu tertentu di masa lalu.",
+      "Menyatakan dua tindakan yang berlaku serentak di masa lalu.",
+      "Menggambarkan tindakan yang terganggu oleh tindakan lain di masa lalu."
+    ]
+  },
+  {
+    "subname": "Past Perfect",
+    "usage": [
+      "Menggambarkan tindakan yang telah selesai sebelum tindakan lain di masa lalu.",
+      "Menyatakan tindakan yang telah selesai sebelum satu titik masa tertentu di masa lalu."
+    ]
+  },
+  {
+    "subname": "Past Perfect Continuous",
+    "usage": [
+      "Menggambarkan tindakan yang telah berlangsung sebelum tindakan lain di masa lalu.",
+      "Menekankan tempoh sesuatu tindakan sebelum titik masa tertentu di masa lalu."
+    ]
+  },
+  {
+    "subname": "Future Simple",
+    "usage": [
+      "Menggambarkan tindakan yang akan berlaku di masa depan.",
+      "Menyatakan ramalan, janji, atau keputusan spontan."
+    ]
+  },
+  {
+    "subname": "Future Continuous",
+    "usage": [
+      "Menggambarkan tindakan yang akan berlangsung pada waktu tertentu di masa depan.",
+      "Menyatakan tindakan yang akan berlaku dalam satu tempoh di masa depan."
+    ]
+  },
+  {
+    "subname": "Future Perfect",
+    "usage": [
+      "Menggambarkan tindakan yang akan selesai sebelum satu titik masa di masa depan.",
+      "Menyatakan tindakan yang akan selesai sebelum tindakan lain di masa depan."
+    ]
+  },
+  {
+    "subname": "Future Perfect Continuous",
+    "usage": [
+      "Menggambarkan tindakan yang akan berlangsung sehingga titik masa tertentu di masa depan.",
+      "Menekankan tempoh sesuatu tindakan hingga ke masa depan."
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "subname": "Presens",
+    "usage": [
+      "Uttrykker vaner eller gjentatte handlinger.",
+      "Angir fakta eller generelle sannheter.",
+      "Beskriver timeplaner eller rutetider.",
+      "Uttrykker følelser, tanker eller tilstander."
+    ]
+  },
+  {
+    "subname": "Presens kontinuerlig",
+    "usage": [
+      "Beskriver handlinger som skjer i øyeblikket.",
+      "Uttrykker fremtidige planer eller avtaler.",
+      "Beskriver midlertidige handlinger eller situasjoner.",
+      "Uttrykker endringer eller utviklende situasjoner."
+    ]
+  },
+  {
+    "subname": "Presens perfektum",
+    "usage": [
+      "Beskriver handlinger som er fullført i fortiden, men har relevans for nåtiden.",
+      "Uttrykker erfaringer eller prestasjoner.",
+      "Beskriver handlinger som startet i fortiden og fortsetter til nåtiden.",
+      "Beskriver handlinger som har skjedd flere ganger i fortiden."
+    ]
+  },
+  {
+    "subname": "Presens perfektum kontinuerlig",
+    "usage": [
+      "Beskriver handlinger som startet i fortiden og fortsetter til nåtiden.",
+      "Vektlegger varigheten eller kontinuiteten til en handling.",
+      "Beskriver handlinger som nylig har stoppet."
+    ]
+  },
+  {
+    "subname": "Preteritum",
+    "usage": [
+      "Beskriver fullførte handlinger i fortiden.",
+      "Uttrykker vaner eller rutiner i fortiden.",
+      "Beskriver en serie fullførte handlinger i fortiden."
+    ]
+  },
+  {
+    "subname": "Preteritum kontinuerlig",
+    "usage": [
+      "Beskriver handlinger som pågikk på et spesifikt tidspunkt i fortiden.",
+      "Uttrykker to handlinger som skjedde samtidig i fortiden.",
+      "Beskriver en handling som ble avbrutt i fortiden."
+    ]
+  },
+  {
+    "subname": "Preteritum perfektum",
+    "usage": [
+      "Beskriver handlinger som ble fullført før en annen handling i fortiden.",
+      "Uttrykker handlinger som ble fullført før et spesifikt tidspunkt i fortiden."
+    ]
+  },
+  {
+    "subname": "Preteritum perfektum kontinuerlig",
+    "usage": [
+      "Beskriver handlinger som pågikk før en annen handling i fortiden.",
+      "Vektlegger varigheten av en handling før et spesifikt tidspunkt i fortiden."
+    ]
+  },
+  {
+    "subname": "Futurum",
+    "usage": [
+      "Beskriver handlinger som vil skje i fremtiden.",
+      "Uttrykker spådommer, løfter eller spontane beslutninger."
+    ]
+  },
+  {
+    "subname": "Futurum kontinuerlig",
+    "usage": [
+      "Beskriver handlinger som vil pågå på et spesifikt tidspunkt i fremtiden.",
+      "Uttrykker handlinger som vil finne sted over en periode i fremtiden."
+    ]
+  },
+  {
+    "subname": "Futurum perfektum",
+    "usage": [
+      "Beskriver handlinger som vil være fullført før et spesifikt tidspunkt i fremtiden.",
+      "Uttrykker handlinger som vil være fullført før en annen fremtidig handling."
+    ]
+  },
+  {
+    "subname": "Futurum perfektum kontinuerlig",
+    "usage": [
+      "Beskriver handlinger som vil ha pågått frem til et spesifikt tidspunkt i fremtiden.",
+      "Vektlegger varigheten av en handling frem til et tidspunkt i fremtiden."
+    ]
+  }
+]
