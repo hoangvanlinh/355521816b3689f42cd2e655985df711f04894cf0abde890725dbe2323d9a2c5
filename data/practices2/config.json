@@ -16,5 +16,10 @@
         "id" : 3,
         "url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/paragraphs.json"
    
+      },
+      {
+        "id" : 4,
+        "url" : "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/storys.json"
+   
       }
 ]
