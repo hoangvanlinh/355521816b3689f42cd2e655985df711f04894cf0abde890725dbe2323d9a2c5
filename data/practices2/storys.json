@@ -22,5 +22,35 @@
       "The coastline",
       "The sun"
     ]
+  },
+  {
+    "title": "My Beloved Childhood Pet",
+    "content": "When I was a child, I had a pet dog named Max. He was a golden retriever with bright, intelligent eyes and an endless supply of energy. From the moment he entered our home as a tiny, fluffy puppy, he became my best friend. \n\nEvery morning, Max would wait for me at the door, his tail wagging furiously, ready for our daily adventure. We would run through the backyard, chase butterflies, and play fetch until we were both exhausted. His playful bark was the soundtrack of my childhood, filling our house with joy. \n\nOne of my favorite memories was the summer we spent at my grandparents' farm. Max ran freely across the vast fields, his golden fur shining under the sun. He would chase after birds, roll in the grass, and jump into the small creek, splashing water everywhere. At night, he would curl up next to me, his warmth comforting me as we fell asleep under the open sky. \n\nMax had an incredible sense of loyalty. Whenever I was sad, he would nuzzle his head into my lap, his gentle presence making everything feel better. He always seemed to understand my emotions, as if we shared a secret language that only the two of us knew. \n\nAs the years passed, Max grew older, his movements slower, but his love never faded. He remained by my side through every stage of my childhood, a constant source of love and companionship. When he finally passed away, I was heartbroken, but I knew he had lived a happy life, filled with adventures and love. \n\nEven now, I still think of Max whenever I see a golden retriever. The memories of our time together stay with me, a cherished part of my childhood that I will never forget.",
+    "properly": [
+      "Max",
+      "golden retriever",
+      "grandparents' farm"
+    ]
+  },
+  {
+    "title": "My Homeland, Vietnam",
+    "content": "I was born in a small town in Vietnam, where the rivers flow gently, and the rice fields stretch endlessly under the golden sun. The scent of blooming lotus flowers filled the air, mingling with the laughter of children playing near the village pond. \n\nMornings in my hometown were peaceful. The sound of roosters crowing marked the start of a new day, while vendors in conical hats pedaled through the streets, selling fresh bánh mì and steaming bowls of phở. I remember waking up to the aroma of my mother's cooking, the warmth of her hands as she placed a bowl of hot rice in front of me. \n\nThe seasons changed, but my love for my homeland never did. Summers meant long afternoons by the river, diving into the cool water with friends. The monsoon rains brought life to the fields, painting the land in rich shades of green. And when autumn arrived, the scent of mooncakes and the glow of lanterns during the Mid-Autumn Festival filled my heart with joy. \n\nBut life took me far away. I left my hometown, carrying its memories like precious treasures. In the foreign land where I now live, the streets are different, the air carries another scent, and the sky seems unfamiliar. Yet, in my dreams, I still walk the narrow paths between rice paddies, hear the rustling bamboo, and see the warm smiles of my loved ones. \n\nHomesickness is a quiet ache that lingers in my heart. I long to return, to feel the gentle breeze from the Mekong River and taste the sweet, juicy mangoes from my grandmother’s garden. No matter where I go, Vietnam will always be my home, the place where my soul belongs.",
+    "properly": [
+      "Vietnam",
+      "Mekong River",
+      "bánh mì",
+      "phở",
+      "Mid-Autumn Festival"
+    ]
+  },
+  {
+    "title": "Unwavering Determination: A Blind Man's Journey",
+    "content": "David had been blind since birth, but he never saw his condition as a limitation. From a young age, he learned to navigate the world through touch, sound, and instinct. While others doubted his abilities, he remained steadfast in his belief that he could achieve his dreams. \n\nGrowing up, David developed a deep love for music. The piano became his refuge, his way of expressing emotions that words could not capture. Every day, he practiced tirelessly, feeling each key and memorizing the melodies that filled his heart with hope. Despite the challenges, he never gave up. \n\nWhen he turned eighteen, David applied to a prestigious music academy. The competition was fierce, and many questioned whether a blind musician could keep up with the rigorous training. But David was undeterred. He played his heart out during the audition, his fingers dancing effortlessly over the piano keys. The judges were moved by his passion and skill, and he earned his rightful place at the academy. \n\nLife at the academy was not easy. While others read sheet music, David relied on his memory and keen hearing. He faced setbacks and moments of doubt, but he refused to let them define him. With each performance, he proved that determination and perseverance were stronger than any obstacle. \n\nYears later, David stood on the grand stage of a concert hall, ready to perform his first solo recital. As he placed his hands on the piano, the audience fell silent. With every note, he told a story of resilience, hope, and the unbreakable human spirit. When the final chord resonated through the hall, the crowd erupted in applause. \n\nDavid smiled, knowing that he had not only achieved his dream but had also inspired others to believe in their own potential. Being blind never stopped him—it only made him see the world in a different, more beautiful way.",
+    "properly": [
+      "David",
+      "music academy",
+      "piano",
+      "concert hall"
+    ]
   }
 ]
