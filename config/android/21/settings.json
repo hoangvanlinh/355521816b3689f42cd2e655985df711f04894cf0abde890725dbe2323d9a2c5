@@ -131,11 +131,11 @@
       "inapp" : {
         "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "update": {
-          "versionCode": 1,
+          "versionCode": 20,
           "link": "",
           "description": "1.0.1",
           "size": 18000,
-          "packagename": "",
+          "packagename": "com.tls.english",
           "forceUpdate": true
         }
       }
