@@ -50,6 +50,7 @@
             "showBanner": true,
             "showNativeAdvance": false,
             "showInterstitial": false,
+            "showInterstitialvideo": false,
             "ecmp": "22"
         },
         "house_ads": {
