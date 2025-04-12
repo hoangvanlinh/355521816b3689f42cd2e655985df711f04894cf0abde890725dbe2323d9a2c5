@@ -1,5 +1,5 @@
 {
-    "version" : "22",
+    "version" : "24",
     "langapp":[
         {"code": "en", "name": "English", "flag": "🇬🇧", "country": "United Kingdom"},
         {"code": "zh", "name": "Chinese", "flag": "🇨🇳", "country": "China"},
@@ -41,14 +41,16 @@
             "app_id": "ca-app-pub-7223114719058225~1138249478",
             "banner": "ca-app-pub-7223114719058225/6647319349",
             "interstitial": "ca-app-pub-7223114719058225/3302970704",
-            "interstitialVideo": "",
+            "interstitialVideo": "ca-app-pub-7223114719058225/9154063184",
             "rewardVideo": "ca-app-pub-7223114719058225/4967976989",
             "nativeExpress": "",
             "showVideoAdPercent": 100,
             "showIntertisialPercent": 20,
             "nativeAdvance": "ca-app-pub-7223114719058225/1253799545",
             "showBanner": true,
-            "showNativeAdvance": true,
+            "showNativeAdvance": false,
+            "showInterstitial": false,
+            "showInterstitialvideo": false,
             "ecmp": "22"
         },
         "house_ads": {
@@ -131,9 +133,9 @@
       "inapp" : {
         "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "update": {
-          "versionCode": 23,
+          "versionCode": 20,
           "link": "",
-          "description": "- Added more speaking practice.\n- More pronunciation audio included.\n- Always free to use!",
+          "description": "1.0.1",
           "size": 18000,
           "packagename": "com.tls.english",
           "forceUpdate": true
