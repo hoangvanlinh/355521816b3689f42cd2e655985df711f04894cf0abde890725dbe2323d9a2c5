@@ -49,7 +49,7 @@
             "nativeAdvance": "ca-app-pub-7223114719058225/1253799545",
             "showBanner": true,
             "showNativeAdvance": true,
-            "showInterstitial": false,
+            "showInterstitial": true,
             "showInterstitialvideo": true,
             "ecmp": "22"
         },
