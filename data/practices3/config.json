@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "enable": true,
+    "url": "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main//data/practices2/questions.json"
+  },
+  {
+    "id": 1,
+    "enable": true,
+    "url": "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/vocabulary.txt"
+  },
+  {
+    "id": 2,
+    "enable": true,
+    "url": "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/topics.json"
+  },
+  {
+    "id": 3,
+    "enable": false,
+    "url": "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/paragraphs.json"
+  },
+  {
+    "id": 4,
+    "enable": true,
+    "url": "https://raw.githubusercontent.com/hoangvanlinh/355521816b3689f42cd2e655985df711f04894cf0abde890725dbe2323d9a2c5/refs/heads/main/data/practices2/storys.json"
+  },
+  {
+    "id": 5,
+    "url": "mOGVyCnGlG77iXU8SBfTlQ==:F6iGuf62QlbeavIXNxftApyOYXTv4gBKCmyL3Uu23lqeIg/SWTAZrScOu6Lnv3CuO3td2cib6PO/Dch114M8A0PIxy2CPThB62a/Q1Re54g=",
+    "enc": true,
+    "enable": true,
+    "new": true
+  },
+  {
+    "id": 6,
+    "enable": true,
+    "new": true,
+    "enc": true,
+    "url":
+        "yN6gyrvpbssqhOOfZ4f46w==:g3Qk0NBG0ONW3eMW/f9rvKikF9+2DZyvpROrel9vH/wQFkarGPFJRjqupxuci7u57XyGdLBBNMFxXKj1b7MRS5Vrx9Nv9M4Mqe6jEeOYvgc=",
+  }
+]

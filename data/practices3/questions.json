@@ -1,0 +1,269 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "sound": "/p/",
+        "correctAnswer": "/p/",
+        "options": ["/p/", "/b/", "/t/", "/d/"]
+      },
+      {
+        "id": 2,
+        "sound": "/b/",
+        "correctAnswer": "/b/",
+        "options": ["/p/", "/b/", "/g/", "/d/"]
+      },
+      {
+        "id": 3,
+        "sound": "/t/",
+        "correctAnswer": "/t/",
+        "options": ["/t/", "/d/", "/s/", "/k/"]
+      },
+      {
+        "id": 4,
+        "sound": "/d/",
+        "correctAnswer": "/d/",
+        "options": ["/t/", "/d/", "/ð/", "/n/"]
+      },
+      {
+        "id": 5,
+        "sound": "/k/",
+        "correctAnswer": "/k/",
+        "options": ["/k/", "/g/", "/tʃ/", "/ʃ/"]
+      },
+      {
+        "id": 6,
+        "sound": "/g/",
+        "correctAnswer": "/g/",
+        "options": ["/k/", "/g/", "/dʒ/", "/v/"]
+      },
+      {
+        "id": 7,
+        "sound": "/tʃ/",
+        "correctAnswer": "/tʃ/",
+        "options": ["/tʃ/", "/dʒ/", "/ʃ/", "/s/"]
+      },
+      {
+        "id": 8,
+        "sound": "/dʒ/",
+        "correctAnswer": "/dʒ/",
+        "options": ["/tʃ/", "/dʒ/", "/ʒ/", "/d/"]
+      },
+      {
+        "id": 9,
+        "sound": "/f/",
+        "correctAnswer": "/f/",
+        "options": ["/f/", "/v/", "/θ/", "/s/"]
+      },
+      {
+        "id": 10,
+        "sound": "/v/",
+        "correctAnswer": "/v/",
+        "options": ["/f/", "/v/", "/b/", "/d/"]
+      },
+      {
+        "id": 11,
+        "sound": "/θ/",
+        "correctAnswer": "/θ/",
+        "options": ["/θ/", "/ð/", "/s/", "/t/"]
+      },
+      {
+        "id": 12,
+        "sound": "/ð/",
+        "correctAnswer": "/ð/",
+        "options": ["/θ/", "/ð/", "/z/", "/d/"]
+      },
+      {
+        "id": 13,
+        "sound": "/s/",
+        "correctAnswer": "/s/",
+        "options": ["/s/", "/z/", "/ʃ/", "/θ/"]
+      },
+      {
+        "id": 14,
+        "sound": "/z/",
+        "correctAnswer": "/z/",
+        "options": ["/s/", "/z/", "/ʒ/", "/dʒ/"]
+      },
+      {
+        "id": 15,
+        "sound": "/ʃ/",
+        "correctAnswer": "/ʃ/",
+        "options": ["/ʃ/", "/tʃ/", "/s/", "/ʒ/"]
+      },
+      {
+        "id": 16,
+        "sound": "/ʒ/",
+        "correctAnswer": "/ʒ/",
+        "options": ["/ʒ/", "/dʒ/", "/ʃ/", "/z/"]
+      },
+      {
+        "id": 17,
+        "sound": "/h/",
+        "correctAnswer": "/h/",
+        "options": ["/h/", "/p/", "/t/", "/k/"]
+      },
+      {
+        "id": 18,
+        "sound": "/m/",
+        "correctAnswer": "/m/",
+        "options": ["/m/", "/n/", "/ŋ/", "/b/"]
+      },
+      {
+        "id": 19,
+        "sound": "/n/",
+        "correctAnswer": "/n/",
+        "options": ["/n/", "/m/", "/l/", "/d/"]
+      },
+      {
+        "id": 20,
+        "sound": "/ŋ/",
+        "correctAnswer": "/ŋ/",
+        "options": ["/ŋ/", "/n/", "/m/", "/k/"]
+      },
+      {
+        "id": 21,
+        "sound": "/l/",
+        "correctAnswer": "/l/",
+        "options": ["/l/", "/r/", "/w/", "/j/"]
+      },
+      {
+        "id": 22,
+        "sound": "/r/",
+        "correctAnswer": "/r/",
+        "options": ["/r/", "/l/", "/n/", "/d/"]
+      },
+      {
+        "id": 23,
+        "sound": "/j/",
+        "correctAnswer": "/j/",
+        "options": ["/j/", "/w/", "/dʒ/", "/ʃ/"]
+      },
+      {
+        "id": 24,
+        "sound": "/w/",
+        "correctAnswer": "/w/",
+        "options": ["/w/", "/v/", "/b/", "/f/"]
+      },
+      {
+        "id": 25,
+        "sound": "/ɪ/",
+        "correctAnswer": "/ɪ/",
+        "options": ["/ɪ/", "/iː/", "/ɛ/", "/æ/"]
+      },
+      {
+        "id": 26,
+        "sound": "/iː/",
+        "correctAnswer": "/iː/",
+        "options": ["/ɪ/", "/iː/", "/eɪ/", "/aɪ/"]
+      },
+      {
+        "id": 27,
+        "sound": "/ʊ/",
+        "correctAnswer": "/ʊ/",
+        "options": ["/ʊ/", "/uː/", "/ʌ/", "/ɒ/"]
+      },
+      {
+        "id": 28,
+        "sound": "/uː/",
+        "correctAnswer": "/uː/",
+        "options": ["/ʊ/", "/uː/", "/oʊ/", "/ɔː/"]
+      },
+      {
+        "id": 29,
+        "sound": "/ɛ/",
+        "correctAnswer": "/ɛ/",
+        "options": ["/ɛ/", "/æ/", "/ɪ/", "/eɪ/"]
+      },
+      {
+        "id": 30,
+        "sound": "/æ/",
+        "correctAnswer": "/æ/",
+        "options": ["/æ/", "/ɛ/", "/ɑː/", "/ʌ/"]
+      },
+      {
+        "id": 31,
+        "sound": "/ʌ/",
+        "correctAnswer": "/ʌ/",
+        "options": ["/ʌ/", "/ə/", "/ɜː/", "/ɔː/"]
+      },
+      {
+        "id": 32,
+        "sound": "/ɜː/",
+        "correctAnswer": "/ɜː/",
+        "options": ["/ɜː/", "/ə/", "/ʌ/", "/iː/"]
+      },
+      {
+        "id": 33,
+        "sound": "/ə/",
+        "correctAnswer": "/ə/",
+        "options": ["/ə/", "/ʌ/", "/ɜː/", "/ɛ/"]
+      },
+      {
+        "id": 34,
+        "sound": "/ɔː/",
+        "correctAnswer": "/ɔː/",
+        "options": ["/ɔː/", "/ɑː/", "/uː/", "/ʊ/"]
+      },
+      {
+        "id": 35,
+        "sound": "/ɑː/",
+        "correctAnswer": "/ɑː/",
+        "options": ["/ɑː/", "/ɔː/", "/æ/", "/ʌ/"]
+      },
+      {
+        "id": 36,
+        "sound": "/ɒ/",
+        "correctAnswer": "/ɒ/",
+        "options": ["/ɒ/", "/ʌ/", "/ɔː/", "/ɑː/"]
+      },
+      {
+        "id": 37,
+        "sound": "/aɪ/",
+        "correctAnswer": "/aɪ/",
+        "options": ["/aɪ/", "/eɪ/", "/ɔɪ/", "/aʊ/"]
+      },
+      {
+        "id": 38,
+        "sound": "/eɪ/",
+        "correctAnswer": "/eɪ/",
+        "options": ["/eɪ/", "/aɪ/", "/ɪə/", "/aʊ/"]
+      },
+      {
+        "id": 39,
+        "sound": "/ɔɪ/",
+        "correctAnswer": "/ɔɪ/",
+        "options": ["/ɔɪ/", "/aɪ/", "/eɪ/", "/aʊ/"]
+      },
+      {
+        "id": 40,
+        "sound": "/aʊ/",
+        "correctAnswer": "/aʊ/",
+        "options": ["/aʊ/", "/əʊ/", "/aɪ/", "/ɔɪ/"]
+      },
+      {
+        "id": 41,
+        "sound": "/əʊ/",
+        "correctAnswer": "/əʊ/",
+        "options": ["/əʊ/", "/uː/", "/ʊ/", "/ɔː/"]
+      },
+      {
+        "id": 42,
+        "sound": "/ɪə/",
+        "correctAnswer": "/ɪə/",
+        "options": ["/ɪə/", "/eə/", "/ʊə/", "/ɑː/"]
+      },
+      {
+        "id": 43,
+        "sound": "/eə/",
+        "correctAnswer": "/eə/",
+        "options": ["/eə/", "/ɪə/", "/ʊə/", "/ɑː/"]
+      },
+      {
+        "id": 44,
+        "sound": "/ʊə/",
+        "correctAnswer": "/ʊə/",
+        "options": ["/ʊə/", "/ɔː/", "/əʊ/", "/ʌ/"]
+      }
+    ]
+  }
+  

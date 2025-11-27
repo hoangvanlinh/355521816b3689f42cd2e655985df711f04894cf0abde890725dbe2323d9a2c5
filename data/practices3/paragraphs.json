@@ -1,0 +1,158 @@
+{
+  "stories": [
+    {
+      "topic": "Greetings and Introductions",
+      "story": [
+        {"type": "you", "sentence": "Hello, how are you?"},
+        {"type": "me", "sentence": "Hi, I’m good! Nice to meet you!"},
+        {"type": "you", "sentence": "What’s your name?"},
+        {"type": "me", "sentence": "I’m Lisa. Where are you from?"},
+        {"type": "you", "sentence": "I’m from Hanoi. How about you?"},
+        {"type": "me", "sentence": "I’m from London. Do you speak English?"},
+        {"type": "you", "sentence": "Yes, I do. What do you do?"},
+        {"type": "me", "sentence": "I’m a student. How long have you been here?"},
+        {"type": "you", "sentence": "I’ve been here for two years. What’s your hobby?"},
+        {"type": "me", "sentence": "I like reading books. How’s your family?"},
+        {"type": "you", "sentence": "They’re doing great, thanks! See you later!"}
+      ],
+      "discussion": "Making a new friend and getting to know each other."
+    },
+    {
+      "topic": "Directions and Travel",
+      "story": [
+        {"type": "you", "sentence": "How do I get to the airport?"},
+        {"type": "me", "sentence": "Go straight ahead, then take the second right."},
+        {"type": "you", "sentence": "Is it far from here?"},
+        {"type": "me", "sentence": "No, it’s just five minutes away by car."},
+        {"type": "you", "sentence": "Can I walk there?"},
+        {"type": "me", "sentence": "Yes, it’s a short walk, maybe 15 minutes."},
+        {"type": "you", "sentence": "What time does the bus leave if I miss it?"},
+        {"type": "me", "sentence": "It leaves at 8 AM. How much is the taxi fare?"},
+        {"type": "you", "sentence": "It’s about 10 dollars. Thanks for your help!"},
+        {"type": "me", "sentence": "You’re welcome! Safe travels!"}
+      ],
+      "discussion": "Finding the best way to get to the airport."
+    },
+    {
+      "topic": "Shopping",
+      "story": [
+        {"type": "you", "sentence": "How much is this shirt?"},
+        {"type": "me", "sentence": "It’s 50 dollars."},
+        {"type": "you", "sentence": "Can you make it cheaper?"},
+        {"type": "me", "sentence": "Sorry, it’s a fixed price."},
+        {"type": "you", "sentence": "Do you have this in blue?"},
+        {"type": "me", "sentence": "Yes, here it is."},
+        {"type": "you", "sentence": "Can I try it on?"},
+        {"type": "me", "sentence": "Sure, the fitting room is over there."},
+        {"type": "you", "sentence": "It fits well. Do you accept credit cards?"},
+        {"type": "me", "sentence": "Yes, we do. Can I have a receipt?"},
+        {"type": "you", "sentence": "Here’s your receipt. Anything else?"},
+        {"type": "me", "sentence": "No, that’s all. Thanks!"}
+      ],
+      "discussion": "Deciding whether to buy a shirt and completing the purchase."
+    },
+    {
+      "topic": "Food and Dining",
+      "story": [
+        {"type": "you", "sentence": "Can I see the menu, please?"},
+        {"type": "me", "sentence": "Here you go. What do you recommend?"},
+        {"type": "you", "sentence": "The grilled chicken is good. Is it spicy?"},
+        {"type": "me", "sentence": "A little. Can I have some water with it?"},
+        {"type": "you", "sentence": "Still or sparkling?"},
+        {"type": "me", "sentence": "Still water, please. Can you make it quick?"},
+        {"type": "you", "sentence": "Sure, we’ll hurry. How much is the bill?"},
+        {"type": "me", "sentence": "It’s 15 dollars. Can I pay by card?"},
+        {"type": "you", "sentence": "Yes, here’s the machine. Enjoy your meal!"},
+        {"type": "me", "sentence": "The food was delicious! Thanks!"}
+      ],
+      "discussion": "Choosing a meal and ensuring it’s not too spicy."
+    },
+    {
+      "topic": "Work and Study",
+      "story": [
+        {"type": "you", "sentence": "What do you do for a living?"},
+        {"type": "me", "sentence": "I’m a student. What’s your major?"},
+        {"type": "you", "sentence": "Computer science. How’s your homework going?"},
+        {"type": "me", "sentence": "It’s tough. Can you help me with this?"},
+        {"type": "you", "sentence": "Sure, what do you need? When’s the deadline?"},
+        {"type": "me", "sentence": "It’s due tomorrow. Do you have a part-time job?"},
+        {"type": "you", "sentence": "Yes, I work at a café. How much do you earn?"},
+        {"type": "me", "sentence": "I don’t work yet. Thanks for the help!"},
+        {"type": "you", "sentence": "No problem. Good luck!"}
+      ],
+      "discussion": "Helping with homework and discussing work options."
+    },
+    {
+      "topic": "Weather",
+      "story": [
+        {"type": "you", "sentence": "How’s the weather today?"},
+        {"type": "me", "sentence": "It’s sunny and warm. Is it going to rain?"},
+        {"type": "you", "sentence": "No, it’ll be cloudy later. What’s the temperature?"},
+        {"type": "me", "sentence": "It’s 25 degrees Celsius. Should we go outside?"},
+        {"type": "you", "sentence": "Yes, the sun is shining brightly!"},
+        {"type": "me", "sentence": "Great, let’s go for a walk. Do you like rainy days?"},
+        {"type": "you", "sentence": "Not really, I prefer this weather. Is it humid?"},
+        {"type": "me", "sentence": "A little, but it’s fine. Enjoy the day!"}
+      ],
+      "discussion": "Planning an outing based on the weather."
+    },
+    {
+      "topic": "Health",
+      "story": [
+        {"type": "you", "sentence": "How are you feeling?"},
+        {"type": "me", "sentence": "I feel sick today. Do you have a fever?"},
+        {"type": "you", "sentence": "Yes, I’m a bit hot. Where does it hurt?"},
+        {"type": "me", "sentence": "My head hurts. Should I see a doctor?"},
+        {"type": "you", "sentence": "Yes, you should. Have you taken medicine?"},
+        {"type": "me", "sentence": "Not yet. How long have you been sick?"},
+        {"type": "you", "sentence": "Since yesterday. Rest more, okay?"},
+        {"type": "me", "sentence": "I will. Thanks for checking!"}
+      ],
+      "discussion": "Checking on someone’s health and suggesting a doctor visit."
+    },
+    {
+      "topic": "Socializing",
+      "story": [
+        {"type": "you", "sentence": "What are you doing tonight?"},
+        {"type": "me", "sentence": "I’m going to a movie. Want to join me?"},
+        {"type": "you", "sentence": "Sure, that sounds fun! What time should we meet?"},
+        {"type": "me", "sentence": "How about 7 PM? What’s your favorite movie?"},
+        {"type": "you", "sentence": "I love action films. Should we take a photo?"},
+        {"type": "me", "sentence": "Yes, let’s do it! Did you have fun last time?"},
+        {"type": "you", "sentence": "Yes, it was great. Can I call you later?"},
+        {"type": "me", "sentence": "Sure, anytime. See you tonight!"}
+      ],
+      "discussion": "Planning a movie night with a friend."
+    },
+    {
+      "topic": "Technology",
+      "story": [
+        {"type": "you", "sentence": "My laptop is so slow."},
+        {"type": "me", "sentence": "Maybe restart it. Is your phone working?"},
+        {"type": "you", "sentence": "Yes, it’s fine. How do I connect to Wi-Fi?"},
+        {"type": "me", "sentence": "Enter this password. Do you use social media?"},
+        {"type": "you", "sentence": "Yes, I’m on Facebook. Can you send me a file?"},
+        {"type": "me", "sentence": "Sure, I’ll email it. Is the internet slow?"},
+        {"type": "you", "sentence": "Yes, it’s lagging. How do I update this?"},
+        {"type": "me", "sentence": "Go to settings. Fixed now?"},
+        {"type": "you", "sentence": "Yes, thanks!"}
+      ],
+      "discussion": "Troubleshooting a slow laptop and internet issues."
+    },
+    {
+      "topic": "General Questions",
+      "story": [
+        {"type": "you", "sentence": "What time is it?"},
+        {"type": "me", "sentence": "It’s 3 PM now. Why are you late?"},
+        {"type": "you", "sentence": "Traffic was bad. What does this word mean?"},
+        {"type": "me", "sentence": "It means ‘hello’ in Spanish. How do you spell that?"},
+        {"type": "you", "sentence": "H-O-L-A. Can I ask a question?"},
+        {"type": "me", "sentence": "Of course, go ahead. What’s your favorite color?"},
+        {"type": "you", "sentence": "I like blue. How was your day?"},
+        {"type": "me", "sentence": "Pretty good. Do you need help with anything?"},
+        {"type": "you", "sentence": "No, just curious. Thanks!"}
+      ],
+      "discussion": "Catching up and clarifying a word’s meaning."
+    }
+  ]
+}
