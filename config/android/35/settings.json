@@ -1,0 +1,145 @@
+{
+    "version" : "34",
+    "langapp": [
+    {"code": "en", "name": "English", "flag": "🇬🇧", "country": "United Kingdom"},
+    {"code": "zh", "name": "中文", "flag": "🇨🇳", "country": "China"},
+    {"code": "nl", "name": "Nederlands", "flag": "🇳🇱", "country": "Netherlands"},
+    {"code": "fr", "name": "Français", "flag": "🇫🇷", "country": "France"},
+    {"code": "de", "name": "Deutsch", "flag": "🇩🇪", "country": "Germany"},
+    {"code": "id", "name": "Bahasa Indonesia", "flag": "🇮🇩", "country": "Indonesia"},
+    {"code": "it", "name": "Italiano", "flag": "🇮🇹", "country": "Italy"},
+    {"code": "ja", "name": "日本語", "flag": "🇯🇵", "country": "Japan"},
+    {"code": "no", "name": "Norsk", "flag": "🇳🇴", "country": "Norway"},
+    {"code": "pl", "name": "Polski", "flag": "🇵🇱", "country": "Poland"},
+    {"code": "pt", "name": "Português", "flag": "🇵🇹", "country": "Portugal"},
+    {"code": "es", "name": "Español", "flag": "🇪🇸", "country": "Spain"},
+    {"code": "sv", "name": "Svenska", "flag": "🇸🇪", "country": "Sweden"},
+    {"code": "ar", "name": "العربية", "flag": "🇸🇦", "country": "Saudi Arabia"},
+    {"code": "bn", "name": "বাংলা", "flag": "🇧🇩", "country": "Bangladesh"},
+    {"code": "cs", "name": "Čeština", "flag": "🇨🇿", "country": "Czech Republic"},
+    {"code": "da", "name": "Dansk", "flag": "🇩🇰", "country": "Denmark"},
+    {"code": "ko", "name": "한국어", "flag": "🇰🇷", "country": "South Korea"},
+    {"code": "ms", "name": "Bahasa Melayu", "flag": "🇲🇾", "country": "Malaysia"},
+    {"code": "hi", "name": "हिन्दी", "flag": "🇮🇳", "country": "India"},
+    {"code": "ru", "name": "Русский", "flag": "🇷🇺", "country": "Russia"},
+    {"code": "th", "name": "ไทย", "flag": "🇹🇭", "country": "Thailand"},
+    {"code": "tr", "name": "Türkçe", "flag": "🇹🇷", "country": "Turkey"},
+    {"code": "uk", "name": "Українська", "flag": "🇺🇦", "country": "Ukraine"},
+    {"code": "ur", "name": "اردو", "flag": "🇵🇰", "country": "Pakistan"},
+    {"code": "vi", "name": "Tiếng Việt", "flag": "🇻🇳", "country": "Vietnam"}
+],
+    "langvoice":[
+        {"code": "en-US", "name": "English (United States)", "flag": "🇺🇸"},
+        {"code": "en-GB", "name": "English (United Kingdom)", "flag": "🇬🇧"}
+
+    ],
+    "ads":{
+        "limitAdsTime": 300000,
+        "mute": true,
+        "admob": {
+            "enable": true,
+            "app_id": "ca-app-pub-7223114719058225~1138249478",
+            "banner": "ca-app-pub-7223114719058225/6647319349",
+            "interstitial": "ca-app-pub-7223114719058225/3302970704",
+            "interstitialVideo": "ca-app-pub-7223114719058225/9154063184",
+            "rewardVideo": "ca-app-pub-7223114719058225/4967976989",
+            "nativeExpress": "",
+            "showVideoAdPercent": 100,
+            "showIntertisialPercent": 20,
+            "nativeAdvance": "ca-app-pub-7223114719058225/1253799545",
+            "showBanner": true,
+            "showNativeAdvance": true,
+            "showInterstitial": true,
+            "showInterstitialvideo": true,
+            "ecmp": "22"
+        },
+        "house_ads": {
+            "config": "https://raw.githubusercontent.com/novelland/image/master/ads.json",
+            "ecmp": "1.5",
+            "enable": false
+        },
+        "unity_ads": {
+            "enable": false,
+            "game_id": "5802042",
+            "banner": "Banner_Android",
+            "interstitial": "Interstitial_Android",
+            "ecmp": "9"
+        }
+    },
+    "payments": {
+        "crypto":{
+            "url": ""
+        }
+    },
+    "services": [
+        {
+            "name": "OpenAI",
+            "api-key": "",
+            "model": [
+              "gpt-4o"
+            ],
+            "docs": "https://platform.openai.com/api-keys",
+            "free": false
+          },
+          {
+            "name": "xAI",
+            "baseUrl": "https://api.x.ai/v1",
+            "api-key": "",
+            "model": [
+              "grok-beta"
+            ],
+            "docs": "https://docs.x.ai/docs/overview#featured-models",
+            "free": false
+          },
+          {
+            "name": "OpenRouter",
+            "api-key": "MoLyzewTt2LC4JKsape0aw==:gdWy7N+nlnrcIyP58eVbTyZzy/sqKyi0HdvGYIEJaR4/f/AM2ISCEorSn4ctQ/aBtP5TeWnscXSBSe6n3eV7RtAG3XFBryvJVx5x47Z2FW0=",
+            "model": [
+              "meta-llama/llama-3.3-70b-instruct"
+            ],
+            "baseUrl": "https://openrouter.ai/api/v1",
+            "docs": "https://openrouter.ai/settings/keys",
+            "free": true
+          },
+          {
+            "name": "GitHub",
+            "baseUrl": "https://models.inference.ai.azure.com",
+            "api-key": "",
+            "model": [
+              "Phi-3.5-MoE-instruct"
+            ],
+            "docs": "https://github.com/settings/tokens",
+            "free": false
+          },
+          {
+            "name": "Google Gemini",
+            "api-key": "sQOUxBYiYMIwcs0PL/nftA==:Lc1mkJctp/wVGbcLLmeBJKTNuaV5x7rLSTR3DfHoWu7hPL1TFKE+le4Q5di9cIK/",
+            "model": [
+              "gemini-1.5-flash-002"
+            ],
+            "docs": "https://aistudio.google.com/apikey",
+            "free": true
+          },
+          {
+            "name": "Anthropic",
+            "api-key": "",
+            "model": [
+              "claude-3-opus-20240229"
+            ],
+            "docs": "https://console.anthropic.com/settings/keys",
+            "free": false
+          }
+      ],
+      "inapp" : {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "share_url": "https://play.google.com/store/apps/details?id=com.tls.english",
+        "update": {
+          "versionCode": 20,
+          "link": "",
+          "description": "1.0.1",
+          "size": 18000,
+          "packagename": "com.tls.english",
+          "forceUpdate": true
+        }
+      }
+}
